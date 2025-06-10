@@ -1,0 +1,7 @@
+{
+  "name": "Student Management & AI Analysis Tool",
+  "description": "An application to search for students, view their details, manage placement tests, and leverage Gemini AI for analysis and suggestions. This tool interacts with FSEL APIs for student data and uses Gemini for advanced insights.",
+  "version": "1.5.1.3",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

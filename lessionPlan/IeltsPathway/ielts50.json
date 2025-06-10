@@ -1,0 +1,1006 @@
+
+{
+  "tong_quan_ve_khoa_hoc": {
+    "course_name": "Luyện thi IELTS - IELTS Pathway 5.0+",
+    "level_CEFR": "B1",
+    "level_name": "Trung cấp (Target 5.0+)",
+    "doi_tuong_muc_tieu": {
+      "do_tuoi": "Học sinh từ 14 tuổi trở lên",
+      "trinh_do_dau_vao": "Học sinh đã có kiến thức tiếng Anh trung cấp cơ bản (tương đương CEFR B1) và có mục tiêu luyện thi IELTS, đặc biệt là hướng tới band điểm 5.0+.",
+      "ly_do_hoc_tap_pho_bien": [
+        "Xây dựng nền tảng vững chắc về kiến thức và kỹ năng tiếng Anh học thuật để chuẩn bị cho kỳ thi IELTS (mục tiêu 5.0+).",
+        "Làm quen và thực hành các dạng bài thi IELTS chính thức trong các kỹ năng Nghe, Nói, Đọc, Viết.",
+        "Phát triển chiến lược làm bài hiệu quả cho từng phần của kỳ thi IELTS.",
+        "Cải thiện khả năng sử dụng tiếng Anh một cách có hệ thống, tự tin trong cả ngữ cảnh học thuật và giao tiếp."
+      ]
+    },
+    "muc_tieu_dau_ra_chung_khoa_hoc": {
+      "mo_ta_chung": "Sau khi hoàn thành khóa học, học viên sẽ đạt được năng lực tiếng Anh tương ứng với cấp độ Trung cấp (CEFR B1), với nền tảng kiến thức và chiến lược cần thiết để đạt band điểm IELTS 5.0 trở lên. Học viên sẽ có khả năng hiểu các thông tin chính, diễn đạt ý tưởng và tham gia các cuộc hội thoại tương đối phức tạp về các chủ đề quen thuộc và học thuật cơ bản.",
+      "chi_tiet_ky_nang": [
+        "Nghe: Hiểu được ý chính và một số chi tiết trong các bài hội thoại, bài giảng ngắn về các chủ đề quen thuộc. Nắm bắt được mục đích và thái độ của người nói. Phát triển các kỹ năng nghe theo định dạng IELTS (nhận diện thông tin cụ thể, đa lựa chọn...).",
+        "Nói tương tác: Có khả năng giao tiếp và trao đổi thông tin về các chủ đề quen thuộc một cách rõ ràng và tương đối mạch lạc. Trình bày ý kiến và giải thích đơn giản. Thực hành các dạng nói trong Part 1, 2, 3 của IELTS.",
+        "Nói độc thoại: Miêu tả, kể chuyện, trình bày các chủ đề đã biết một cách có cấu trúc, sử dụng từ vựng và ngữ pháp đa dạng ở mức độ B1. Phát triển khả năng trình bày ý tưởng mở rộng như trong IELTS Speaking Part 2.",
+        "Đọc: Hiểu ý chính và chi tiết các văn bản đa dạng (bài báo, quảng cáo, văn bản học thuật đơn giản) liên quan đến các chủ đề quen thuộc và học thuật. Nắm vững các kỹ năng đọc như Skimming, Scanning, đoán nghĩa từ. Làm quen với các dạng bài đọc IELTS.",
+        "Viết: Viết các văn bản ngắn, có cấu trúc chặt chẽ (đoạn văn, bài luận cơ bản) về các chủ đề quen thuộc, biết cách trình bày quan điểm và cung cấp lý do. Thực hành các dạng bài IELTS Writing Task 1 (miêu tả biểu đồ, bản đồ) và Task 2 (bài luận trình bày quan điểm)."
+      ]
+    },
+    "so_luong_hoa_dau_ra_kien_thuc_du_kien": {
+      "total_estimated_new_vocabulary": "Khoảng 600 - 800 từ vựng và cụm từ mới, bao gồm từ vựng chung, từ vựng học thuật (Academic Word List cơ bản) và các từ vựng theo chủ đề cụ thể của IELTS.",
+      "total_tenses_learned": [
+        "Thì Hiện tại đơn (Present Simple)",
+        "Thì Hiện tại tiếp diễn (Present Continuous)",
+        "Thì Quá khứ đơn (Past Simple - động từ thường, bất quy tắc, 'to be')",
+        "Thì Hiện tại hoàn thành (Present Perfect)",
+        "Thì Tương lai (Future forms: will, going to)"
+      ],
+      "total_core_grammar_patterns": [
+        "So sánh hơn và so sánh nhất (Comparative and Superlative adjectives)",
+        "Câu điều kiện loại 0 và loại 1 (Zero and First Conditional)",
+        "Thì Quá khứ đơn và Hiện tại hoàn thành (phân biệt sử dụng)",
+        "Thể bị động (Passive voice)",
+        "Giới từ chỉ nơi chốn và thời gian (Prepositions of place and time)",
+        "Từ nối và các cấu trúc liên kết ý tưởng (Linking words and phrases for coherence and cohesion)",
+        "Câu phức với mệnh đề quan hệ cơ bản (Basic relative clauses)",
+        "Động từ khuyết thiếu (Modals for possibility, probability, advice, obligation)",
+        "Cụm động từ (Phrasal verbs)",
+        "Danh từ đếm được và không đếm được, lượng từ (Countable/uncountable nouns, quantifiers)",
+        "Mạo từ (Articles)"
+      ],
+      "total_real_world_situations": "Khoảng 30-40 tình huống giao tiếp và phân tích trong ngữ cảnh học thuật và đời sống, được mô phỏng theo cấu trúc đề thi IELTS, giúp học viên áp dụng lý thuyết vào thực hành thi và giao tiếp."
+    },
+    "cau_truc_va_thoi_luong_khoa_hoc": {
+      "total_units_count": 8,
+      "typical_lessons_per_unit": "4 (thông thường 3-4 bài học kỹ năng/nội dung chuyên biệt và 1 buổi kiểm tra/ôn luyện)",
+      "estimated_hours_per_lesson": "2.5 giờ",
+      "total_estimated_learning_hours": "Khoảng 92 giờ (32 video bài giảng chính, 8 bài kiểm tra kỹ năng đơn lẻ, và 2 bài thi thử IELTS đầy đủ 4 kỹ năng)."
+    },
+    "danh_gia_tong_the_va_ket_luan": {
+      "diem_manh_lo_trinh": [
+        "Cấu trúc khóa học rõ ràng, bài bản, tập trung sâu vào từng kỹ năng Nghe, Nói, Đọc, Viết theo từng dạng bài cụ thể của IELTS.",
+        "Sử dụng giáo trình Mindset for IELTS của Cambridge University Press, đảm bảo nội dung chất lượng cao và sát với định dạng thi thực tế.",
+        "Kết hợp hiệu quả giữa học kiến thức nền (ngữ pháp, từ vựng) với chiến lược làm bài thi IELTS, giúp học viên phát triển toàn diện.",
+        "Có hệ thống bài kiểm tra định kỳ (skill tests) và thi thử đầy đủ (mock tests) để đánh giá chính xác tiến độ và chuẩn bị tâm lý thi.",
+        "Tích hợp luyện tập về từ vựng học thuật và ngữ pháp chuyên sâu cho IELTS, nâng cao khả năng ngôn ngữ tổng thể của học viên.",
+        "Mô hình học kết hợp (blended learning) với video bài giảng tương tác và bài tập CLMS tạo sự linh hoạt và cơ hội thực hành phong phú."
+      ],
+      "su_phu_hop_voi_muc_tieu_khoa_hoc": "Lộ trình này hoàn toàn phù hợp với mục tiêu Luyện thi IELTS - IELTS Pathway (Target 5.0+). Chương trình được thiết kế tập trung vào việc phát triển các kỹ năng và chiến lược làm bài thi IELTS, cung cấp kiến thức nền tảng vững chắc và định hướng rõ ràng để học viên đạt được mục tiêu band điểm đã đề ra.",
+      "su_chuan_bi_for_higher_levels": [
+        "Xây dựng nền tảng vững chắc về format bài thi, từ vựng và ngữ pháp IELTS, là tiền đề quan trọng cho việc học lên các band điểm cao hơn (6.0+, 7.0+).",
+        "Rèn luyện các kỹ năng đọc hiểu học thuật, viết bài luận có cấu trúc, và kỹ năng giao tiếp học thuật, những yếu tố cần thiết cho các chương trình học thuật hoặc du học.",
+        "Hệ thống các bài kiểm tra và thi thử giúp học viên làm quen với áp lực thi cử, quản lý thời gian và nâng cao khả năng tự tin khi đối mặt với kỳ thi IELTS chính thức và các kỳ thi chuẩn hóa quốc tế khác."
+      ],
+      "professional_expert_assessment": {
+        "evaluation_based_on_six_components": {
+          "listening_assessment": "Khóa học tập trung cao độ vào việc phát triển kỹ năng nghe theo dạng bài IELTS cụ thể (Short answer, Multiple choice, Flow-chart completion). Học viên được rèn luyện các chiến lược nghe hiệu quả như nhận diện từ gây nhiễu, paraphrase, và sử dụng từ tín hiệu. Điều này giúp học viên không chỉ nghe hiểu thông tin mà còn làm chủ kỹ thuật làm bài thi Listening.",
+          "speaking_assessment": "Khóa học phân bổ thời lượng đáng kể cho Speaking (Part 1, 2, 3), đặc biệt nhấn mạnh vào việc mở rộng câu trả lời, tổ chức bài nói, và sử dụng ngôn ngữ diễn đạt quan điểm, lý do. Các buổi 'Speaking mock test' được chấm điểm giúp học viên nhận phản hồi chi tiết, cải thiện độ trôi chảy, ngữ điệu và phát triển ý tưởng phù hợp với yêu cầu của IELTS.",
+          "reading_assessment": "Mỗi Unit đều có một Lesson tập trung vào Reading, bao gồm các dạng bài quan trọng như Short answer questions, Sentence completion, Matching headings, True/False/Not Given. Học viên được trang bị các kỹ thuật đọc chiến lược (skimming, scanning, paraphrase) và vốn từ vựng học thuật để nâng cao tốc độ và độ chính xác khi đọc hiểu các văn bản phức tạp kiểu IELTS.",
+          "writing_assessment": "Phần Writing được thiết kế bài bản với nhiều dạng bài Task 1 (miêu tả quy trình, bản đồ, biểu đồ) và Task 2 (Agree/Disagree, Discussion, Problems and solutions). Học viên học cách tổ chức bài viết, sử dụng từ nối, liên kết ý tưởng và các cấu trúc ngữ pháp phức tạp. Các bài 'Writing mock test' chấm điểm rất quan trọng để học viên nhận biết điểm yếu và cải thiện.",
+          "vocabulary_assessment": "Từ vựng được tích lũy theo từng chủ đề bài thi IELTS (Relationships, Places and buildings, Education and employment, Food and drink, Consumerism, Leisure time, Fame and the media, Natural World). Khóa học không chỉ giới thiệu từ mới mà còn nhấn mạnh collocations, synonyms, và paraphrases, giúp học viên phát triển vốn từ vựng đa dạng, phong phú, và chính xác, đặc biệt là trong ngữ cảnh học thuật và thi IELTS.",
+          "grammar_assessment": "Ngữ pháp được lồng ghép chặt chẽ trong từng kỹ năng và chủ đề. Học viên được học các thì cơ bản và nâng cao (Present simple, Past simple, Present perfect, Future forms, Passive voice), các cấu trúc so sánh, câu điều kiện (loại 1, 2), động từ khuyết thiếu diễn đạt nghĩa vụ/gợi ý, và các từ nối để liên kết ý tưởng. Việc tập trung vào 'Language focus' cụ thể trong từng bài học giúp học viên củng cố các cấu trúc cần thiết cho việc sản sinh ngôn ngữ phức tạp và chính xác trong IELTS B1/IELTS 5.0."
+        },
+        "swot_analysis": {
+          "strengths": [
+            "Lộ trình được thiết kế chuyên biệt cho IELTS 5.0+, với cấu trúc rõ ràng, giúp học viên định hướng và chuẩn bị tốt nhất cho kỳ thi.",
+            "Tập trung vào phát triển các kỹ năng làm bài thi IELTS cụ thể (Skimming, Scanning, identifying distractors, organizing ideas), không chỉ đơn thuần là kiến thức ngôn ngữ.",
+            "Sử dụng giáo trình 'Mindset for IELTS' của Cambridge, một nguồn tài liệu đáng tin cậy và sát với đề thi thật.",
+            "Hệ thống bài kiểm tra (kỹ năng, mock tests graded) giúp theo dõi tiến độ chi tiết và cung cấp phản hồi quan trọng.",
+            "Tích hợp luyện tập về từ vựng học thuật và ngữ pháp chuyên sâu cho IELTS, nâng cao khả năng ngôn ngữ tổng thể của học viên.",
+            "Đảm bảo các buổi học và kiểm tra về đủ 4 kỹ năng (Nghe, Nói, Đọc, Viết) được thực hiện một cách cân bằng và hệ thống."
+          ],
+          "weaknesses": [
+            "Thời lượng học có hướng dẫn là 92 giờ có vẻ tương đối ngắn để từ trình độ B1 nền tảng vững chắc đạt mục tiêu IELTS 5.0+ một cách toàn diện cho một số học viên cần sự củng cố sâu hơn.",
+            "Mặc dù có 'Mindset for IELTS', nhưng thiếu chi tiết hơn về các chiến lược cụ thể hoặc nội dung mở rộng (ví dụ: các bài tập khó hơn, tài liệu bổ trợ chuyên sâu).",
+            "Mục 'Lesson stage checklist' không được mô tả cụ thể cho từng bài học, có thể dẫn đến việc truyền tải nội dung chưa thực sự nhất quán giữa các học phần nếu thiếu hướng dẫn cụ thể từ giảng viên.",
+            "Thông tin về các công cụ kỹ thuật số (AI-powered platform) còn chung chung, chưa làm nổi bật cách AI hỗ trợ trực tiếp việc học và chấm điểm bài tập."
+          ],
+          "opportunities": [
+            "Khả năng mở rộng và phát triển nội dung chuyên sâu hơn cho các band điểm cao hơn (6.0+, 7.0+) trên nền tảng khóa học hiện tại.",
+            "Tích hợp các tính năng AI mạnh mẽ hơn cho phần 'Forum assignment' để cung cấp phản hồi tức thì và cá nhân hóa cho bài nói và bài viết.",
+            "Phát triển thêm các tài liệu bổ trợ, ví dụ và bài tập nâng cao cho từng kỹ năng để đáp ứng nhu cầu đa dạng của học viên muốn vượt qua 6.0+.",
+            "Tận dụng dữ liệu từ các bài mock test để phân tích điểm mạnh/điểm yếu của từng học viên, đưa ra lộ trình học tập cá nhân hóa sâu sắc hơn."
+          ],
+          "threats": [
+            "Sự cạnh tranh gay gắt từ các trung tâm và nền tảng luyện thi IELTS khác, có thể cung cấp các gói học có thời lượng lớn hơn hoặc mức độ cá nhân hóa cao hơn.",
+            "Nếu học viên không tự giác hoàn thành bài tập CLMS và không tích cực luyện tập thêm, hiệu quả của khóa học có thể bị hạn chế, đặc biệt khi khóa học chú trọng luyện thi.",
+            "Rủi ro về chất lượng phản hồi từ các bài 'graded mock test' nếu hệ thống hoặc giáo viên không duy trì tính nhất quán và chi tiết.",
+            "Thay đổi trong định dạng hoặc yêu cầu của kỳ thi IELTS có thể đòi hỏi cập nhật liên tục nội dung khóa học, nếu không sẽ làm giảm tính cập nhật của chương trình."
+          ]
+        }
+      }
+    }
+  },
+  "chi_tiet_ve_khoa_hoc": {
+    "lesson_structure_and_objectives": {
+      "checklist_steps_description": [
+        {"buoc": "Mở đầu bài học (Introduction)", "muc_dich": "Thu hút sự chú ý, kích hoạt kiến thức nền và giới thiệu mục tiêu bài học."},
+        {"buoc": "Phát triển từ vựng và chiến lược (Vocabulary and Strategy Development)", "muc_dich": "Cung cấp từ vựng, cụm từ và chiến lược làm bài cụ thể cho từng kỹ năng IELTS."},
+        {"buoc": "Thực hành kỹ năng chính (Core Skill Practice)", "muc_dich": "Tập trung vào các dạng bài thi IELTS thông qua bài tập thực hành nghe, đọc, nói, viết."},
+        {"buoc": "Phân tích và củng cố ngữ pháp (Grammar Analysis and Consolidation)", "muc_dich": "Khai thác và thực hành các điểm ngữ pháp quan trọng liên quan đến chủ đề và kỹ năng."},
+        {"buoc": "Phản hồi và chỉnh sửa (Feedback and Correction)", "muc_dich": "Đánh giá và đưa ra nhận xét về các lỗi phổ biến, cải thiện độ chính xác."},
+        {"buoc": "Mô hình hóa nhiệm vụ sản sinh (Model Production Tasks)", "muc_dich": "Hướng dẫn cách tạo ra sản phẩm ngôn ngữ (bài nói/bài viết) đạt chuẩn."},
+        {"buoc": "Thực hành nâng cao và ứng dụng (Extended Practice and Application)", "muc_dich": "Tạo điều kiện cho học viên áp dụng kiến thức vào các nhiệm vụ thực tế và bài tập kiểm tra."}
+      ],
+      "vai_tro_lesson_stage_checklist": "Danh sách các bước trong bài học này (dù không được liệt kê tường minh cho từng bài học trong tài liệu cụ thể này) đảm bảo tính hệ thống, tuần tự logic và toàn diện trong quá trình tiếp thu ngôn ngữ. Chúng phản ánh một khung sườn có cấu trúc cho mỗi bài học, tối ưu hóa việc dạy và học các kỹ năng ngôn ngữ từ cơ bản đến nâng cao theo định hướng luyện thi IELTS. Mục tiêu là giúp học viên không chỉ nắm vững kiến thức mà còn biết cách áp dụng hiệu quả vào bài thi thực tế."
+    },
+    "teaching_methodology_and_tools": {
+      "checklist_role": "Đảm bảo tính hệ thống, tuần tự logic, toàn diện và hiệu quả trong quá trình tiếp thu ngôn ngữ bằng cách cung cấp một khung sườn có cấu trúc cho mỗi bài học, từ giới thiệu, phát triển kiến thức, thực hành đến đánh giá.",
+      "blended_learning_approach": "Việc kết hợp học có hướng dẫn (qua video bài giảng và các kỹ thuật/chiến lược IELTS trong 'Lesson Objectives') giúp học viên nắm vững lý thuyết và các dạng bài. Thực hành tự do qua các bài tập tương ứng trên hệ thống CLMS (Central Learning Management System) và đặc biệt là các 'Test Practice' (Graded) thúc đẩy khả năng ứng dụng, củng cố và cá nhân hóa trải nghiệm học, đảm bảo cả độ chính xác và sự trôi chảy. Tài liệu cũng nhấn mạnh việc sử dụng giáo trình 'Mindset for IELTS' của Cambridge, một giáo trình được thiết kế chuyên biệt cho việc luyện thi, củng cố thêm cách tiếp cận học kết hợp hiệu quả.",
+      "assessment_and_reinforcement": {
+        "homework_workbook": "Mỗi bài học đều có bài tập 'Corresponding unit/skill exercises on CLMS' làm bài tập về nhà, đây là công cụ chính để củng cố kiến thức đã học, rèn luyện kỹ năng và chuẩn bị cho các bài kiểm tra.",
+        "progress_test": "Hệ thống bao gồm '8 bài kiểm tra kỹ năng đơn' (Skill Tests), và '2 bài thi thử đầy đủ 4 kỹ năng' (Full Mock Tests). Các bài 'M Test Practice' (Reading mock test, Writing mock test (Graded), Speaking mock test (Graded), Listening mock test) và 'END OF COURSE FULL MOCK TEST ON PLATFORM (NOT GUIDED)' đóng vai trò quan trọng trong việc đánh giá định kỳ và tổng kết, giúp học viên theo dõi tiến độ và làm quen với áp lực thi thực tế."
+      },
+      "digital_tools_integration": {
+        "bai_giang_video_tuong_tac": "32 video bài giảng là phương tiện cốt lõi để truyền tải nội dung khóa học. Video tương tác mang đến sự linh hoạt, giúp học viên tiếp thu kiến thức một cách trực quan, đồng thời cho phép tự điều chỉnh tốc độ và xem lại theo nhu cầu cá nhân, phù hợp với các chiến lược học và mục tiêu kỹ năng của từng bài.",
+        "dien_dan_lop_hoc_cung_AI": "Mặc dù tài liệu không liệt kê rõ ràng 'diễn đàn lớp học cùng AI' như một 'Forum assignment' riêng lẻ cho từng lesson, nhưng việc có các bài kiểm tra nói và viết 'Graded' trên nền tảng (CLMS) cho thấy khả năng tích hợp công nghệ. Đây là nơi học viên có thể nộp bài, nhận phản hồi, và có thể tương tác (tùy vào tính năng của nền tảng). Điều này khuyến khích học viên chủ động luyện tập các kỹ năng sản sinh (nói và viết), đồng thời tận dụng tiềm năng AI để cải thiện hiệu quả học tập."
+      },
+      "personalization_features": [
+        "Khóa học được chia thành 3 cấp độ phổ biến (5.0+, 6.0+, 7.0+), cho phép học viên lựa chọn cấp độ phù hợp với mục tiêu và năng lực ban đầu.",
+        "Thời gian học linh hoạt ('2.5 giờ cho mỗi bài học' có thể là hướng dẫn chung, nhưng việc học online qua video bài giảng có thể giúp cá nhân tự điều chỉnh tốc độ).",
+        "Có nhiều bài kiểm tra kỹ năng đơn lẻ, giúp học viên và hệ thống theo dõi được điểm mạnh/điểm yếu ở từng kỹ năng để tập trung cải thiện.",
+        "Việc sử dụng giáo trình Mindset for IELTS cho phép người học phát triển các kỹ năng và chiến lược cụ thể, tập trung vào nhu cầu luyện thi của bản thân."
+      ]
+    },
+    "units_va_lessons": [
+      {
+        "unit_so": 1,
+        "unit_ten_chu_de_chinh_bao_quat": "Mối quan hệ và thông tin cá nhân",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Gia đình và người thân", "Tính từ và danh từ mô tả tính cách"],
+          "estimated_new_words": 30,
+          "key_grammar_points": ["Thì hiện tại đơn (Present simple)", "Trạng từ tần suất (Adverbs of frequency)", "Collocations với tính từ/danh từ"],
+          "tenses_covered": ["Thì Hiện tại đơn"],
+          "notable_sentence_patterns": [
+            "What do you often do with your family?",
+            "She's a reliable person.",
+            "I always go out on Sundays."
+          ]
+        },
+        "unit_skill_objectives": "Phát triển kỹ năng đọc hiểu câu trả lời ngắn, nói về gia đình và bạn bè, xác định chi tiết trong văn bản, và nắm vững các từ vựng mô tả mối quan hệ, tính cách.",
+        "unit_real_world_situations": ["Thảo luận về các mối quan hệ cá nhân (gia đình, bạn bè).", "Miêu tả tính cách của con người.", "Hỏi và trả lời thông tin cá nhân."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "1",
+            "lesson_name": "Reading",
+            "main_skills": ["Kỹ năng Đọc", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập đọc dạng câu hỏi ngắn (short answer questions) trong IELTS. Tập trung vào từ vựng mô tả gia đình và người thân.",
+            "vocabulary_focus": "Từ vựng về gia đình",
+            "grammar_focus": "Thì hiện tại đơn; Trạng từ tần suất",
+            "real_world_context": "Thực hành kỹ năng xác định từ khóa và thông tin chi tiết trong văn bản.",
+            "lesson_checklist_steps": [
+              "Giới thiệu bài học, mục tiêu và từ vựng chủ đề.",
+              "Hướng dẫn chiến lược làm bài Short Answer Questions.",
+              "Thực hành với bài đọc mẫu (ví dụ: về một gia đình đặc biệt).",
+              "Phân tích câu trả lời, lỗi thường gặp và cách cải thiện.",
+              "Bài tập củng cố và mở rộng từ vựng."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "2",
+            "lesson_name": "Writing",
+            "main_skills": ["Kỹ năng Viết"],
+            "topic_content": "Hướng dẫn cách mô tả một quy trình (describing a process) trong Writing Task 1. Tập trung vào hiểu sơ đồ và viết tổng quan/mở đầu.",
+            "vocabulary_focus": null,
+            "grammar_focus": "Các cụm từ diễn tả trình tự; Thể bị động thì hiện tại đơn (Present simple passive)",
+            "real_world_context": "Phân tích và mô tả các sơ đồ quy trình trong ngữ cảnh học thuật.",
+             "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Process Description Task 1.",
+              "Phân tích một quy trình mẫu (ví dụ: quy trình sản xuất xi măng).",
+              "Hướng dẫn cách viết câu tổng quan (overview statement).",
+              "Thực hành viết các bước chi tiết sử dụng từ nối và thể bị động.",
+              "Bài tập viết hoàn chỉnh một bài mô tả quy trình."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "3",
+            "lesson_name": "Listening",
+            "main_skills": ["Kỹ năng Nghe", "Phát âm"],
+            "topic_content": "Chiến lược làm bài tập nghe dạng trắc nghiệm (multiple choice - Part 1). Tập trung vào nhận diện người nói và lắng nghe số liệu.",
+            "vocabulary_focus": null,
+            "grammar_focus": "Cách phát âm số",
+            "real_world_context": "Luyện nghe thông tin cụ thể (tên, số điện thoại) trong các cuộc hội thoại đời thường.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Multiple Choice (Listening Part 1).",
+              "Chiến lược nghe: đọc trước câu hỏi, gạch chân từ khóa, nhận diện distractors.",
+              "Thực hành nghe các đoạn hội thoại mẫu.",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Luyện tập thêm về phát âm số và đánh vần tên."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "4",
+            "lesson_name": "Speaking",
+            "main_skills": ["Kỹ năng Nói", "Từ vựng"],
+            "topic_content": "Kỹ năng nói về gia đình (Part 1 IELTS Speaking). Tập trung vào trả lời và mở rộng câu trả lời.",
+            "vocabulary_focus": "Các collocations với tính từ và danh từ về gia đình; Trạng từ tần suất",
+            "grammar_focus": null,
+            "real_world_context": "Thực hành trả lời các câu hỏi phỏng vấn cá nhân về gia đình.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng câu hỏi Speaking Part 1 (chủ đề Gia đình).",
+              "Cách mở rộng câu trả lời (đưa ra lý do, ví dụ).",
+              "Thực hành trả lời các câu hỏi mẫu.",
+              "Luyện tập sử dụng từ vựng và collocations chủ đề gia đình.",
+              "Nhận xét và cải thiện cách diễn đạt."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "M",
+            "lesson_name": "Test Practice",
+            "main_skills": ["Kỹ năng Đọc", "Đánh giá kiến thức"],
+            "topic_content": "Bài thi thử kỹ năng Đọc IELTS (Reading mock test).",
+            "vocabulary_focus": "Từ vựng tổng hợp Unit 1",
+            "grammar_focus": "Ngữ pháp tổng hợp Unit 1",
+            "real_world_context": "Làm quen với áp lực thời gian và dạng bài thi Reading.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": null,
+            "homework_workbook_reference": "Reading mock test"
+          }
+        ]
+      },
+      {
+        "unit_so": 2,
+        "unit_ten_chu_de_chinh_bao_quat": "Địa điểm, kiến trúc và mô tả nơi chốn",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Miêu tả nhà và công trình", "Giới từ chỉ nơi chốn", "Từ vựng về bản đồ"],
+          "estimated_new_words": 35,
+          "key_grammar_points": ["Thì hiện tại đơn và Quá khứ đơn", "Giới từ chỉ nơi chốn"],
+          "tenses_covered": ["Thì Hiện tại đơn", "Thì Quá khứ đơn"],
+          "notable_sentence_patterns": [
+            "There have been significant changes...",
+            "It is located next to...",
+            "The building used to be..."
+          ]
+        },
+        "unit_skill_objectives": "Làm bài tập điền vào chỗ trống, mô tả bản đồ và địa điểm, phát triển kỹ năng đọc lướt/đọc quét, hiểu câu và paraphrase, và mô tả nhà cửa/địa điểm.",
+        "unit_real_world_situations": ["Miêu tả nơi sinh sống hoặc các công trình kiến trúc.", "Diễn đạt sự thay đổi của một địa điểm theo thời gian.", "Sử dụng từ vựng để định vị và miêu tả vị trí."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "5",
+            "lesson_name": "Reading",
+            "main_skills": ["Kỹ năng Đọc", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập điền vào chỗ trống (sentence completion). Tập trung vào kỹ thuật đọc lướt, đọc quét và hiểu paraphrase.",
+            "vocabulary_focus": "Từ vựng mô tả nhà cửa và công trình kiến trúc",
+            "grammar_focus": "Thì hiện tại đơn và Quá khứ đơn",
+            "real_world_context": "Thực hành nhận diện ý nghĩa tương đương của câu trong các văn bản.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Sentence Completion.",
+              "Chiến lược: đọc kỹ câu hỏi, xác định loại từ cần điền, tìm từ khóa trong bài đọc.",
+              "Thực hành với bài đọc mẫu (ví dụ: về một tòa nhà lịch sử).",
+              "Phân tích đáp án và cách paraphrase.",
+              "Bài tập củng cố và mở rộng từ vựng."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "6",
+            "lesson_name": "Writing",
+            "main_skills": ["Kỹ năng Viết"],
+            "topic_content": "Kỹ năng miêu tả bản đồ và địa điểm (Writing Task 1). Tập trung vào diễn tả sự thay đổi trên bản đồ.",
+            "vocabulary_focus": "Giới từ chỉ nơi chốn; Từ vựng cho nhiệm vụ mô tả bản đồ",
+            "grammar_focus": "Thì Quá khứ đơn (có quy tắc và bất quy tắc); Thể bị động (Past simple active and passive)",
+            "real_world_context": "Thực hành miêu tả và phân tích sự thay đổi của không gian địa lý.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Map Description Task 1.",
+              "Phân tích một bản đồ mẫu (ví dụ: sự thay đổi của một khu dân cư).",
+              "Hướng dẫn cách viết câu tổng quan và các đoạn thân bài miêu tả thay đổi.",
+              "Thực hành sử dụng giới từ và từ vựng mô tả vị trí/thay đổi.",
+              "Bài tập viết hoàn chỉnh một bài mô tả bản đồ."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "7",
+            "lesson_name": "Listening",
+            "main_skills": ["Kỹ năng Nghe", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập nghe dạng câu hỏi ngắn (Short answer questions - Part 1). Tập trung vào kỹ năng đánh vần tên, kiểm tra độ chính xác và hiểu các danh mục.",
+            "vocabulary_focus": "Từ vựng về các địa điểm trong thị trấn/thành phố",
+            "grammar_focus": null,
+            "real_world_context": "Luyện nghe để nắm bắt thông tin cụ thể liên quan đến địa điểm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Short Answer Questions (Listening Part 1).",
+              "Chiến lược nghe: đọc trước câu hỏi, giới hạn số từ cho phép, dự đoán loại thông tin.",
+              "Thực hành nghe các đoạn hội thoại mẫu (ví dụ: hỏi thông tin tại quầy lễ tân).",
+              "Phân tích đáp án, lưu ý về giới hạn từ và chính tả.",
+              "Luyện tập thêm về đánh vần và các từ vựng về địa điểm."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "8",
+            "lesson_name": "Speaking",
+            "main_skills": ["Kỹ năng Nói", "Từ vựng", "Ngữ pháp"],
+            "topic_content": "Kỹ năng nói về quê hương/nơi bạn sống (Part 1 IELTS Speaking). Tập trung vào khả năng sử dụng từ vựng đa dạng và chính xác.",
+            "vocabulary_focus": "Giới từ miêu tả thị trấn; Tính từ miêu tả thị trấn",
+            "grammar_focus": "Thì Hiện tại đơn, Hiện tại hoàn thành, Quá khứ đơn; Cách phát âm thì quá khứ",
+            "real_world_context": "Thực hành miêu tả và chia sẻ thông tin về nơi mình sinh sống.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng câu hỏi Speaking Part 1 (chủ đề Nơi ở/Quê hương).",
+              "Cách mở rộng câu trả lời một cách tự nhiên.",
+              "Thực hành trả lời các câu hỏi mẫu.",
+              "Luyện tập sử dụng từ vựng và ngữ pháp miêu tả địa điểm.",
+              "Nhận xét và cải thiện cách phát âm và ngữ điệu."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "M",
+            "lesson_name": "Test Practice",
+            "main_skills": ["Kỹ năng Viết", "Đánh giá kiến thức"],
+            "topic_content": "Bài thi thử kỹ năng Viết IELTS (Writing mock test - Graded).",
+            "vocabulary_focus": "Từ vựng tổng hợp Unit 2",
+            "grammar_focus": "Ngữ pháp tổng hợp Unit 2",
+            "real_world_context": "Làm quen với áp lực thời gian và yêu cầu của bài thi Writing Task 1 hoặc 2.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "Writing mock test (Graded)"
+          }
+        ]
+      },
+      {
+        "unit_so": 3,
+        "unit_ten_chu_de_chinh_bao_quat": "Giáo dục và việc làm",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Miêu tả công việc và khóa học", "Các trạng từ liên quan đến biểu đồ"],
+          "estimated_new_words": 30,
+          "key_grammar_points": ["Giới từ với số (trong biểu đồ)", "Tính từ miêu tả cảm xúc và trải nghiệm"],
+          "tenses_covered": ["Các thì đã học (để diễn đạt quá khứ/hiện tại liên quan đến công việc)"],
+          "notable_sentence_patterns": [
+            "The number increased by X% from... to...",
+            "How do you feel about...?",
+            "What kind of job...?"
+          ]
+        },
+        "unit_skill_objectives": "Phân tích và mô tả biểu đồ/đồ thị, làm bài tập điền vào chỗ trống dạng câu hỏi ngắn (Part 3), nói về công việc và học tập, và sử dụng các chiến lược giao tiếp trong IELTS Speaking.",
+        "unit_real_world_situations": ["Diễn đạt dữ liệu thống kê trong biểu đồ và đồ thị (IELTS Writing Task 1).", "Thảo luận về các chủ đề liên quan đến công việc và học tập trong cuộc sống hàng ngày.", "Đàm thoại về cảm xúc và trải nghiệm cá nhân."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "9",
+            "lesson_name": "Reading",
+            "main_skills": ["Kỹ năng Đọc", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập trắc nghiệm (multiple choice questions). Tập trung vào kỹ năng tìm câu trả lời, từ đồng nghĩa và ý chính.",
+            "vocabulary_focus": "Từ vựng về công việc và học tập",
+            "grammar_focus": "Thì Hiện tại hoàn thành (Present Perfect)",
+            "real_world_context": "Thực hành đọc hiểu các văn bản học thuật hoặc thông tin công việc/học tập.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Multiple Choice Questions (Reading).",
+              "Chiến lược: đọc kỹ câu hỏi và các lựa chọn, tìm từ khóa, loại trừ đáp án sai.",
+              "Thực hành với bài đọc mẫu (ví dụ: về xu hướng nghề nghiệp).",
+              "Phân tích đáp án và lý do lựa chọn.",
+              "Bài tập củng cố và mở rộng từ vựng."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "10",
+            "lesson_name": "Writing",
+            "main_skills": ["Kỹ năng Viết"],
+            "topic_content": "Hướng dẫn miêu tả các dạng biểu đồ (Graphs, Bar charts and Pie charts - Part 1 IELTS Writing). Tập trung vào miêu tả sự thay đổi số liệu và phân tích mô hình.",
+            "vocabulary_focus": null,
+            "grammar_focus": "Giới từ với số (Prepositions with numbers)",
+            "real_world_context": "Thực hành viết báo cáo về dữ liệu thống kê, áp dụng các cấu trúc mô tả xu hướng.",
+            "lesson_checklist_steps": [
+              "Giới thiệu các dạng biểu đồ thường gặp (Line graph, Bar chart, Pie chart).",
+              "Cách viết câu tổng quan (overview) và các đoạn thân bài chi tiết.",
+              "Thực hành sử dụng từ vựng và ngữ pháp miêu tả số liệu, xu hướng.",
+              "Phân tích các bài viết mẫu.",
+              "Bài tập viết hoàn chỉnh một bài mô tả biểu đồ."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "11",
+            "lesson_name": "Listening",
+            "main_skills": ["Kỹ năng Nghe", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập điền vào chỗ trống (sentence completion - Part 3). Tập trung vào kỹ năng nhận diện từ khóa và đồng nghĩa/paraphrase.",
+            "vocabulary_focus": "Từ vựng miêu tả công việc và các khóa học",
+            "grammar_focus": null,
+            "real_world_context": "Luyện nghe và ghi chú thông tin chi tiết từ các cuộc hội thoại học thuật hoặc chuyên ngành.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Sentence Completion (Listening Part 3).",
+              "Chiến lược nghe: đọc trước câu hỏi, dự đoán loại từ cần điền, nghe từ đồng nghĩa.",
+              "Thực hành nghe các đoạn hội thoại học thuật mẫu.",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Luyện tập thêm về paraphrase và từ vựng chuyên ngành."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "12",
+            "lesson_name": "Speaking",
+            "main_skills": ["Kỹ năng Nói", "Từ vựng"],
+            "topic_content": "Kỹ năng nói về công việc và học tập (Parts 1 & 2 IELTS Speaking). Tập trung vào việc sắp xếp bài nói và sử dụng các tiêu đề câu hỏi.",
+            "vocabulary_focus": "Tính từ miêu tả cảm xúc; Tính từ miêu tả trải nghiệm",
+            "grammar_focus": null,
+            "real_world_context": "Thực hành trình bày ý kiến cá nhân và miêu tả trải nghiệm liên quan đến sự nghiệp hoặc giáo dục.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng câu hỏi Speaking Part 1 & 2 (chủ đề Công việc/Học tập).",
+              "Cách chuẩn bị và cấu trúc bài nói Part 2.",
+              "Thực hành trả lời các câu hỏi mẫu.",
+              "Luyện tập sử dụng từ vựng và collocations chủ đề công việc/học tập.",
+              "Nhận xét và cải thiện cách diễn đạt và ngữ điệu."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "M",
+            "lesson_name": "Test Practice",
+            "main_skills": ["Kỹ năng Nghe", "Đánh giá kiến thức"],
+            "topic_content": "Bài thi thử kỹ năng Nghe IELTS (Listening Mock Test).",
+            "vocabulary_focus": "Từ vựng tổng hợp Unit 3",
+            "grammar_focus": "Ngữ pháp tổng hợp Unit 3",
+            "real_world_context": "Làm quen với áp lực thời gian và định dạng bài thi Listening.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": null,
+            "homework_workbook_reference": "Listening Mock Test"
+          }
+        ]
+      },
+      {
+        "unit_so": 4,
+        "unit_ten_chu_de_chinh_bao_quat": "Đồ ăn thức uống và so sánh",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Từ vựng về đồ ăn và thức uống", "Từ vựng về phương pháp nấu ăn"],
+          "estimated_new_words": 30,
+          "key_grammar_points": ["Danh từ đếm được/không đếm được", "Cấu trúc so sánh", "Cấu trúc so sánh (so sánh dữ liệu, số liệu)"],
+          "tenses_covered": ["Các thì cơ bản để mô tả xu hướng/thói quen"],
+          "notable_sentence_patterns": [
+            "It is significantly higher than...",
+            "On average, X consumed Y...",
+            "It has declined slightly."
+          ]
+        },
+        "unit_skill_objectives": "Làm bài tập nối thông tin, làm bài tập điền vào chỗ trống, mô tả biểu đồ với số liệu và không có số liệu, và sử dụng các chiến lược đọc/nghe như xác định từ khóa, paraphrase, và đồng nghĩa.",
+        "unit_real_world_situations": ["Nói về thực phẩm và đồ uống hàng ngày.", "So sánh thông tin trong biểu đồ hoặc dữ liệu.", "Mô tả và phân tích số liệu về các xu hướng tiêu dùng."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "13",
+            "lesson_name": "Reading",
+            "main_skills": ["Kỹ năng Đọc", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập nối thông tin (matching information) và điền vào chỗ trống. Tập trung vào xác định thông tin, xử lý paraphrase.",
+            "vocabulary_focus": "Từ vựng về đồ ăn và thức uống; Danh từ đếm được và không đếm được",
+            "grammar_focus": null,
+            "real_world_context": "Thực hành đọc hiểu các bài báo hoặc văn bản liên quan đến dinh dưỡng, thực phẩm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Matching Information và Sentence Completion (Reading).",
+              "Chiến lược: tìm từ khóa, đọc kỹ các đoạn văn liên quan, so sánh thông tin.",
+              "Thực hành với bài đọc mẫu (ví dụ: về lịch sử một món ăn).",
+              "Phân tích đáp án và cách paraphrase ý.",
+              "Bài tập củng cố và mở rộng từ vựng."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "14",
+            "lesson_name": "Writing",
+            "main_skills": ["Kỹ năng Viết"],
+            "topic_content": "Hướng dẫn miêu tả hai biểu đồ trong một câu hỏi (Writing Task 1). Tập trung vào phần giới thiệu, tổng quan và miêu tả số liệu (có và không có số cụ thể).",
+            "vocabulary_focus": "Danh từ đếm được và không đếm được",
+            "grammar_focus": "Cách tạo so sánh (Making comparisons)",
+            "real_world_context": "Thực hành viết báo cáo về dữ liệu phức tạp từ nhiều biểu đồ.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài miêu tả hai biểu đồ (Writing Task 1).",
+              "Cách viết câu tổng quan (overview) cho hai biểu đồ.",
+              "Thực hành miêu tả và so sánh số liệu từ các biểu đồ khác nhau.",
+              "Phân tích các bài viết mẫu.",
+              "Bài tập viết hoàn chỉnh một bài mô tả hai biểu đồ."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "15",
+            "lesson_name": "Listening",
+            "main_skills": ["Kỹ năng Nghe", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập phân loại (classification tasks - Part 1) và nối thông tin (matching tasks - Part 1). Tập trung vào từ đồng nghĩa và paraphrase.",
+            "vocabulary_focus": "Từ vựng về các phương pháp nấu ăn",
+            "grammar_focus": null,
+            "real_world_context": "Luyện nghe để phân loại thông tin hoặc nối các đặc điểm cụ thể trong cuộc hội thoại.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Classification và Matching Tasks (Listening Part 1).",
+              "Chiến lược nghe: đọc kỹ các lựa chọn, nghe từ đồng nghĩa, chú ý đến các từ chỉ sự khác biệt/tương đồng.",
+              "Thực hành nghe các đoạn hội thoại mẫu.",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Luyện tập thêm về paraphrase và từ vựng chủ đề."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "16",
+            "lesson_name": "Speaking",
+            "main_skills": ["Kỹ năng Nói", "Từ vựng"],
+            "topic_content": "Kỹ năng nói về đồ ăn và các bữa ăn (Parts 1 & 2 IELTS Speaking). Tập trung vào cách diễn đạt quan điểm và sử dụng thời gian chuẩn bị Part 2.",
+            "vocabulary_focus": "Từ vựng về đồ ăn và nấu ăn; Danh từ đếm được và không đếm được",
+            "grammar_focus": null,
+            "real_world_context": "Thực hành thảo luận về thói quen ăn uống, các món ăn yêu thích và quan điểm cá nhân.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng câu hỏi Speaking Part 1 & 2 (chủ đề Đồ ăn/Bữa ăn).",
+              "Cách sử dụng thời gian chuẩn bị 1 phút cho Part 2 hiệu quả.",
+              "Thực hành trả lời các câu hỏi mẫu.",
+              "Luyện tập sử dụng từ vựng và collocations chủ đề đồ ăn.",
+              "Nhận xét và cải thiện cách diễn đạt, ngữ điệu và độ trôi chảy."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "M",
+            "lesson_name": "Test Practice",
+            "main_skills": ["Kỹ năng Nói", "Đánh giá kiến thức"],
+            "topic_content": "Bài thi thử kỹ năng Nói IELTS (Speaking mock test - Graded).",
+            "vocabulary_focus": "Từ vựng tổng hợp Unit 4",
+            "grammar_focus": "Ngữ pháp tổng hợp Unit 4",
+            "real_world_context": "Thực hành giao tiếp tương tác với giáo viên, chuẩn bị và trình bày theo chủ đề.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "Speaking mock test (Graded)"
+          }
+        ]
+      },
+      {
+        "unit_so": 5,
+        "unit_ten_chu_de_chinh_bao_quat": "Hành vi tiêu dùng và ý kiến cá nhân",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Từ vựng về mua sắm", "Chủ đề liên quan đến tiền bạc"],
+          "estimated_new_words": 30,
+          "key_grammar_points": ["Thì tương lai (will và going to)", "Ngôn ngữ diễn đạt ý kiến và giới thiệu ý tưởng"],
+          "tenses_covered": ["Thì Hiện tại hoàn thành", "Thì tương lai (will và going to)"],
+          "notable_sentence_patterns": [
+            "What will happen next?",
+            "It is widely believed that...",
+            "In my opinion..."
+          ]
+        },
+        "unit_skill_objectives": "Làm bài tập nối tiêu đề, viết bài luận thể hiện quan điểm, đọc lướt để lấy ý chính, xác định ý chính và các ý hỗ trợ, và thực hành paraphrase.",
+        "unit_real_world_situations": ["Thảo luận về hành vi mua sắm và ảnh hưởng của nó.", "Trình bày ý kiến và bảo vệ quan điểm cá nhân về một vấn đề xã hội hoặc kinh tế.", "Viết luận về các vấn đề liên quan đến tiêu dùng."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "17",
+            "lesson_name": "Reading",
+            "main_skills": ["Kỹ năng Đọc", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập nối tiêu đề (matching headings). Tập trung vào kỹ thuật đọc lướt, tìm câu chủ đề và ý chính/ý hỗ trợ, và paraphrase.",
+            "vocabulary_focus": "Từ vựng liên quan đến mua sắm",
+            "grammar_focus": "Các thì tương lai (will và going to)",
+            "real_world_context": "Thực hành đọc hiểu các đoạn văn ngắn về các sản phẩm hoặc xu hướng mua sắm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Matching Headings (Reading).",
+              "Chiến lược: đọc kỹ các tiêu đề, đọc lướt đoạn văn để tìm ý chính, so sánh với các tiêu đề.",
+              "Thực hành với bài đọc mẫu (ví dụ: về quảng cáo và hành vi người tiêu dùng).",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Bài tập củng cố và mở rộng từ vựng."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "18",
+            "lesson_name": "Writing",
+            "main_skills": ["Kỹ năng Viết"],
+            "topic_content": "Hướng dẫn viết bài luận thể hiện quan điểm (Agree or disagree essay - Writing Task 2). Tập trung vào các dạng bài luận, viết mở đầu, phát triển luận điểm và cấu trúc bài luận.",
+            "vocabulary_focus": null,
+            "grammar_focus": "Ngôn ngữ diễn đạt ý kiến; Ngôn ngữ giới thiệu ý tưởng",
+            "real_world_context": "Thực hành viết bài luận về các vấn đề xã hội hoặc quan điểm cá nhân liên quan đến tiêu dùng.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Agree/Disagree Essay (Writing Task 2).",
+              "Cách phân tích đề bài và lập dàn ý.",
+              "Hướng dẫn viết câu mở bài (thesis statement) và các đoạn thân bài (supporting paragraphs) với lý lẽ và ví dụ.",
+              "Thực hành sử dụng từ nối và ngôn ngữ diễn đạt quan điểm.",
+              "Bài tập viết hoàn chỉnh một bài luận Agree/Disagree."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "19",
+            "lesson_name": "Listening",
+            "main_skills": ["Kỹ năng Nghe", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập trắc nghiệm (multiple choice - Part 2). Tập trung vào nhận diện yếu tố gây nhiễu, paraphrase và từ đồng nghĩa.",
+            "vocabulary_focus": "Từ vựng để xác định địa điểm",
+            "grammar_focus": null,
+            "real_world_context": "Luyện nghe để chọn đáp án đúng trong các tình huống mua sắm hoặc tìm kiếm địa điểm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Multiple Choice (Listening Part 2).",
+              "Chiến lược nghe: đọc kỹ câu hỏi và các lựa chọn, nghe từ đồng nghĩa, chú ý đến các từ gây nhiễu.",
+              "Thực hành nghe các đoạn hội thoại/độc thoại mẫu.",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Luyện tập thêm về paraphrase và từ vựng chủ đề."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "20",
+            "lesson_name": "Speaking",
+            "main_skills": ["Kỹ năng Nói"],
+            "topic_content": "Kỹ năng miêu tả một cửa hàng (Speaking Part 2). Tập trung vào việc phát triển ý tưởng và sử dụng ngữ điệu hiệu quả.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Thực hành miêu tả chi tiết một cửa hàng hoặc khu mua sắm yêu thích.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng câu hỏi Speaking Part 2 (chủ đề Miêu tả một cửa hàng).",
+              "Cách sử dụng thời gian chuẩn bị 1 phút hiệu quả để ghi chú ý tưởng.",
+              "Thực hành miêu tả theo các gợi ý (cue card).",
+              "Luyện tập sử dụng từ vựng và cấu trúc miêu tả.",
+              "Nhận xét và cải thiện về độ trôi chảy, ngữ điệu và nội dung."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "M",
+            "lesson_name": "Test Practice",
+            "main_skills": ["Kỹ năng Đọc", "Đánh giá kiến thức"],
+            "topic_content": "Bài thi thử kỹ năng Đọc IELTS (Reading mock test).",
+            "vocabulary_focus": "Từ vựng tổng hợp Unit 5",
+            "grammar_focus": "Ngữ pháp tổng hợp Unit 5",
+            "real_world_context": "Làm quen với các dạng bài đọc về các chủ đề đa dạng.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": null,
+            "homework_workbook_reference": "Reading mock test"
+          }
+        ]
+      },
+      {
+        "unit_so": 6,
+        "unit_ten_chu_de_chinh_bao_quat": "Thời gian giải trí và quan điểm",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Từ vựng về thể thao và sở thích"],
+          "estimated_new_words": 25,
+          "key_grammar_points": ["Câu điều kiện loại 1 (First Conditional)", "Tính từ so sánh (Comparatives)"],
+          "tenses_covered": ["Các thì hiện tại và tương lai (trong câu điều kiện)"],
+          "notable_sentence_patterns": [
+            "If + Present Simple, Future Simple",
+            "It is more relaxing than...",
+            "Do you enjoy X?"
+          ]
+        },
+        "unit_skill_objectives": "Làm bài tập đúng/sai/không đề cập, điền vào chỗ trống dạng tóm tắt, miêu tả bản đồ (Part 2), nói về thể thao và sở thích, và xác định quan điểm của người viết.",
+        "unit_real_world_situations": ["Thảo luận về các hoạt động giải trí và sở thích cá nhân.", "Diễn đạt quan điểm và nhận định về các vấn đề trong văn bản.", "Hỏi và trả lời về các hoạt động thể thao."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "21",
+            "lesson_name": "Reading",
+            "main_skills": ["Kỹ năng Đọc", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập True/False/Not Given và điền vào chỗ trống dạng tóm tắt (summary completion). Tập trung vào kỹ thuật đọc lướt, đọc quét và xác định quan điểm của người viết.",
+            "vocabulary_focus": "Từ vựng về thể thao và sở thích",
+            "grammar_focus": "Tính từ so sánh (Comparatives)",
+            "real_world_context": "Thực hành xác định tính đúng sai của thông tin và hoàn thành tóm tắt văn bản.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài True/False/Not Given và Summary Completion (Reading).",
+              "Chiến lược: đọc kỹ câu hỏi, tìm từ khóa, so sánh thông tin trong bài đọc, phân biệt True/False/Not Given.",
+              "Thực hành với bài đọc mẫu (ví dụ: về một môn thể thao hoặc hoạt động giải trí).",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Bài tập củng cố và mở rộng từ vựng."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "22",
+            "lesson_name": "Writing",
+            "main_skills": ["Kỹ năng Viết"],
+            "topic_content": "Hướng dẫn viết bài luận trình bày quan điểm (Opinion based essay - Writing Task 2). Tập trung vào sự mạch lạc, liên kết, và các cụm từ collocations về thời gian rảnh.",
+            "vocabulary_focus": "Collocations về thời gian rảnh",
+            "grammar_focus": "Các từ nối và cụm từ; So sánh quá khứ và hiện tại",
+            "real_world_context": "Thực hành viết bài luận thể hiện quan điểm về các vấn đề xã hội, lối sống.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Opinion Essay (Writing Task 2).",
+              "Cách phân tích đề bài và lập dàn ý (một mặt hoặc hai mặt).",
+              "Hướng dẫn viết câu mở bài (thesis statement) và các đoạn thân bài (supporting paragraphs) với lý lẽ và ví dụ.",
+              "Thực hành sử dụng từ nối và ngôn ngữ diễn đạt quan điểm cá nhân.",
+              "Bài tập viết hoàn chỉnh một bài luận Opinion Essay."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "23",
+            "lesson_name": "Listening",
+            "main_skills": ["Kỹ năng Nghe"],
+            "topic_content": "Chiến lược làm bài tập dán nhãn bản đồ (map labelling - Part 2). Tập trung vào hiểu câu hỏi về bản đồ, tìm vị trí trên bản đồ và nhận diện yếu tố gây nhiễu.",
+            "vocabulary_focus": "Giới từ chỉ nơi chốn; Giới từ chỉ chuyển động",
+            "grammar_focus": null,
+            "real_world_context": "Luyện nghe để theo dõi hướng dẫn và định vị các địa điểm trên bản đồ.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Map Labelling (Listening Part 2).",
+              "Chiến lược nghe: đọc kỹ bản đồ, chú ý đến các địa điểm cố định, nghe giới từ chỉ vị trí/chuyển động.",
+              "Thực hành nghe các đoạn hướng dẫn mẫu.",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Luyện tập thêm về từ vựng và giới từ chỉ vị trí."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "24",
+            "lesson_name": "Speaking",
+            "main_skills": ["Kỹ năng Nói", "Từ vựng"],
+            "topic_content": "Kỹ năng nói về thể thao và sở thích (Speaking Part 2). Tập trung vào mở rộng bài nói và xử lý các câu hỏi tiếp theo.",
+            "vocabulary_focus": "Miêu tả trải nghiệm; Ngôn ngữ để đưa ra lý do",
+            "grammar_focus": "Cách phát âm từ nhấn mạnh và yếu",
+            "real_world_context": "Thực hành trình bày dài hơn về một chủ đề quen thuộc và đối phó với các câu hỏi đào sâu.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng câu hỏi Speaking Part 2 (chủ đề Thể thao/Sở thích).",
+              "Cách sử dụng thời gian chuẩn bị 1 phút để ghi chú ý tưởng và cấu trúc bài nói.",
+              "Thực hành miêu tả theo các gợi ý (cue card) và mở rộng ý tưởng.",
+              "Luyện tập sử dụng từ vựng và ngữ pháp miêu tả trải nghiệm, đưa ra lý do.",
+              "Nhận xét và cải thiện về độ trôi chảy, ngữ điệu và nội dung."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "M",
+            "lesson_name": "Test Practice",
+            "main_skills": ["Kỹ năng Viết", "Đánh giá kiến thức"],
+            "topic_content": "Bài thi thử kỹ năng Viết IELTS (Writing mock test - Graded).",
+            "vocabulary_focus": "Từ vựng tổng hợp Unit 6",
+            "grammar_focus": "Ngữ pháp tổng hợp Unit 6",
+            "real_world_context": "Thực hành viết các dạng bài luận hoặc miêu tả dữ liệu dưới áp lực thời gian.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "Writing mock test (Graded)"
+          }
+        ]
+      },
+      {
+        "unit_so": 7,
+        "unit_ten_chu_de_chinh_bao_quat": "Danh tiếng và truyền thông",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Từ vựng về truyền thông"],
+          "estimated_new_words": 25,
+          "key_grammar_points": ["Đại từ (Pronouns)", "Từ nối", "Liên kết ý tưởng"],
+          "tenses_covered": ["Hiện tại đơn, hiện tại hoàn thành, quá khứ đơn (ôn tập và ứng dụng)"],
+          "notable_sentence_patterns": [
+            "Although X, Y...",
+            "In conclusion...",
+            "He has become famous due to..."
+          ]
+        },
+        "unit_skill_objectives": "Viết bài luận thảo luận, điền vào chỗ trống dạng lưu đồ (flow-chart completion), nói về người nổi tiếng và truyền thông, và phát triển kỹ năng dự đoán, xử lý ngôn ngữ khoa học/kỹ thuật.",
+        "unit_real_world_situations": ["Thảo luận về ảnh hưởng của người nổi tiếng và các vấn đề trên truyền thông.", "Phân tích và trình bày thông tin về người nổi tiếng hoặc các sự kiện truyền thông."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "25",
+            "lesson_name": "Reading",
+            "main_skills": ["Kỹ năng Đọc", "Ngữ pháp"],
+            "topic_content": "Chiến lược làm bài tập nối đặc điểm (matching features) và Yes/No/Not Given. Tập trung vào kỹ thuật đọc lướt, đọc quét và xác định quan điểm của người viết.",
+            "vocabulary_focus": null,
+            "grammar_focus": "Câu điều kiện loại 1 (First conditional)",
+            "real_world_context": "Thực hành đọc hiểu các văn bản để nắm bắt ý chính và chi tiết về các sự kiện hoặc quan điểm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Matching Features và Yes/No/Not Given (Reading).",
+              "Chiến lược: tìm từ khóa trong câu hỏi và các lựa chọn, đọc kỹ các đoạn văn liên quan, so sánh thông tin.",
+              "Thực hành với bài đọc mẫu (ví dụ: về một nhân vật nổi tiếng hoặc một sự kiện truyền thông).",
+              "Phân tích đáp án và lý do lựa chọn.",
+              "Bài tập củng cố và mở rộng từ vựng."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "26",
+            "lesson_name": "Writing",
+            "main_skills": ["Kỹ năng Viết", "Từ vựng"],
+            "topic_content": "Hướng dẫn viết bài luận thảo luận (Discussion essay - Writing Task 2). Tập trung vào tổ chức đoạn văn, đưa ra ví dụ cụ thể và hỗ trợ luận điểm.",
+            "vocabulary_focus": "Từ vựng liên quan đến truyền thông",
+            "grammar_focus": "Đại từ (Pronouns)",
+            "real_world_context": "Thực hành viết bài luận phân tích các vấn đề xã hội liên quan đến truyền thông và danh tiếng.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Discussion Essay (Writing Task 2).",
+              "Cách phân tích đề bài và lập dàn ý (hai mặt của vấn đề).",
+              "Hướng dẫn viết câu mở bài (thesis statement) và các đoạn thân bài (supporting paragraphs) với lý lẽ và ví dụ cho từng mặt.",
+              "Thực hành sử dụng từ nối và ngôn ngữ diễn đạt sự tương phản/so sánh.",
+              "Bài tập viết hoàn chỉnh một bài luận Discussion Essay."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "27",
+            "lesson_name": "Listening",
+            "main_skills": ["Kỹ năng Nghe"],
+            "topic_content": "Chiến lược làm bài tập điền vào chỗ trống dạng lưu đồ (flow-chart completion - Part 4). Tập trung vào kỹ năng dự đoán câu trả lời và xử lý ngôn ngữ khoa học/kỹ thuật.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Luyện nghe các bài giảng hoặc hội thoại phức tạp hơn để điền vào lưu đồ.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Flow-chart Completion (Listening Part 4).",
+              "Chiến lược nghe: đọc kỹ lưu đồ, dự đoán loại từ cần điền, nghe các từ tín hiệu chỉ trình tự/nguyên nhân-kết quả.",
+              "Thực hành nghe các bài giảng mẫu.",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Luyện tập thêm về từ vựng chuyên ngành (nếu có)."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "28",
+            "lesson_name": "Speaking",
+            "main_skills": ["Kỹ năng Nói", "Từ vựng"],
+            "topic_content": "Kỹ năng nói về người nổi tiếng (Part 2) và danh tiếng/truyền thông (Part 3 IELTS Speaking). Tập trung vào việc liên kết ý tưởng và phân tích sự khác biệt giữa các phần thi.",
+            "vocabulary_focus": "Từ nối (Linking words); Từ vựng đưa ra lý do",
+            "grammar_focus": null,
+            "real_world_context": "Thực hành thảo luận sâu hơn về các vấn đề xã hội liên quan đến danh tiếng và truyền thông, mở rộng ý tưởng và phân tích.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng câu hỏi Speaking Part 2 & 3 (chủ đề Người nổi tiếng/Truyền thông).",
+              "Cách sử dụng thời gian chuẩn bị 1 phút cho Part 2 hiệu quả (miêu tả người nổi tiếng).",
+              "Phát triển câu trả lời cho Part 3: mở rộng ý, đưa ra ví dụ, so sánh, dự đoán.",
+              "Luyện tập sử dụng từ nối và ngôn ngữ diễn đạt quan điểm.",
+              "Nhận xét và cải thiện về độ trôi chảy, mạch lạc và nội dung."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "M",
+            "lesson_name": "Test Practice",
+            "main_skills": ["Kỹ năng Nghe", "Đánh giá kiến thức"],
+            "topic_content": "Bài thi thử kỹ năng Nghe IELTS (Listening Mock Test).",
+            "vocabulary_focus": "Từ vựng tổng hợp Unit 7",
+            "grammar_focus": "Ngữ pháp tổng hợp Unit 7",
+            "real_world_context": "Làm quen với các dạng bài nghe phức tạp và áp lực thời gian.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": null,
+            "homework_workbook_reference": "Listening Mock Test"
+          }
+        ]
+      },
+      {
+        "unit_so": 8,
+        "unit_ten_chu_de_chinh_bao_quat": "Thế giới tự nhiên và môi trường",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Từ vựng về thế giới tự nhiên", "Từ vựng về môi trường", "Các từ collocations môi trường"],
+          "estimated_new_words": 25,
+          "key_grammar_points": ["Động từ khuyết thiếu về khả năng và xác suất (Modals of possibility and probability)", "So sánh (Comparatives - trong phân tích vấn đề)"],
+          "tenses_covered": ["Thì hiện tại hoàn thành và Quá khứ đơn (ứng dụng vào các vấn đề môi trường)"],
+          "notable_sentence_patterns": [
+            "This could be an issue...",
+            "It might lead to...",
+            "On the one hand, ... on the other hand..."
+          ]
+        },
+        "unit_skill_objectives": "Làm bài tập điền vào chỗ trống (note completion), nối kết thúc câu, viết bài luận về vấn đề và giải pháp, nói về thế giới tự nhiên và môi trường, và sử dụng chiến lược tìm kiếm thông tin, paraphrase, và từ tín hiệu.",
+        "unit_real_world_situations": ["Thảo luận về các vấn đề môi trường và bảo tồn thiên nhiên.", "Đề xuất các giải pháp cho các thách thức môi trường.", "Mô tả và phân tích các khía cạnh của thế giới tự nhiên."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "29",
+            "lesson_name": "Reading",
+            "main_skills": ["Kỹ năng Đọc", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập điền vào chỗ trống dạng ghi chú (note completion) và nối kết thúc câu (matching sentence endings). Tập trung vào kỹ năng tìm thông tin liên quan và paraphrase.",
+            "vocabulary_focus": "Từ vựng về thế giới tự nhiên; Từ vựng về môi trường",
+            "grammar_focus": "Động từ khuyết thiếu chỉ khả năng và xác suất (Modals of possibility and probability)",
+            "real_world_context": "Thực hành đọc hiểu các bài báo hoặc văn bản khoa học về môi trường.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Note Completion và Matching Sentence Endings (Reading).",
+              "Chiến lược: đọc kỹ ghi chú/câu hỏi, tìm từ khóa, đọc lướt/quét để tìm thông tin liên quan, so sánh và lựa chọn đáp án.",
+              "Thực hành với bài đọc mẫu (ví dụ: về một loài động vật quý hiếm hoặc một vấn đề môi trường).",
+              "Phân tích đáp án và cách paraphrase ý.",
+              "Bài tập củng cố và mở rộng từ vựng."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "30",
+            "lesson_name": "Writing",
+            "main_skills": ["Kỹ năng Viết", "Từ vựng"],
+            "topic_content": "Hướng dẫn viết bài luận về vấn đề và giải pháp (Problems and solutions essay - Part 2). Tập trung vào viết kết luận, liên kết các ý chính và kết luận.",
+            "vocabulary_focus": "Các từ collocations về môi trường",
+            "grammar_focus": "Thì Hiện tại hoàn thành và Quá khứ đơn (so sánh)",
+            "real_world_context": "Thực hành viết bài luận phân tích vấn đề và đưa ra giải pháp về các thách thức môi trường.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Problem/Solution Essay (Writing Task 2).",
+              "Cách phân tích đề bài (vấn đề và yêu cầu giải pháp).",
+              "Hướng dẫn viết câu mở bài, các đoạn thân bài (mô tả vấn đề, đề xuất giải pháp, giải thích hiệu quả), và câu kết luận.",
+              "Thực hành sử dụng từ nối và ngôn ngữ diễn đạt nguyên nhân-kết quả, vấn đề-giải pháp.",
+              "Bài tập viết hoàn chỉnh một bài luận Problem/Solution Essay."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "31",
+            "lesson_name": "Listening",
+            "main_skills": ["Kỹ năng Nghe", "Từ vựng"],
+            "topic_content": "Chiến lược làm bài tập điền vào chỗ trống dạng ghi chú (note completion - Part 4). Tập trung vào việc sử dụng các tiêu đề và từ tín hiệu để nghe hiệu quả.",
+            "vocabulary_focus": "Từ vựng về thế giới tự nhiên",
+            "grammar_focus": null,
+            "real_world_context": "Luyện nghe các bài giảng học thuật về các chủ đề tự nhiên và môi trường.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng bài Note Completion (Listening Part 4).",
+              "Chiến lược nghe: đọc kỹ ghi chú, dự đoán loại từ cần điền, nghe các từ tín hiệu chỉ cấu trúc bài nói.",
+              "Thực hành nghe các bài giảng mẫu (ví dụ: về một hệ sinh thái hoặc một vấn đề môi trường).",
+              "Phân tích đáp án và các lỗi thường gặp.",
+              "Luyện tập thêm về từ vựng chuyên ngành (nếu có)."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "32",
+            "lesson_name": "Speaking",
+            "main_skills": ["Kỹ năng Nói", "Từ vựng"],
+            "topic_content": "Kỹ năng nói về thế giới tự nhiên (Parts 2 & 3 IELTS Speaking). Tập trung vào phát triển câu trả lời cho Part 3.",
+            "vocabulary_focus": "Từ vựng về thế giới tự nhiên; Ngôn ngữ đưa ra ví dụ và lý do",
+            "grammar_focus": null,
+            "real_world_context": "Thực hành thảo luận chuyên sâu về các vấn đề môi trường và ảnh hưởng của con người lên tự nhiên, trình bày quan điểm cá nhân một cách có lý do và ví dụ.",
+            "lesson_checklist_steps": [
+              "Giới thiệu dạng câu hỏi Speaking Part 2 & 3 (chủ đề Thế giới tự nhiên/Môi trường).",
+              "Cách sử dụng thời gian chuẩn bị 1 phút cho Part 2 hiệu quả (miêu tả một địa điểm tự nhiên).",
+              "Phát triển câu trả lời cho Part 3: mở rộng ý, đưa ra ví dụ, so sánh, dự đoán về các vấn đề môi trường.",
+              "Luyện tập sử dụng từ vựng và ngôn ngữ diễn đạt quan điểm, giải pháp.",
+              "Nhận xét và cải thiện về độ trôi chảy, mạch lạc và nội dung."
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Corresponding unit/skill exercises on CLMS"
+          },
+          {
+            "lesson_id": "M",
+            "lesson_name": "Test Practice",
+            "main_skills": ["Kỹ năng Nói", "Đánh giá kiến thức"],
+            "topic_content": "Bài thi thử kỹ năng Nói IELTS (Speaking mock test - Graded).",
+            "vocabulary_focus": "Từ vựng tổng hợp Unit 8",
+            "grammar_focus": "Ngữ pháp tổng hợp Unit 8",
+            "real_world_context": "Thực hành phỏng vấn trực tiếp về các chủ đề học thuật và xã hội, luyện khả năng phản ứng và phát triển ý tưởng.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "Speaking mock test (Graded)"
+          }
+        ]
+      },
+      {
+        "unit_so": "Tổng kết khóa học",
+        "unit_ten_chu_de_chinh_bao_quat": "Ôn tập và kiểm tra cuối khóa",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Tổng hợp toàn bộ từ vựng và collocations của khóa học"],
+          "estimated_new_words": 0,
+          "key_grammar_points": ["Tổng hợp toàn bộ ngữ pháp trọng tâm của khóa học"],
+          "tenses_covered": ["Tất cả các thì đã học"],
+          "notable_sentence_patterns": ["Tất cả các mẫu câu đã học"]
+        },
+        "unit_skill_objectives": "Củng cố và tổng hợp kiến thức của toàn bộ khóa học, rèn luyện kỹ năng làm bài thi tổng hợp dưới áp lực thời gian.",
+        "unit_real_world_situations": ["Thực hành hoàn thành bài thi IELTS tổng hợp mô phỏng theo cấu trúc thật."]
+        ,
+        "lessons": [
+          {
+            "lesson_id": "Cuối khóa",
+            "lesson_name": "END OF COURSE FULL MOCK TEST ON PLATFORM (NOT GUIDED)",
+            "main_skills": ["Tổng hợp 4 Kỹ năng", "Kiểm tra kiến thức"],
+            "topic_content": "Bài thi thử IELTS đầy đủ 4 kỹ năng không hướng dẫn, giúp học viên tự đánh giá năng lực cuối khóa.",
+            "vocabulary_focus": "Từ vựng tổng hợp khóa học",
+            "grammar_focus": "Ngữ pháp tổng hợp khóa học",
+            "real_world_context": "Mô phỏng kỳ thi IELTS thực tế để đánh giá toàn diện, chuẩn bị cho học viên trước khi tham gia kỳ thi chính thức.",
+            "lesson_checklist_steps": null,
+            "forum_assignment": null,
+            "homework_workbook_reference": "END OF COURSE FULL MOCK TEST ON PLATFORM (NOT GUIDED)"
+          }
+        ]
+      }
+    ]
+  }
+}

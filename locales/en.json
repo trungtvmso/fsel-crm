@@ -1,0 +1,589 @@
+
+{
+  "app": {
+    "title": "FSEL - Student Support Tool",
+    "titleShort": "FSEL Support",
+    "footer": {
+        "main": "Copyright FSEL",
+        "developedBy": "Developed by FSEL Technology Department"
+    },
+    "backToResults": "Back to Search Results",
+    "addStudentButton": "Add New Student"
+  },
+  "sidebar": {
+    "studentManagement": "Student Management",
+    "courseInformation": "Course Information",
+    "alertSettings": "Alert Settings",
+    "productPackages": "Product Packages",
+    "toggleMenu": "Open/Close menu",
+    "closeMenu": "Close menu"
+  },
+  "productPackagesPage": {
+    "title": "Product Packages List",
+    "loading": "Loading product packages...",
+    "error": "Could not load product package data. Please try again later.",
+    "price": "Price",
+    "priceMonth": "Price/Month",
+    "duration": "{monthNumber} Months",
+    "incentives": "Purchase Incentives",
+    "eventDescription": "Event Description",
+    "noPackages": "No product packages available at the moment.",
+    "suggests": {
+        "BestSeller": "Best Seller",
+        "Recommend": "Recommended"
+    }
+  },
+  "alertSettingsPage": {
+    "title": "Customize Alert Settings",
+    "globalSettings": {
+        "title": "Global Settings",
+        "position": "Display Position:",
+        "duration": "Display Duration:",
+        "defaultShowDismissButton": "Always Show Dismiss Button:",
+        "fontSizeLabel": "Font Size:",
+        "textFormattingLabel": "Text Formatting:",
+        "positions": {
+            "top-left": "Top-Left",
+            "top-center": "Top-Center",
+            "top-right": "Top-Right",
+            "bottom-left": "Bottom-Left",
+            "bottom-center": "Bottom-Center",
+            "bottom-right": "Bottom-Right"
+        },
+        "durations": {
+            "3s": "3 seconds",
+            "5s": "5 seconds",
+            "10s": "10 seconds",
+            "infinite": "Infinite (requires dismiss button)"
+        },
+        "fontSizes": {
+          "xs": "Extra Small (text-xs)",
+          "sm": "Small (text-sm)",
+          "base": "Default (text-base)",
+          "lg": "Large (text-lg)",
+          "xl": "Extra Large (text-xl)"
+        },
+        "fontWeights": {
+          "normal": "Normal",
+          "bold": "Bold"
+        },
+        "fontStyles": {
+          "normal": "Normal",
+          "italic": "Italic"
+        },
+        "textDecorations": {
+          "none": "None",
+          "underline": "Underline"
+        }
+    },
+    "typeSettings": {
+        "title": "Settings by Alert Type",
+        "info": "Info",
+        "success": "Success",
+        "error": "Error",
+        "warning": "Warning",
+        "backgroundColor": "Background Color:",
+        "textColor": "Text Color:",
+        "borderColor": "Border Color:",
+        "borderWidth": "Border Width (e.g., 1px):",
+        "borderStyle": "Border Style:",
+        "styles": {
+            "solid": "Solid",
+            "dashed": "Dashed",
+            "dotted": "Dotted",
+            "none": "None"
+        },
+        "layoutTitle": "Layout (Tailwind Classes)",
+        "labels": {
+            "padding": "Padding:",
+            "shadow": "Shadow:",
+            "rounded": "Rounded Corners:",
+            "flex": "Flex Layout:"
+        },
+        "options": {
+            "padding": {
+                "default": "Default (p-4)",
+                "small": "Small (p-2)",
+                "medium": "Medium (p-3)",
+                "large": "Large (p-6)",
+                "none": "None (p-0)"
+            },
+            "shadow": {
+                "default": "Default (shadow-lg)",
+                "small": "Small (shadow-md)",
+                "large": "Large (shadow-xl)",
+                "none": "None (shadow-none)"
+            },
+            "rounded": {
+                "default": "Default (rounded-lg)",
+                "small": "Small (rounded-md)",
+                "large": "Large (rounded-xl)",
+                "none": "None (rounded-none)"
+            },
+            "flex": {
+                "contentLeftButtonRight": "Content left, button right, items center",
+                "contentButtonLeft": "Content & button left, items center",
+                "contentCenterButtonRight": "Content center, button right if present, items center",
+                "contentRightButtonLeft": "Content right, button left, items center",
+                "noFlex": "No Flex (block display)"
+            }
+        }
+    },
+    "buttons": {
+        "save": "Save Settings",
+        "saving": "Saving...",
+        "reset": "Reset to Defaults",
+        "resetting": "Resetting..."
+    },
+    "messages": {
+        "saveSuccess": "Alert settings saved successfully!",
+        "saveError": "Error saving settings: {error}",
+        "resetSuccess": "Alert settings reset to defaults!",
+        "resetError": "Error resetting settings: {error}",
+        "invalidColor": "Invalid color value for '{field}'.",
+        "invalidPixelValue": "Value for '{field}' must be a number followed by 'px' (e.g., '1px', '0px').",
+        "invalidTailwindClass": "Value for '{field}' does not seem to be a valid Tailwind class."
+    },
+    "preview": {
+        "title": "Live Preview",
+        "sampleText": "This is a preview."
+    }
+  },
+  "courseInformation": {
+    "title": "Course Information",
+    "loadingCategories": "Loading course categories...",
+    "noCategories": "No course categories available.",
+    "noCoursesInCategory": "No courses available in this category yet.",
+    "loadingCourse": "Loading course details...",
+    "backToCategories": "Back to Categories",
+     "tabs": {
+      "overview": "Course Overview",
+      "lessonPlan": "Detailed Lesson Plan",
+      "expertAssessment": "Expert Assessment"
+    },
+    "lessonPlan": {
+        "filterByUnitLabel": "Filter by Unit:",
+        "allUnitsLabel": "All Units",
+        "noData": "No lesson plan data available.",
+        "coreKnowledgeObjectives": "Core Knowledge Objectives",
+        "coreSkillObjectives": "Core Skill Objectives",
+        "prominentRealWorldSituations": "Prominent Real-World Situations",
+        "lessons": "Lessons",
+        "lessonID": "Lesson ID",
+        "lessonName": "Lesson Name",
+        "mainSkills": "Main Skills",
+        "topicContent": "Topic & Content",
+        "targetVocab": "Target Vocabulary",
+        "targetGrammar": "Target Grammar",
+        "realWorldSituation": "Real-World Situation",
+        "forumAssignment": "Forum Assignment",
+        "homework": "Homework",
+        "lessonChecklistSteps": "Lesson Checklist Steps"
+    },
+    "courseDetails": {
+        "durationWeeks": "Duration (Weeks)",
+        "durationMonths": "Duration (Months)",
+        "lessonsPerWeek": "Lessons/Week",
+        "lessonDurationHours": "Lesson Duration (Hours)",
+        "totalLessons": "Total Lessons",
+        "unitTests": "Number of Unit Tests",
+        "finalTests": "Number of Final Tests",
+        "overallGoal": "Overall Goal",
+        "knowledgeSkillsSummary": "Knowledge & Skills Summary",
+        "grammarSummary": "Grammar",
+        "tensesStructuresCount": "Tenses/Structures Count",
+        "grammarDetails": "Grammar Details",
+        "vocabularySummary": "Vocabulary",
+        "wordCount": "Word Count",
+        "vocabularyThemes": "Vocabulary Themes",
+        "listeningSkills": "Listening Skills",
+        "speakingSkills": "Speaking Skills",
+        "readingSkills": "Reading Skills",
+        "writingSkills": "Writing Skills",
+        "targetAudience": "Target Audience",
+        "outputLevel": "Output Level",
+        "coreObjectives": "Core Objectives",
+        "keyPedagogicalFeatures": "Key Pedagogical Features"
+    },
+     "efFields": {
+      "courseName": "Course Name",
+      "levelCEFR": "CEFR Level",
+      "levelName": "Level Name",
+      "targetAudienceTitle": "Target Audience",
+      "age": "Age",
+      "entryLevel": "Entry Level",
+      "commonReasons": "Common Learning Reasons",
+      "overallOutputObjectivesTitle": "Overall Output Objectives",
+      "generalDescription": "General Description",
+      "detailedSkills": "Detailed Skills",
+      "expectedKnowledgeOutputTitle": "Expected Knowledge Output Quantification",
+      "vocabulary": "Vocabulary",
+      "coreGrammar": "Core Grammar",
+      "realWorldSituations": "Real-world Communication Situations",
+      "courseStructureDurationTitle": "Course Structure and Duration",
+      "totalUnits": "Total Units",
+      "lessonsPerUnit": "Lessons per Unit",
+      "totalTime": "Total Learning and Test Time",
+      "overallAssessmentConclusionTitle": "Overall Assessment and Conclusion",
+      "curriculumStrengths": "Curriculum Strengths",
+      "suitability": "Suitability for Course Objectives",
+      "preparationHigherLevels": "Preparation for Higher Levels",
+      "generalLessonStructureTitle": "General Lesson Structure Description",
+      "checklistRole": "Role of Lesson Stage Checklist",
+      "checklistSteps": "Lesson Stage Checklist Steps",
+      "teachingMethodsToolsTitle": "Teaching Methods and Support Tools",
+      "blendedLearning": "Combination of In-Class Learning and Free Practice",
+      "assessmentToolsRole": "Role of Assessment and Practice Tools",
+      "homeworkWorkbook": "Homework (Workbook)",
+      "progressTest": "Progress Test",
+      "rwPortfolio": "Reading & Writing Portfolio",
+      "supplementaryElements": "Supplementary Elements from Overview Image",
+      "interactiveVideos": "Interactive Video Lectures",
+      "forumAI": "Class Forum with AI",
+      "personalizationFeatures": "Personalization Features",
+      "professionalExpertAssessmentTitle": "Professional Expert Assessment",
+      "evaluationBasedOnSixComponentsTitle": "Evaluation Based on Six Components",
+      "listeningAssessment": "Listening Assessment",
+      "speakingAssessment": "Speaking Assessment",
+      "readingAssessment": "Reading Assessment",
+      "writingAssessment": "Writing Assessment",
+      "vocabularyAssessment": "Vocabulary Assessment",
+      "grammarAssessmentOverall": "Grammar Assessment",
+      "swotAnalysisTitle": "SWOT Analysis",
+      "swotStrengths": "Strengths",
+      "swotWeaknesses": "Weaknesses",
+      "swotOpportunities": "Opportunities",
+      "swotThreats": "Threats",
+      "tensesStructuresCount": "Tenses/Structures Count",
+      "generalCourseInfoTitle": "General Info & Course Structure"
+    },
+    "categories": {
+        "academic": "Academic English",
+        "ieltsPathway": "IELTS Pathway",
+        "englishFoundation": "English Foundation (Ready for IELTS)",
+        "acaDescription": "Discover in-depth Academic English courses, empowering you in international academic environments.",
+        "ieltsDescription": "Comprehensive IELTS Pathway courses designed to take you from foundational skills to advanced, achieving your target score.",
+        "efDescription": "Build a solid English foundation with our English Foundation courses, the perfect stepping stone for your IELTS goals."
+    },
+    "courses": {
+        "a1": { "description": "Basic English course covering fundamental grammar and vocabulary." },
+        "a2": { "description": "A2 English course, building upon A1 fundamentals." },
+        "b1": { "description": "B1 English course, intermediate level." },
+        "b1plus": { "description": "B1+ English course, advanced B1." },
+        "b2": { "description": "B2 English course, upper-intermediate level." },
+        "c1": { "description": "C1 English course, advanced level." },
+        "ef_a1": { 
+            "name": "EF A1 - Foundation",
+            "description": "Builds a solid English foundation for beginners, focusing on basic communication." 
+        },
+        "ef_a2": { 
+            "name": "EF A2 - Development",
+            "description": "Develops A1 skills, expanding vocabulary and more complex grammar structures." 
+        },
+        "ef_b1": { 
+            "name": "EF B1 - Acceleration",
+            "description": "Enhances independent English usage in various situations." 
+        },
+        "ielts50": {
+            "name": "IELTS Pathway - Target 5.0",
+            "description": "Builds foundational skills and strategies essential for achieving IELTS 5.0."
+        },
+        "ielts60": {
+            "name": "IELTS Pathway - Target 6.0",
+            "description": "Develops advanced tactics and language proficiency for the IELTS 6.0 target."
+        },
+        "ielts70": {
+            "name": "IELTS Pathway - Target 7.0",
+            "description": "Masters in-depth skills and strategies to conquer IELTS 7.0 and beyond."
+        }
+    },
+    "errors": {
+        "fetchFailed": "Failed to load course '{courseName}'. Server responded with status {status}.",
+        "invalidFormat": "The data format for course '{courseName}' is invalid.",
+        "unknownError": "An unknown error occurred while loading course data."
+    }
+  },
+  "alertMessage": {
+    "app": {
+      "initializingAdmin": "Initializing admin privileges...",
+      "adminReady": "Admin privileges ready. You can now search for students.",
+      "adminInitFailedCritical": "COULD NOT INITIALIZE ADMIN PRIVILEGES. Please check configuration or contact support.",
+      "adminInitError": "Error initializing admin privileges: {message}",
+      "adminNotReadySearch": "Admin privileges not ready. Please wait or try refreshing the page.",
+      "searchTermRequired": "Please enter a phone number or email to search.",
+      "invalidSearchFormat": "Invalid search format. Please enter a valid Phone (10 digits, starting with 0) or Email.",
+      "searching": "Searching for \"{searchTerm}\"...",
+      "studentsFound": "Found {count} students for \"{searchTerm}\".",
+      "noStudentsFound": "No students found for \"{searchTerm}\".",
+      "searchFailed": "Search failed: {message}",
+      "loadingDetailsShort": "Loading details...",
+      "loadingDetailsFailed": "Could not load student details. Error: {error}",
+      "addStudentSuccess": "Student \"{fullName}\" added successfully. Default password is \"{defaultPassword}\".",
+      "addStudentFailure": "Failed to add student: {message}",
+      "emailExists": "Email \"{email}\" is already in use. Please choose another email.",
+      "phoneExists": "Phone number \"{phone}\" is already registered. Please choose another number.",
+      "deleteAccountSuccess": "Successfully deleted account for \"{fullName}\".",
+      "deleteAccountFailure": "Failed to delete account: {message}",
+      "deletingAccount": "Deleting account for {fullName}...",
+      "courseLoadFailed": "Failed to load course '{courseName}'. Error: {error}"
+    },
+    "resetPT": {
+      "starting": "Starting Placement Test Reset for {fullName}...",
+      "stepProgress": "Step {step}: {message}",
+      "success": "Placement Test Reset successful for {fullName}. Refreshing data...",
+      "failure": "Placement Test Reset failed for {fullName}: {message}",
+      "progressMessages": {
+        "deleteOldAccountStart": "Deleting old account (UserID: {userId})...",
+        "deleteOldAccountSuccess": "Old account deleted successfully.",
+        "createNewAccountStart": "Creating new account for \"{fullName}\" with email \"{email}\"...",
+        "createNewAccountSuccess": "New account created successfully (New UserID: {newUserId}).",
+        "fetchOtpStart": "Fetching OTP for new account (UserID: {newUserId})...",
+        "fetchOtpGotOtp": "OTP fetched: {otpValue}. Confirming OTP for email \"{email}\"...",
+        "confirmOtpSuccess": "OTP confirmed successfully.",
+        "updateCodeBirthdayStart": "Updating student code and birthday for new account (UserID: {newUserId})...",
+        "updateCodeBirthdaySuccess": "Student code and birthday updated successfully.",
+        "searchNewAccountStart": "Searching for new account info (Email: {email}) to get StudentID...",
+        "searchNewAccountSuccess": "New Student GUID obtained: {newStudentId}.",
+        "updateFullInfoStart": "Updating full account information for Student GUID: {newStudentId}...",
+        "updateFullInfoSuccess": "Full account information updated successfully."
+      }
+    },
+    "dismissButton": {
+      "ariaLabel": "Dismiss alert"
+    }
+  },
+  "apiErrors": {
+    "default": "An unknown API error occurred.",
+    "otpError": "Could not load OTP data.",
+    "ptError": "Could not load Placement Test data.",
+    "missingUserIdError": "User ID for OTP is missing.",
+    "missingStudentEntityIdError": "Student GUID for Placement Test is missing."
+  },
+  "buttons": {
+    "expand": "Expand",
+    "collapse": "Collapse",
+    "add": "Add",
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving...",
+    "close": "Close",
+    "delete": "Delete",
+    "confirmDelete": "Confirm Delete"
+  },
+  "addStudentModal": {
+    "title": "Add New Student",
+    "labels": {
+      "fullName": "Full Name",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "birthday": "Birthday"
+    },
+    "placeholders": {
+      "fullName": "Enter full name",
+      "email": "Enter email address",
+      "phoneNumber": "Enter phone number (optional, 10 digits starting with 0)",
+      "birthday": "Select birthday (optional)"
+    },
+    "validation": {
+      "fullNameRequired": "Full name is required.",
+      "emailRequired": "Email is required.",
+      "emailInvalid": "Invalid email format.",
+      "phoneInvalid": "Invalid phone number (must be 10 digits, starting with 0)."
+    },
+    "addStudentInfo": "Default password for the new account will be \"{defaultPassword}\".",
+    "successPanel": {
+      "title": "Student Account Created Successfully!",
+      "info": "Below are the student's account details:",
+      "fullName": "Student Name:",
+      "birthday": "Birthday:",
+      "username": "Username (Email):",
+      "password": "Default Password:",
+      "note": "Please provide this information to the student and advise them to change their password after the first login."
+    }
+  },
+  "searchBar": {
+    "label": "Search Students (Phone or Email)",
+    "labelShort": "Search",
+    "placeholder": "Enter Phone or Email...",
+    "buttonText": "Search",
+    "buttonLoading": "Searching...",
+    "ariaLabel": "Student search input field",
+    "clearButton": {
+      "ariaLabel": "Clear search input"
+    }
+  },
+  "customerTypes": {
+    "leads": "Leads",
+    "client": "Client",
+    "na": "N/A"
+  },
+  "studentRow": {
+    "buttons": {
+      "showDetails": "Details",
+      "hideDetails": "Hide"
+    }
+  },
+  "studentDetailsAccordion": {
+    "title": "Details for {fullName} ({studentCode})",
+    "otpInfoTitle": "OTP Information",
+    "loadingOtp": "Loading OTP...",
+    "emailOtpLabel": "EMAIL OTP",
+    "smsOtpLabel": "SMS OTP",
+    "noOtpData": "No OTP data available.",
+    "errors": {
+      "otpLoadFailed": "Could not load OTP data.",
+      "otpLoadGenericError": "Error fetching OTP data.",
+      "ptLoadFailed": "Could not load Placement Test data.",
+      "ptLoadGenericError": "Error fetching Placement Test data."
+    }
+  },
+  "modal": {
+    "closeButton": {
+      "ariaLabel": "Close dialog"
+    },
+    "studentDetail": {
+      "title": "Student Details: {fullName}",
+      "tabs": {
+        "info": "Info",
+        "pt": "Placement Test",
+        "ai": "AI Analysis"
+      }
+    }
+  },
+  "selectedStudentInfoCard": {
+    "title": "General Student Information",
+    "noStudentSelected": "No student selected. Please search and select a student from the list.",
+    "sections": {
+      "generalInfo": {
+        "title": "Personal Information",
+        "studentCode": "Student Code",
+        "fullName": "Full Name",
+        "birthday": "Birthday",
+        "phoneNumber": "Phone Number",
+        "email": "Email",
+        "school": "School",
+        "class": "Class"
+      },
+      "customerInfo": {
+        "title": "Customer Information",
+        "customerType": "Customer Type",
+        "package": "Package/Status"
+      },
+      "otpInfo": {
+        "title": "OTP Information",
+        "loading": "Loading OTP...",
+        "emailOtp": "EMAIL OTP",
+        "smsOtp": "SMS OTP",
+        "noData": "No OTP data available."
+      }
+    },
+    "buttons": {
+      "resetPT": "Reset PT",
+      "deleteAccount": "Delete Acc"
+    },
+    "resetPT": {
+      "modal": {
+        "title": "Confirm Placement Test Reset for {fullName}",
+        "confirmation": "Are you sure you want to Reset Placement Test for {fullName} (Email: {email})?",
+        "warningTitle": "IMPORTANT:",
+        "warningMessage": "This action will PERMANENTLY DELETE the student's current account and associated data, then CREATE A NEW ACCOUNT with basic information. Old Placement Test data will be lost. This process cannot be undone.",
+        "processing": "Processing reset...",
+        "stepProgress": "Step {step}: {message}",
+        "buttons": {
+          "cancel": "Cancel",
+          "confirm": "Confirm Reset"
+        }
+      }
+    },
+    "deleteAccountModal": {
+      "title": "Confirm Account Deletion",
+      "confirmation": "Are you sure you want to PERMANENTLY DELETE the account for \"{fullName}\" (Email: {email}, Student Code: {studentCode})?",
+      "warning": "This action will remove all student data from the FSEL system, including personal information, academic results, Placement Test history, and cannot be undone. Financial data or data in other systems may not be directly affected by this operation.",
+      "inputLabel": "To confirm, please type \"DELETE\" into the box below:",
+      "inputPlaceholder": "Type DELETE",
+      "confirmationMatchString": "DELETE",
+      "confirmButton": "Confirm Permanent Deletion",
+      "cancelButton": "Cancel",
+      "invalidConfirmation": "Incorrect confirmation text.",
+      "deletingProgress": "Deleting account..."
+    }
+  },
+  "placementTestDetails": {
+    "headers": {
+        "ptResults": "Placement Test Results",
+        "aiAnalysis": "AI Analysis & Scripting"
+    },
+    "buttons": {
+        "analyzeAI": {
+            "analyzeDetail": "Detailed Analysis",
+            "reanalyzeDetail": "Re-analyze",
+            "generateScripts": "Generate Scripts",
+            "regenerateScripts": "Regen. Scripts",
+            "loadingAnalysis": "Analyzing...",
+            "loadingScripts": "Generating...",
+            "ariaLabel": "Perform AI analysis for placement test results"
+        }
+    },
+    "pt": {
+      "loading": "Loading Placement Test data...",
+      "noData": "No Placement Test data available for this student.",
+      "course": "Course",
+      "currentLevel": "Current Level",
+      "recommendedLevel": "Recommended Level",
+      "testTitle": "Test {level}: {correctCount}/{totalCount} correct",
+      "table": {
+        "skill": "Skill",
+        "score": "Score",
+        "correctTotal": "Correct/Total",
+        "percentage": "Percentage (%)"
+      },
+      "noSkillDetails": "No detailed skill scores available.",
+      "noTestDetails": "No test details available."
+    },
+    "ai": {
+      "notConfiguredWarning": "Gemini AI not configured (API Key missing). Please contact administrator.",
+      "needPtData": "Placement Test data is required for AI analysis.",
+      "loadingAnalysis": "Loading detailed analysis from AI...",
+      "loadingScripts": "Loading script suggestions from AI...",
+      "noAnalysisData": "No detailed analysis data available.",
+      "noScriptData": "No script suggestion data available.",
+      "errors": {
+        "noPtData": "No Placement Test data available for analysis.",
+        "noAnalysisForScripts": "Detailed analysis is required before generating scripts.",
+        "noPtDataForScripts": "Placement Test data context is missing for scripts.",
+        "notConfigured": "Gemini AI is not configured. API Key might be missing.",
+        "analysisError": "AI Analysis Error: {message}",
+        "scriptError": "AI Script Error: {message}",
+        "generalFailure": "An unknown error occurred during AI processing."
+      }
+    }
+  },
+  "desktopStudentList": {
+    "headers": {
+      "stt": "No.",
+      "studentCode": "Student ID",
+      "fullName": "Full Name",
+      "customerType": "Type",
+      "package": "Package",
+      "school": "School",
+      "class": "Class"
+    },
+    "loading": "Loading student list...",
+    "noStudentsFound": "No matching students found.",
+    "performSearch": "Please perform a search to view the student list."
+  },
+  "languageSwitcher": {
+    "toggleToVietnamese": "Chuyển sang Tiếng Việt",
+    "toggleToEnglish": "Switch to English"
+  },
+  "common": {
+    "na": "N/A",
+    "noData": "No data available",
+    "back": "Back",
+    "viewDetails": "View details",
+    "selectCategory": "Select category",
+    "selectCourse": "Select course",
+    "tabsNavigation": "Tabs Navigation",
+    "sentencePatterns": "Notable Sentence Patterns"
+  }
+}

@@ -1,0 +1,1265 @@
+{
+  "tong_quan_ve_khoa_hoc": {
+    "course_name": "English Foundation (Ready for IELTS) - A2",
+    "level_CEFR": "A2",
+    "level_name": "Elementary/Sơ trung",
+    "doi_tuong_muc_tieu": {
+      "do_tuoi": "Từ 16 tuổi trở lên",
+      "trinh_do_dau_vao": "Học viên đã hoàn thành cấp độ A1 hoặc có kiến thức nền tảng tương đương (Beginner/Sơ cấp vững chắc).",
+      "ly_do_hoc_tap_pho_bien": [
+        "Nhu cầu mở rộng khả năng giao tiếp tiếng Anh trong nhiều tình huống phức tạp hơn trong đời sống hàng ngày.",
+        "Xây dựng nền tảng vững chắc để học lên các cấp độ B1, B2.",
+        "Tiếp tục chuẩn bị cho mục tiêu IELTS.",
+        "Cải thiện tiếng Anh phục vụ học tập, công việc cơ bản hoặc du lịch mở rộng."
+      ]
+    },
+    "muc_tieu_dau_ra_chung_khoa_hoc": {
+      "mo_ta_chung": "Đạt năng lực tương ứng Khung Tham Chiếu Chung Châu Âu (CEFR) cấp độ A2 (Elementary/Sơ trung).",
+      "chi_tiet_ky_nang": [
+        "Hiểu và sử dụng các câu, cụm từ thông dụng liên quan đến các lĩnh vực thường gặp (thông tin cá nhân, gia đình, mua sắm, địa điểm, công việc, v.v.).",
+        "Có thể giao tiếp trong các tình huống đơn giản, đòi hỏi trao đổi thông tin trực tiếp và rõ ràng về các vấn đề quen thuộc.",
+        "Có khả năng mô tả bằng các thuật ngữ đơn giản về gia đình, các hoạt động hàng ngày, môi trường gần gũi và các vấn đề về nhu cầu cơ bản.",
+        "Nghe hiểu các câu, cụm từ cấp tốc trong các lĩnh vực quen thuộc, thông tin trực tiếp về bản thân và môi trường khi nói chậm, rõ ràng.",
+        "Đọc hiểu các văn bản ngắn, đơn giản như quảng cáo, thực đơn, thời gian biểu, thiệp chúc mừng, email cá nhân đơn giản.",
+        "Nói đơn giản: Có thể bắt đầu và duy trì một cuộc trò chuyện ngắn về các chủ đề cá nhân; có thể mô tả một cách cơ bản về các sự kiện, sở hữu, kinh nghiệm.",
+        "Viết: Có thể viết các ghi chú và tin nhắn ngắn đơn giản liên quan đến các nhu cầu cấp bách, thư cá nhân hoặc bưu thiếp đơn giản."
+      ]
+    },
+    "so_luong_hoa_dau_ra_kien_thuc_du_kien": {
+      "total_estimated_new_vocabulary": "Khoảng 600 - 800 từ vựng và cụm từ mới, mở rộng các chủ đề quen thuộc và giới thiệu thêm các từ vựng cho tình huống hàng ngày phức tạp hơn.",
+      "total_tenses_learned": [
+        "Thì Hiện tại đơn (Present Simple)",
+        "Thì Hiện tại tiếp diễn (Present Continuous)",
+        "Thì Quá khứ đơn (Past Simple) - mở rộng hơn về động từ bất quy tắc",
+        "Thì Hiện tại hoàn thành (Present Perfect Simple) - cơ bản với 'ever/never'",
+        "Thì Tương lai (dùng 'be going to' và 'will' cho kế hoạch/quyết định nhanh)"
+      ],
+      "total_core_grammar_patterns": [
+        "Cấu trúc động từ 'Be' và 'Have got' (phủ định, câu hỏi, trả lời ngắn, số ít/số nhiều)",
+        "Đại từ nhân xưng chủ ngữ/tân ngữ, tính từ sở hữu và sở hữu cách 's'",
+        "Đại từ chỉ định (this/that/these/those) và trạng từ tần suất",
+        "Các giới từ chỉ thời gian và nơi chốn phức tạp hơn",
+        "Các động từ tình thái (modal verbs) cơ bản như 'can', 'should', 'must/have to'",
+        "Mạo từ và lượng từ (a/an, some, any, a lot of, much/many)",
+        "Câu hỏi Wh- và câu hỏi Có/Không",
+        "Mẫu câu so sánh (comparatives) và so sánh nhất (superlatives)",
+        "Cấu trúc diễn tả kế hoạch tương lai ('be going to', 'will') và kinh nghiệm ('have you ever...?')",
+        "Câu mệnh lệnh (imperatives)",
+        "Danh từ đếm được/không đếm được"
+      ],
+      "total_real_world_situations": "Hơn 60 tình huống giao tiếp thực tế điển hình (hỏi thông tin cá nhân, gia đình, thói quen, mô tả nhà cửa/đồ vật, hỏi/cho chỉ đường, mua sắm, đặt món ăn, nói về công việc, lễ hội, các sự kiện quá khứ, các vấn đề sức khỏe, v.v.). Đây là những tình huống đa dạng giúp học viên tự tin tương tác trong bối cảnh xã hội và cá nhân rộng hơn."
+    },
+    "cau_truc_va_thoi_luong_khoa_hoc": {
+      "total_units_count": 12,
+      "typical_lessons_per_unit": "5 (4 bài học chính A-D + 1 bài kiểm tra/portfolio E)",
+      "estimated_hours_per_lesson": "1.5 giờ",
+      "total_estimated_learning_hours": "Khoảng 90 giờ (ước tính 60 bài học x 1.5 giờ/bài học), phù hợp với khuyến nghị khung CEFR A2."
+    },
+    "danh_gia_tong_the_va_ket_luan": {
+      "diem_manh_lo_trinh": [
+        "Cấu trúc bài giảng rõ ràng, hệ thống và nhất quán theo 'Lesson stage checklist', đảm bảo tiến độ học tập mạch lạc, có tính kế thừa từ A1.",
+        "Tiếp cận toàn diện phát triển 4 kỹ năng ngôn ngữ (Nghe, Nói, Đọc, Viết) cùng với từ vựng và ngữ pháp, đảm bảo học viên phát triển toàn diện.",
+        "Tính ứng dụng cao: Các chủ đề và tình huống 'Real World' được mở rộng và phức tạp hơn, giúp học viên tự tin áp dụng kiến thức vào nhiều ngữ cảnh đời sống đa dạng.",
+        "Phương pháp học kết hợp (Blended Learning) hiệu quả giữa bài giảng video, thực hành trên diễn đàn AI và bài tập củng cố tại nhà, tạo môi trường học linh hoạt.",
+        "Sử dụng giáo trình quốc tế uy tín 'Face2Face Elementary, 2nd Edition', được đánh giá cao về tính thực tiễn và phù hợp với cấp độ A2.",
+        "Có hệ thống kiểm tra định kỳ (Progress Test) và củng cố kỹ năng (Workbook, Portfolio) giúp theo dõi và đánh giá hiệu quả học tập một cách khách quan."
+      ],
+      "su_phu_hop_voi_muc_tieu_khoa_hoc": "Lộ trình này hoàn toàn phù hợp với mục tiêu của khóa học English Foundation (Ready for IELTS) - A2 (CEFR A2) bởi nó không chỉ củng cố kiến thức nền từ A1 mà còn mở rộng sâu hơn về ngữ pháp và từ vựng, trang bị khả năng giao tiếp chi tiết hơn trong các tình huống đời sống và đặt nền móng cho các cấp độ CEFR cao hơn.",
+      "su_chuan_bi_for_higher_levels": [
+        "Tiếp tục xây dựng nền tảng vững chắc về ngữ pháp và từ vựng, giúp học viên sẵn sàng tiếp thu các cấu trúc phức tạp hơn ở cấp độ B1, B2.",
+        "Củng cố và nâng cao các kỹ năng Nghe, Nói, Đọc, Viết qua các nhiệm vụ đa dạng hơn, tạo đà vững chắc cho việc học lên cao.",
+        "Tăng cường sự tự tin khi sử dụng tiếng Anh trong các tình huống thực tế, là yếu tố quan trọng khi chuyển sang các khóa luyện thi chuyên sâu như IELTS.",
+        "Các chủ đề và kỹ năng được giới thiệu ở A2 có liên quan mật thiết đến các phần trong bài thi IELTS, giúp học viên làm quen dần với các kiểu nội dung mà không tập trung trực tiếp vào định dạng đề thi."
+      ],
+      "professional_expert_assessment": {
+        "evaluation_based_on_six_components": {
+          "listening_assessment": "Phát triển khả năng nghe hiểu các đoạn hội thoại, thông báo, và mô tả ngắn hơn so với A1. Học viên sẽ được luyện nghe để nắm bắt ý chính và thông tin cụ thể về các chủ đề quen thuộc (ví dụ: công việc, cuộc sống hàng ngày, các sự kiện cá nhân).",
+          "speaking_assessment": "Nâng cao khả năng giao tiếp hai chiều, khuyến khích tương tác tự phát hơn. Học viên có thể tự giới thiệu và miêu tả rõ ràng hơn về bản thân, gia đình, sở thích, kế hoạch. Tuy nhiên, vẫn cần giáo viên định hướng để phát triển khả năng nói độc thoại và độ lưu loát.",
+          "reading_assessment": "Mở rộng khả năng đọc hiểu các văn bản ngắn hơn A1 (khoảng 50-100 từ), bao gồm thư/email cá nhân đơn giản, quảng cáo, mẩu tin ngắn, danh sách. Tập trung vào việc hiểu thông tin cụ thể và ý chính của đoạn văn.",
+          "writing_assessment": "Cải thiện kỹ năng viết câu đơn và câu ghép cơ bản, điền biểu mẫu, viết email/tin nhắn ngắn gọn về các chủ đề quen thuộc, và các đoạn mô tả đơn giản (ví dụ: mô tả về nhà, thói quen, trải nghiệm cá nhân). Việc củng cố qua Portfolio giúp học viên có sản phẩm đầu ra rõ ràng.",
+          "vocabulary_assessment": "Tiếp tục tích lũy từ vựng thiết yếu, mở rộng các nhóm từ liên quan đến cuộc sống hàng ngày, thói quen, hoạt động, mô tả người, đồ vật và các tình huống du lịch/xã hội. Số lượng từ mới mỗi Unit phù hợp để đảm bảo học viên có thể tiếp thu và áp dụng hiệu quả.",
+          "grammar_assessment": "Củng cố vững chắc các thì hiện tại (đơn và tiếp diễn) và quá khứ đơn, giới thiệu các cấu trúc ngữ pháp mới ở cấp độ A2 như thì hiện tại hoàn thành (cơ bản), so sánh, động từ tình thái. Các quy tắc ngữ pháp được giải thích rõ ràng và có nhiều bài tập luyện tập để củng cố."
+        },
+        "swot_analysis": {
+          "strengths": [
+            "Lộ trình được thiết kế một cách khoa học, tiếp nối và mở rộng kiến thức từ cấp độ A1, đảm bảo tính liên tục trong quá trình học.",
+            "Tập trung vào ngữ pháp và từ vựng thông qua các bài tập có cấu trúc rõ ràng, là nền tảng cốt lõi cho mọi kỹ năng.",
+            "Các hoạt động 'Real World' được lồng ghép hiệu quả, giúp học viên áp dụng kiến thức vào các tình huống giao tiếp đời thực đa dạng hơn.",
+            "Hình thức học tập kết hợp (blended learning) với video tương tác và diễn đàn giúp người học linh hoạt về thời gian và địa điểm, có sự hỗ trợ của công nghệ.",
+            "Hệ thống bài kiểm tra tiến độ và Portfolio được tích hợp giúp theo dõi và đánh giá sự phát triển của học viên một cách khách quan.",
+            "Giáo trình 'Face2Face Elementary' được công nhận rộng rãi về tính hiệu quả và thực tiễn cho cấp độ A2."
+          ],
+          "weaknesses": [
+            "Mặc dù có 'Thực hành tự do', một số hoạt động giao tiếp nói/viết vẫn có thể còn quá phụ thuộc vào kịch bản, hạn chế khả năng ứng biến thực tế của học viên.",
+            "Số lượng từ vựng mới trong mỗi Unit có thể được tăng cường nhẹ để tối ưu hóa việc mở rộng vốn từ cho học viên A2 muốn nhanh chóng tiến bộ.",
+            "Việc phản hồi chuyên sâu về ngữ pháp và đặc biệt là phát âm cho các hoạt động tự do có thể phụ thuộc nhiều vào chất lượng và tần suất tương tác với giáo viên/AI, có thể chưa đồng đều."
+          ],
+          "opportunities": [
+            "Mở rộng ứng dụng công nghệ AI để cá nhân hóa lộ trình học, cung cấp các bài tập và phản hồi phù hợp với điểm mạnh/yếu riêng của từng học viên.",
+            "Tích hợp thêm các tình huống giao tiếp đa văn hóa để nâng cao sự tự tin và kỹ năng giao tiếp trong các bối cảnh khác nhau, đặc biệt hữu ích cho định hướng IELTS.",
+            "Phát triển các dự án thực hành lớn hơn (project-based learning) trong mỗi Unit để học viên có cơ hội tổng hợp và thể hiện kiến thức, kỹ năng một cách sáng tạo và thực tế hơn."
+          ],
+          "threats": [
+            "Sự tự giác của học viên là yếu tố quyết định, nếu thiếu động lực hoặc không có môi trường luyện tập tiếng Anh thường xuyên, hiệu quả học tập có thể bị giảm sút.",
+            "Các khó khăn về kỹ thuật (internet, thiết bị) có thể ảnh hưởng đến trải nghiệm học trực tuyến.",
+            "Mặc dù chuẩn bị cho IELTS, học viên vẫn cần chuyển tiếp sang một khóa học chuyên sâu hơn về chiến lược và cấu trúc bài thi khi đạt đến trình độ cao hơn để đạt được mục tiêu mong muốn."
+          ]
+        }
+      }
+    }
+  },
+  "chi_tiet_ve_khoa_hoc": {
+    "lesson_structure_and_objectives": {
+      "checklist_steps_description": [
+        {"buoc": "Mở đầu bài học", "muc_dich": "Thu hút sự chú ý, kích hoạt kiến thức nền và giới thiệu mục tiêu bài học."},
+        {"buoc": "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính", "muc_dich": "Giới thiệu các từ vựng khó, các kỹ thuật làm bài hoặc thông tin bối cảnh cần thiết trước khi đọc/nghe nội dung chính."},
+        {"buoc": "Bài tập lấy ý chính văn bản chính", "muc_dich": "Rèn luyện khả năng đọc/nghe nhanh để nắm bắt chủ đề và thông điệp cốt lõi."},
+        {"buoc": "Bài tập lấy thông tin cụ thể từ văn bản chính", "muc_dich": "Rèn luyện kỹ năng tìm kiếm và xác định các chi tiết quan trọng trong văn bản/audio."},
+        {"buoc": "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)", "muc_dich": "Phân tích sâu từ vựng chính, đảm bảo học viên hiểu nghĩa, cách dùng đúng hình thức (loại từ, cách viết) và phát âm chuẩn xác."},
+        {"buoc": "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)", "muc_dich": "Phân tích sâu cấu trúc ngữ pháp chính, đảm bảo học viên hiểu rõ cách sử dụng, hình thức và các trường hợp phát âm đặc biệt."},
+        {"buoc": "Tóm tắt các điểm ngôn ngữ mục tiêu", "muc_dich": "Hệ thống lại các từ vựng và cấu trúc ngữ pháp trọng tâm đã học, giúp củng cố kiến thức và ghi nhớ lâu dài."},
+        {"buoc": "Mô hình hóa nhiệm vụ sản sinh", "muc_dich": "Giáo viên hoặc tài liệu cung cấp ví dụ mẫu về cách thực hiện một hoạt động nói hoặc viết, hướng dẫn học viên về sản phẩm đầu ra mong muốn."},
+        {"buoc": "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)", "muc_dich": "Khuyến khích học viên tự tin áp dụng ngôn ngữ đã học vào thực tế, thông qua các hoạt động nói hoặc viết tự do, và chia sẻ trên diễn đàn để nhận phản hồi."}
+      ],
+      "vai_tro_lesson_stage_checklist": "Đảm bảo tính hệ thống, tuần tự logic, toàn diện và hiệu quả trong quá trình tiếp thu ngôn ngữ."
+    },
+    "teaching_methodology_and_tools": {
+      "checklist_role": "Đảm bảo tính hệ thống, tuần tự logic, toàn diện và hiệu quả trong quá trình tiếp thu ngôn ngữ bằng cách cung cấp một khung sườn có cấu trúc cho mỗi bài học.",
+      "blended_learning_approach": "Việc kết hợp học trên lớp với các bài tập kỹ năng có hướng dẫn giúp học viên xây dựng nền tảng chính xác và bài bản. Đồng thời, việc thực hành tự do thông qua các nhiệm vụ trên diễn đàn, có thể có sự hỗ trợ của AI, tạo điều kiện phát triển sự lưu loát, tự tin và khả năng ứng dụng ngôn ngữ một cách sáng tạo trong môi trường giao tiếp mở.",
+      "assessment_and_reinforcement": {
+        "homework_workbook": "Là công cụ chính để củng cố và ôn tập kiến thức đã học trên lớp, giúp học viên ghi nhớ sâu hơn và tự luyện tập các kỹ năng ngôn ngữ.",
+        "progress_test": "Các bài kiểm tra định kỳ được sử dụng để đánh giá tổng thể mức độ nắm vững kiến thức và kỹ năng sau mỗi đơn vị bài học hoặc nhóm đơn vị. Điều này giúp học viên và giáo viên nhận diện những lỗ hổng cần cải thiện.",
+        "reading_writing_portfolio": "Các nhiệm vụ đọc và viết tích hợp trong portfolio khuyến khích học viên tổng hợp và áp dụng kiến thức từ nhiều bài học. Đây là một phương tiện hiệu quả để đánh giá quá trình học tập và thể hiện sự phát triển kỹ năng đọc và viết một cách có ý nghĩa."
+      },
+      "digital_tools_integration": {
+        "bai_giang_video_tuong_tac": "Là phương tiện chính triển khai 'Lesson stage checklist', cung cấp môi trường học đa phương tiện, linh hoạt, cho phép học viên tự điều chỉnh tốc độ học và xem lại các phần cần thiết, góp phần tối ưu hóa quá trình tiếp thu.",
+        "dien_dan_lop_hoc_cung_AI": "Đóng vai trò là nền tảng để học viên thực hiện các 'Bài tập trên diễn đàn' và giao tiếp tự do. Sự hỗ trợ của AI có thể cung cấp phản hồi ngữ pháp cơ bản, gợi ý từ vựng hoặc tạo tình huống hội thoại mô phỏng, khuyến khích học viên luyện tập chủ động, tăng tương tác và xây dựng một cộng đồng học tập năng động."
+      },
+      "personalization_features": [
+        "Các bài tập 'Thực hành tự do' trên diễn đàn cho phép học viên tùy chỉnh nội dung thực hành nói/viết theo sở thích hoặc nhu cầu cá nhân.",
+        "Tính linh hoạt của video tương tác giúp người học kiểm soát tốc độ học, dừng lại hoặc xem lại nội dung phức tạp.",
+        "Mục 'Lesson stage checklist' có các bước riêng lẻ, cho phép giáo viên điều chỉnh trọng tâm hoặc dành thêm thời gian cho những phần học viên gặp khó khăn."
+      ]
+    },
+    "units_va_lessons": [
+      {
+        "unit_so": 1,
+        "unit_ten_chu_de_chinh_bao_quat": "Hỏi và nói về thông tin cá nhân và những thứ thuộc về bạn",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Các quốc gia và quốc tịch", "Tính từ miêu tả", "Nghề nghiệp", "Địa chỉ email", "Số (đến 100)", "Các loại danh từ và cụm từ Real World"],
+          "estimated_new_words": 50,
+          "key_grammar_points": ["Động từ 'Be' (khẳng định, phủ định, câu hỏi Wh-, câu trả lời ngắn)", "Đại từ nhân xưng chủ ngữ/tân ngữ", "Tính từ sở hữu và sở hữu cách 's'", "Các từ chỉ định 'this/that/these/those'"],
+          "tenses_covered": ["Hiện tại đơn (Động từ 'Be')"],
+          "notable_sentence_patterns": [
+            "How are you? I'm fine, thanks.",
+            "What's your name?",
+            "What's important to me?",
+            "What do you do?",
+            "Where's the baby?"
+          ]
+        },
+        "unit_skill_objectives": "Hỏi và giới thiệu về bản thân/người khác, nghề nghiệp, quốc tịch; miêu tả sở hữu; hỏi và trả lời thông tin cá nhân (email, số điện thoại, vật dụng cá nhân); miêu tả người/vật; đặt và trả lời câu hỏi cơ bản; điền thông tin vào biểu mẫu.",
+        "unit_real_world_situations": ["Giới thiệu bản thân và người khác", "Trao đổi thông tin liên hệ", "Miêu tả tài sản cá nhân", "Các cuộc hội thoại tại buổi họp mặt hoặc cửa hàng", "Hỏi và cho biết vị trí của một vật hoặc người"],
+        "lessons": [
+          {
+            "lesson_id": "1A",
+            "lesson_name": "How are you?",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Giới thiệu bản thân và người khác, nói về các quốc gia và quốc tịch, cùng với cách sử dụng lời chào hỏi trong giao tiếp hàng ngày. Luyện tập với các tên và quốc gia, lắng nghe hội thoại tại hội nghị và đọc về thông tin hội nghị.",
+            "vocabulary_focus": "Các quốc gia và quốc tịch",
+            "grammar_focus": "Động từ 'Be' (phần 1): khẳng định và câu hỏi Wh-; Đại từ nhân xưng chủ ngữ và tính từ sở hữu",
+            "real_world_context": "Giới thiệu mọi người; hỏi và trả lời 'Bạn khỏe không?'; nói lời chào hỏi.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "1A"
+          },
+          {
+            "lesson_id": "1B",
+            "lesson_name": "Coffee break",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Viết"],
+            "topic_content": "Từ vựng về nghề nghiệp. Ôn tập cách sử dụng 'Be' (phần 2): câu hỏi phủ định, câu hỏi Có/Không và trả lời ngắn. Trao đổi về số điện thoại và nghề nghiệp trong cuộc hội thoại tại giờ giải lao. Đọc về danh sách hội nghị.",
+            "vocabulary_focus": "Nghề nghiệp; mạo từ 'a' và 'an'",
+            "grammar_focus": "Động từ 'Be' (phần 2): phủ định, câu hỏi Có/Không và trả lời ngắn",
+            "real_world_context": "Trao đổi số điện thoại và nghề nghiệp; hỏi về người khác trong ngữ cảnh giải lao/hội nghị.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Bối cảnh Viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "1B"
+          },
+          {
+            "lesson_id": "1C",
+            "lesson_name": "Personal details",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Viết"],
+            "topic_content": "Số từ 20 đến 100. Đặt câu hỏi về thông tin cá nhân và yêu cầu người khác lặp lại điều họ nói. Trao đổi thông tin cá nhân. Lắng nghe trọng âm câu và nghe về việc thuê xe ô tô. Viết các câu về thông tin cá nhân và điền vào biểu mẫu.",
+            "vocabulary_focus": "Các số từ 20-100",
+            "grammar_focus": null,
+            "real_world_context": "Hỏi thông tin cá nhân chi tiết (ví dụ: tuổi tác); yêu cầu người khác lặp lại; điền vào biểu mẫu thông tin.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Bối cảnh Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "1C"
+          },
+          {
+            "lesson_id": "1D",
+            "lesson_name": "Lost property",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về đồ vật cá nhân và dạng số nhiều. Sử dụng các từ chỉ định 'This, that, these, those'. Nói về những đồ vật trong lớp học, sở hữu cá nhân và mô tả chúng. Viết các câu với giới từ.",
+            "vocabulary_focus": "Đồ vật cá nhân; Dạng số nhiều",
+            "grammar_focus": "Các từ chỉ định 'This, that, these, those'",
+            "real_world_context": "Hỏi và nói về những đồ vật bị mất hoặc vật dụng cá nhân.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Bối cảnh Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "1D"
+          },
+          {
+            "lesson_id": "1E",
+            "lesson_name": "Unit 1 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tổng hợp kiến thức từ vựng và ngữ pháp của Unit 1. Hoàn thành Portfolio Đọc và Viết số 1 để củng cố kỹ năng và ghi lại sự tiến bộ học tập.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 1",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 1",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa việc viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "1E"
+          }
+        ]
+      },
+      {
+        "unit_so": 2,
+        "unit_ten_chu_de_chinh_bao_quat": "Đồ dùng cá nhân và các thành viên trong gia đình",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Tính từ (1)", "Gia đình", "Các từ liên quan đến tiền tệ và mua sắm", "Các đồ vật trong nhà", "Các từ chỉ thời gian", "Các sự kiện/vật phẩm quan trọng"],
+          "estimated_new_words": 45,
+          "key_grammar_points": ["Cấu trúc 'Have got': khẳng định, phủ định, câu hỏi và trả lời ngắn", "Trật tự từ của tính từ", "Sở hữu cách ('s) - mở rộng", "Các giới từ chỉ nơi chốn"],
+          "tenses_covered": ["Hiện tại đơn (Present Simple)"],
+          "notable_sentence_patterns": [
+            "What's important to me?",
+            "I've got...",
+            "What time is it?",
+            "Where's the baby?",
+            "I have got..."
+          ]
+        },
+        "unit_skill_objectives": "Miêu tả sở hữu cá nhân và các thành viên gia đình; nói về giờ và giá cả; đặt món; hỏi và nói về vị trí đồ vật; đọc hiểu các tin nhắn/quảng cáo đơn giản.",
+        "unit_real_world_situations": ["Mua sắm đồ vật quan trọng", "Nói về gia đình", "Hỏi và nói về thời gian", "Đặt món ăn trong cửa hàng", "Xác định vị trí đồ vật thất lạc"],
+        "lessons": [
+          {
+            "lesson_id": "2A",
+            "lesson_name": "What's important?",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Tính từ (phần 1); trật tự từ của tính từ và cách dùng 'very'. Động từ 'Have got': khẳng định, phủ định, câu hỏi và trả lời ngắn. Nói về các đồ vật quan trọng và trả lời khảo sát mua sắm trong cửa hàng. Tìm hiểu về tài sản của bạn bè.",
+            "vocabulary_focus": "Tính từ (phần 1); Các đồ dùng cá nhân",
+            "grammar_focus": "Tính từ: trật tự từ và cách dùng 'very'; 'Have got': khẳng định, phủ định, câu hỏi và trả lời ngắn",
+            "real_world_context": "Miêu tả những thứ quan trọng với bạn; hỏi và trả lời về sở hữu trong ngữ cảnh mua sắm hoặc khảo sát.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "2A"
+          },
+          {
+            "lesson_id": "2B",
+            "lesson_name": "The Browns",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về gia đình. Sở hữu cách 's'. Nói về gia đình của bạn. Nghe về các bức ảnh gia đình. Đọc về gia đình Brown. Viết câu về gia đình.",
+            "vocabulary_focus": "Gia đình; sở hữu cách 's'",
+            "grammar_focus": "Từ vựng về gia đình; Sở hữu cách 's'",
+            "real_world_context": "Nói về các thành viên trong gia đình bạn; miêu tả ảnh gia đình.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ nói/viết trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "2B"
+          },
+          {
+            "lesson_id": "2C",
+            "lesson_name": "Time and money",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về thời gian. Hỏi và nói về thời gian. Nói về giá cả. Mua vé xem phim. Tìm hiểu giờ và giá cả trong một quảng cáo tại rạp chiếu phim.",
+            "vocabulary_focus": "Từ vựng về thời gian",
+            "grammar_focus": null,
+            "real_world_context": "Hỏi và nói về thời gian; hỏi và nói về giá cả; mua vé xem phim/sự kiện.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "2C"
+          },
+          {
+            "lesson_id": "2D",
+            "lesson_name": "Where's the baby?",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về các đồ vật trong nhà và giới từ chỉ nơi chốn. Xác định vị trí các đồ vật cá nhân. Tìm túi của Robbie. Xác định vị trí em bé. Viết các câu với giới từ.",
+            "vocabulary_focus": "Các đồ vật trong nhà; Giới từ chỉ nơi chốn",
+            "grammar_focus": null,
+            "real_world_context": "Hỏi và nói về vị trí của người hoặc vật ('Where's the baby?').",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "2D"
+          },
+          {
+            "lesson_id": "2E",
+            "lesson_name": "Unit 2 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 2. Hoàn thành Portfolio Đọc và Viết 2.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 2",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 2",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa việc viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "2E"
+          }
+        ]
+      },
+      {
+        "unit_so": 3,
+        "unit_ten_chu_de_chinh_bao_quat": "Cuộc sống hàng ngày và sở thích cá nhân",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Thói quen hàng ngày", "Các tháng và ngày trong năm", "Từ vựng chỉ sự thường xuyên", "Các hoạt động giải trí (2)", "Các cụm động từ"],
+          "estimated_new_words": 45,
+          "key_grammar_points": ["Hiện tại đơn (Present Simple - khẳng định, câu hỏi Wh- với I/you/we/they, phủ định)", "Đại từ nhân xưng chủ ngữ/tân ngữ", "Câu mệnh lệnh (Imperatives)", "Các thì để nói về các kế hoạch tương lai (Be going to)"],
+          "tenses_covered": ["Hiện tại đơn (Present Simple)"],
+          "notable_sentence_patterns": [
+            "What do you do?",
+            "It's about...",
+            "What's the date today?",
+            "Would you like...?",
+            "Tell me..."
+          ]
+        },
+        "unit_skill_objectives": "Nói về thói quen hàng ngày và các sự kiện đặc biệt; mô tả sở thích cá nhân; nói về ngày và tháng; đưa ra gợi ý và yêu cầu; hỏi và nói về kế hoạch tương lai; sử dụng lời mời lịch sự; miêu tả lịch trình buổi sáng.",
+        "unit_real_world_situations": ["Trao đổi về lịch trình và các hoạt động trong ngày", "Thảo luận về các sự kiện đặc biệt (sinh nhật, lễ kỷ niệm)", "Nói về thói quen sớm/muộn", "Các hoạt động giải trí trong ngày/cuối tuần", "Lời mời và đặt món tại quán cafe"],
+        "lessons": [
+          {
+            "lesson_id": "3A",
+            "lesson_name": "My day",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về thói quen hàng ngày. Hiện tại đơn (phần 1): khẳng định và câu hỏi Wh- (I/you/we/they). Nói về các hoạt động giải trí và tìm hai người có cùng sở thích. Nghe về trọng âm yếu (Weak forms) với 'Do you...?', đọc về các thói quen hàng ngày.",
+            "vocabulary_focus": "Các thói quen hàng ngày; các hoạt động giải trí",
+            "grammar_focus": "Hiện tại đơn (phần 1): khẳng định và câu hỏi Wh- (I/you/we/they)",
+            "real_world_context": "Nói về thói quen hàng ngày của bạn và người khác; hỏi và trả lời các câu hỏi về hoạt động trong ngày.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "3A"
+          },
+          {
+            "lesson_id": "3B",
+            "lesson_name": "Free time",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về các hoạt động giải trí (phần 1). Giới từ chỉ thời gian: 'on, in, at', 'every'. Hiện tại đơn (phần 2): phủ định và câu hỏi Có/Không (I/you/we/they). Nghe về 'Hai người có chung sở thích' và 'Bữa tiệc văn phòng'. Viết các câu hỏi sử dụng 'Do you...?'",
+            "vocabulary_focus": "Các hoạt động giải trí (phần 1); Các cụm từ chỉ thời gian: on, in, at, every",
+            "grammar_focus": "Hiện tại đơn (phần 2): phủ định và câu hỏi Có/Không (I/you/we/they)",
+            "real_world_context": "Thực hành nói về thời gian rảnh; đưa ra gợi ý cho các hoạt động vui chơi.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "3B"
+          },
+          {
+            "lesson_id": "3C",
+            "lesson_name": "Special days",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về các tháng và ngày. Các cụm từ dùng cho các ngày đặc biệt. Đưa ra gợi ý về ngày kỷ niệm và sinh nhật. Hỏi về 'Ngày nào trong tháng hôm nay?' và 'Chúng ta nên mua gì cho cô ấy?'. Nghe và đọc các ngày.",
+            "vocabulary_focus": "Các tháng và ngày trong năm; Các cụm từ cho các ngày đặc biệt",
+            "grammar_focus": null,
+            "real_world_context": "Nói về các ngày đặc biệt và quan trọng (sinh nhật, ngày kỷ niệm); đưa ra gợi ý mua quà.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "3C"
+          },
+          {
+            "lesson_id": "3D",
+            "lesson_name": "Early bird?",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Trạng từ tần suất; Đại từ chủ ngữ và tân ngữ. Nói về các thói quen của bạn và liệu bạn là người 'dậy sớm' hay 'ngủ nướng'. Nghe và đọc về 'dậy sớm hay ngủ nướng'. Viết đoạn hội thoại.",
+            "vocabulary_focus": "Trạng từ tần suất; Các từ liên quan đến 'dậy sớm' hay 'ngủ nướng'",
+            "grammar_focus": "Trạng từ tần suất; Đại từ chủ ngữ và tân ngữ",
+            "real_world_context": "Nói về các thói quen hàng ngày và sở thích cá nhân liên quan đến giờ giấc.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "3D"
+          },
+          {
+            "lesson_id": "3E",
+            "lesson_name": "Unit 3 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 3. Hoàn thành Portfolio Đọc và Viết 3.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 3",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 3",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "3E"
+          }
+        ]
+      },
+      {
+        "unit_so": 4,
+        "unit_ten_chu_de_chinh_bao_quat": "Thức ăn, đồ uống và các vấn đề về sức khỏe",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Đồ ăn và thức uống (1 & 2)", "Các từ vựng về số lượng đếm được/không đếm được", "Các yêu cầu và đề nghị", "Các loại đồ ăn sáng", "Tính từ (3)", "Các vấn đề về sức khỏe", "Từ vựng về điều trị bệnh"],
+          "estimated_new_words": 50,
+          "key_grammar_points": ["Hiện tại đơn (Present Simple): câu hỏi và trả lời ngắn (he/she/it)", "Danh từ đếm được và không đếm được", "Các từ nghi vấn 'How much...?' và 'How many...?'", "Câu mệnh lệnh", "Infinitive of purpose (động từ nguyên mẫu chỉ mục đích)"],
+          "tenses_covered": ["Hiện tại đơn (Present Simple)"],
+          "notable_sentence_patterns": [
+            "I'm away from home.",
+            "I've got a friend for you!",
+            "What customers say?",
+            "What's for breakfast?",
+            "What can you do?"
+          ]
+        },
+        "unit_skill_objectives": "Miêu tả thói quen ăn uống; hỏi và trả lời về số lượng đồ ăn; yêu cầu và đề nghị lịch sự; đặt món ăn/thức uống tại quán; miêu tả các vấn đề sức khỏe và điều trị; đưa ra lời khuyên về sức khỏe.",
+        "unit_real_world_situations": ["Thói quen ăn uống xa nhà", "Các cuộc hội thoại ở quán cà phê/nhà hàng", "Mua sắm trong cửa hàng bách hóa", "Hỏi và trả lời về bữa sáng", "Trao đổi về sức khỏe"],
+        "lessons": [
+          {
+            "lesson_id": "4A",
+            "lesson_name": "Away from home",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về các hoạt động giải trí (phần 2). Hiện tại đơn (phần 3): khẳng định và phủ định (he/she/it). Nói về các hoạt động giải trí cá nhân và của bạn đời. Nghe về cuộc sống tại đài quan sát và luyện tập 'nối âm' (linking).",
+            "vocabulary_focus": "Các hoạt động giải trí (phần 2)",
+            "grammar_focus": "Hiện tại đơn (phần 3): khẳng định và phủ định (he/she/it)",
+            "real_world_context": "Miêu tả các hoạt động giải trí và thói quen sinh hoạt khi xa nhà.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "4A"
+          },
+          {
+            "lesson_id": "4B",
+            "lesson_name": "First Date!",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Những điều bạn thích và không thích; động từ + -ing. Hiện tại đơn (phần 4): câu hỏi và trả lời ngắn (he/she/it). Hội thoại 'Tôi có một người bạn dành cho bạn!'. Lắng nghe câu chuyện 'First Date!'. Đọc hiểu lịch trình và các câu hỏi dùng 'Does he/she...?. Viết một email hẹn hò.",
+            "vocabulary_focus": "Những điều bạn thích và không thích; từ vựng về buổi hẹn hò đầu tiên",
+            "grammar_focus": "Hiện tại đơn (phần 4): câu hỏi và trả lời ngắn (he/she/it)",
+            "real_world_context": "Nói về sở thích và hoạt động giải trí cá nhân/của người khác; mô tả một buổi hẹn hò đầu tiên.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "4B"
+          },
+          {
+            "lesson_id": "4C",
+            "lesson_name": "Eating out",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về đồ ăn và thức uống (phần 1), yêu cầu và đề nghị. Lắng nghe yêu cầu của khách hàng. Nói về quán cà phê yêu thích của tôi. Nghe đặt món ở Sun Café. Đọc thực đơn và hội thoại ở quán cà phê.",
+            "vocabulary_focus": "Đồ ăn và thức uống (phần 1); Các yêu cầu và đề nghị",
+            "grammar_focus": null,
+            "real_world_context": "Hỏi và gọi món tại quán cà phê/nhà hàng; yêu cầu một cách lịch sự.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "4C"
+          },
+          {
+            "lesson_id": "4D",
+            "lesson_name": "Breakfast time",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về đồ ăn và thức uống (phần 2), danh từ đếm được và không đếm được. Hỏi 'How much...?' và 'How many...?'. Nói về các bữa sáng khắp thế giới. Nghe về bữa sáng hoàn hảo. Đọc về các bữa sáng.",
+            "vocabulary_focus": "Đồ ăn và thức uống (phần 2); Danh từ đếm được và không đếm được",
+            "grammar_focus": "Cách dùng 'How much...?' và 'How many...?'",
+            "real_world_context": "Hỏi và nói về đồ ăn cho bữa sáng; sử dụng danh từ đếm được/không đếm được.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "4D"
+          },
+          {
+            "lesson_id": "4E",
+            "lesson_name": "Unit 4 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 4. Hoàn thành Portfolio Đọc và Viết 4.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 4",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 4",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "4E"
+          }
+        ]
+      },
+      {
+        "unit_so": 5,
+        "unit_ten_chu_de_chinh_bao_quat": "Sự kiện lịch sử và các bộ phim nổi tiếng",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Từ vựng về năm và các mốc thời gian quá khứ", "Sự kiện cuộc sống", "Từ vựng phim ảnh", "Tính từ (2)", "Các hoạt động cuối tuần", "Từ vựng về chiến thắng/thất bại", "Các cụm từ dùng trong đề xuất"],
+          "estimated_new_words": 55,
+          "key_grammar_points": ["Quá khứ đơn (Past Simple - khẳng định, phủ định với động từ thường, câu hỏi Wh-)", "Hiện tại hoàn thành (Present Perfect Simple): 'have you ever...?' và trả lời ngắn", "Giới từ chỉ thời gian", "Các liên từ"],
+          "tenses_covered": ["Quá khứ đơn (Past Simple)", "Hiện tại hoàn thành (Present Perfect Simple)"],
+          "notable_sentence_patterns": [
+            "When was he born?",
+            "What did I do last weekend?",
+            "How long...?",
+            "Is it too expensive or quite cheap?"
+          ]
+        },
+        "unit_skill_objectives": "Nói về các sự kiện trong quá khứ và kinh nghiệm cá nhân; mô tả về các bộ phim; hỏi và trả lời về các hoạt động cuối tuần; miêu tả sự vật/hiện tượng bằng tính từ; nói về người chiến thắng/thua cuộc.",
+        "unit_real_world_situations": ["Thảo luận về kỷ niệm cá nhân", "Nói về phim và thời gian biểu", "Đề xuất và trả lời các câu hỏi tiếp theo", "Thảo luận về người chiến thắng/thua cuộc", "Thăm bảo tàng"],
+        "lessons": [
+          {
+            "lesson_id": "5A",
+            "lesson_name": "Three generations",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về năm và các tính từ (phần 2). Quá khứ đơn (phần 1): động từ 'Be' (khẳng định, phủ định, câu hỏi và trả lời ngắn). Kể chuyện 'Khi tôi 13 tuổi'. Nghe về ngày sinh nhật thứ 13 của Albert và các hình thức yếu ('was' và 'were'). Đọc về 'Tiệc sinh nhật của tôi'. Viết câu hỏi với 'was' và 'were'.",
+            "vocabulary_focus": "Từ vựng về năm và thời gian quá khứ; các tính từ (phần 2)",
+            "grammar_focus": "Quá khứ đơn (phần 1): Động từ 'Be' (khẳng định, phủ định, câu hỏi và trả lời ngắn)",
+            "real_world_context": "Nói về các sự kiện trong quá khứ và kinh nghiệm cá nhân ('Khi tôi được bao nhiêu tuổi...?').",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ nói/viết trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "5A"
+          },
+          {
+            "lesson_id": "5B",
+            "lesson_name": "Famous films",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Các sự kiện cuộc sống. Quá khứ đơn (phần 2): động từ thường (khẳng định, phủ định, câu hỏi Wh-). Hỏi về quá khứ và miêu tả 'thời gian biểu cá nhân'. Nghe về thì hiện tại đơn hoặc quá khứ đơn. Đọc về 'bốn ngày cuối tuần'. Viết ghi chú về quá khứ.",
+            "vocabulary_focus": "Các sự kiện cuộc sống; từ vựng phim ảnh",
+            "grammar_focus": "Quá khứ đơn (phần 2): động từ thường (khẳng định, phủ định, câu hỏi Wh-)",
+            "real_world_context": "Nói về các sự kiện trong quá khứ (ví dụ: các bộ phim nổi tiếng, kỷ niệm).",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "5B"
+          },
+          {
+            "lesson_id": "5C",
+            "lesson_name": "Four weekends",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về các hoạt động cuối tuần. Cách thể hiện sự quan tâm và hỏi các câu hỏi tiếp theo. Kể về những gì tôi đã làm cuối tuần vừa rồi. Lắng nghe và đọc hiểu về các sự kiện cuối tuần. Viết các đề xuất.",
+            "vocabulary_focus": "Các hoạt động cuối tuần",
+            "grammar_focus": null,
+            "real_world_context": "Nói về các hoạt động đã làm cuối tuần vừa rồi; hỏi và trả lời các câu hỏi tiếp theo để thể hiện sự quan tâm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "5C"
+          },
+          {
+            "lesson_id": "5D",
+            "lesson_name": "Competitions",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Các tính từ (phần 3); tính từ với 'very', 'really', 'quite', 'too'. Nói về việc cái gì đó 'quá đắt' hay 'khá rẻ'. Đọc hiểu thông tin về người thắng cuộc và người thua cuộc. Viết các đoạn mô tả.",
+            "vocabulary_focus": "Các tính từ (phần 3); Các tính từ với 'very', 'really', 'quite', 'too'",
+            "grammar_focus": null,
+            "real_world_context": "Miêu tả một món đồ đắt hay rẻ; nói về kết quả cuộc thi (người thắng/thua).",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "5D"
+          },
+          {
+            "lesson_id": "5E",
+            "lesson_name": "Unit 5 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 5. Hoàn thành Portfolio Đọc và Viết 5.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 5",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 5",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "5E"
+          }
+        ]
+      },
+      {
+        "unit_so": 6,
+        "unit_ten_chu_de_chinh_bao_quat": "Công nghệ và truyền thông",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Từ vựng về công nghệ di động và TV", "Các cụm từ chỉ thời gian quá khứ", "Động từ liên quan đến tin tức", "Các loại hình báo chí", "Các bài viết (Articles)", "Trang thiết bị điện tử cá nhân", "Tin tức và sự kiện"],
+          "estimated_new_words": 50,
+          "key_grammar_points": ["Quá khứ đơn (Past Simple - khẳng định/phủ định/câu hỏi/trả lời ngắn với động từ thường)", "Can/can't, could/couldn't"],
+          "tenses_covered": ["Quá khứ đơn (Past Simple)"],
+          "notable_sentence_patterns": [
+            "What can you do?",
+            "Can I call you back?",
+            "I heard about...",
+            "What happened?"
+          ]
+        },
+        "unit_skill_objectives": "Nói về thiết bị công nghệ; miêu tả thói quen sử dụng công nghệ; nghe tin tức và các câu chuyện; miêu tả phim ảnh/trò chơi điện tử; nói về các sự kiện quá khứ; viết bài viết về công nghệ/truyền thông.",
+        "unit_real_world_situations": ["Thảo luận về các thiết bị di động và TV", "Kể chuyện từ các tin tức", "Nói về trò chơi điện tử và nhà thiết kế", "Viết câu phủ định ở quá khứ đơn"],
+        "lessons": [
+          {
+            "lesson_id": "6A",
+            "lesson_name": "Google it!",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về Internet. Quá khứ đơn (phần 3): phủ định, câu hỏi Có/Không và trả lời ngắn. Nói về cách sử dụng Internet cá nhân và cách 'Tìm người nào đó...'. Nghe về Planet Google và đọc về 'The Google guys'.",
+            "vocabulary_focus": "Từ vựng về Internet",
+            "grammar_focus": "Quá khứ đơn (phần 3): phủ định, câu hỏi Có/Không và trả lời ngắn",
+            "real_world_context": "Thảo luận về việc sử dụng Internet, cách tìm kiếm thông tin trên mạng.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "6A"
+          },
+          {
+            "lesson_id": "6B",
+            "lesson_name": "Changing technology",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về điện thoại di động và TV. Các cụm từ chỉ thời gian trong quá khứ. Động từ khiếm khuyết 'Can/can't' và 'Could/couldn't'. Nói về thiết bị di động, máy tính và TV của tôi. Lịch sử của TV màu đầu tiên. Đọc và viết tin tức về điện thoại di động mới.",
+            "vocabulary_focus": "Điện thoại di động và TV; các cụm từ chỉ thời gian quá khứ",
+            "grammar_focus": "Quá khứ đơn: câu hỏi có/không và trả lời ngắn; 'Can/can't'; 'Could/couldn't'",
+            "real_world_context": "Nói về công nghệ (điện thoại di động, máy tính, TV) và thói quen sử dụng chúng trong quá khứ/hiện tại.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ nói/viết trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "6B"
+          },
+          {
+            "lesson_id": "6C",
+            "lesson_name": "The news",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Học từ vựng liên quan đến động từ trong tin tức. Kỹ năng kể các câu chuyện. Hội thoại 'Đây là bản tin'; nghe về các bản tin với trọng âm câu (phần 3). Đọc về hai bản tin. Viết các đoạn tin tức.",
+            "vocabulary_focus": "Động từ từ các bản tin",
+            "grammar_focus": null,
+            "real_world_context": "Nói về các bản tin và sự kiện hiện tại; kể lại các câu chuyện nghe được từ tin tức.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "6C"
+          },
+          {
+            "lesson_id": "6D",
+            "lesson_name": "Mario Man",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Học về các từ 'Articles; A, an and the'. Nói về trò chơi điện tử. Nghe về người cha của trò chơi điện tử. Đọc tóm tắt thông tin về Shigeru Miyamoto.",
+            "vocabulary_focus": "Các bài viết; 'A, an and the'",
+            "grammar_focus": null,
+            "real_world_context": "Nói về trò chơi điện tử yêu thích; thảo luận về các nhân vật hoặc nhà phát triển nổi tiếng.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "6D"
+          },
+          {
+            "lesson_id": "6E",
+            "lesson_name": "Unit 6 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 6. Lưu ý: Bài kiểm tra này dài hơn các bài kiểm tra tiến độ khác. Hoàn thành Portfolio Đọc và Viết 6.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 6",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 6",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit - Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "6E"
+          }
+        ]
+      },
+      {
+        "unit_so": 7,
+        "unit_ten_chu_de_chinh_bao_quat": "Nhà ở, cuộc sống đô thị và nông thôn",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Các loại nhà ở", "Các từ chỉ vị trí (rooms and things in a house)", "Lượng từ (some, any, a)", "Sở thích (hobbies)", "Từ vựng về mua sắm và các cửa hàng", "Giá trị (value)", "Từ vựng về quần áo và màu sắc"],
+          "estimated_new_words": 50,
+          "key_grammar_points": ["There is / There are (câu hỏi và câu hỏi 'How much...?' và 'How many...?')","Present simple (khẳng định, phủ định, câu hỏi Có/Không với I/you/we/they)", "Infinitive of purpose"],
+          "tenses_covered": ["Hiện tại đơn (Present Simple)"],
+          "notable_sentence_patterns": [
+            "How much is it? / How many...?",
+            "Is there...?",
+            "What sales assistants say?",
+            "What to wear?",
+            "Find someone who..."
+          ]
+        },
+        "unit_skill_objectives": "Miêu tả ngôi nhà/nơi sống; nói về sở thích cá nhân; mua sắm các đồ dùng cá nhân và quần áo; hỏi về giá cả và số lượng; sử dụng giới từ chỉ vị trí; hỏi/cho biết các giá trị (money).",
+        "unit_real_world_situations": ["Miêu tả nơi sống gần nhà hoặc nơi sống yêu thích", "Mua sắm trong cửa hàng bách hóa", "Hỏi và nói về số lượng/giá cả", "Đánh giá các giá trị (tiền bạc/chất lượng)", "Lựa chọn quần áo"],
+        "lessons": [
+          {
+            "lesson_id": "7A",
+            "lesson_name": "Where I live",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về các loại nhà ở và giới từ chỉ nơi chốn. Tìm hiểu và miêu tả nơi bạn sống gần nhà hoặc nơi sống yêu thích. Các bài tập về dạng yếu của từ (phần 3) và giới từ.",
+            "vocabulary_focus": "Các loại nhà ở; Giới từ chỉ nơi chốn",
+            "grammar_focus": "Cấu trúc 'There is / There are'",
+            "real_world_context": "Miêu tả nơi sống của bạn; nói về các địa điểm ở gần nhà.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ nói/viết trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "7A"
+          },
+          {
+            "lesson_id": "7B",
+            "lesson_name": "A new home",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về các đồ vật và phòng trong nhà. Học cách sử dụng 'How much...?' và 'How many...?'. Từ vựng về lượng từ 'some', 'any', 'a'. Nói về sở thích mua sắm. Nghe về việc thuê một căn hộ và các hoạt động tại siêu thị. Viết các câu hỏi 'Is there...?' và 'Are there...?'.",
+            "vocabulary_focus": "Các đồ vật và phòng trong nhà; Từ vựng về sở thích mua sắm",
+            "grammar_focus": "Cách dùng 'How much...?' và 'How many...?'; Lượng từ 'some', 'any', 'a'",
+            "real_world_context": "Nói về sở thích cá nhân; mô tả một căn hộ hoặc ngôi nhà mới.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "7B"
+          },
+          {
+            "lesson_id": "7C",
+            "lesson_name": "At the shops",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về các cửa hàng và đồ cần mua. Học về cách nói của người bán hàng và khách hàng. Thực hành mua sắm tại cửa hàng bách hóa. Hội thoại tại cửa hàng bách hóa. Viết các hội thoại tại cửa hàng bách hóa.",
+            "vocabulary_focus": "Các cửa hàng; đồ cần mua",
+            "grammar_focus": null,
+            "real_world_context": "Thực hành mua sắm đồ đạc; hỏi và trả lời với người bán hàng.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "7C"
+          },
+          {
+            "lesson_id": "7D",
+            "lesson_name": "What to wear",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về quần áo, màu sắc và danh từ số nhiều. Nói về những bộ quần áo bạn đang mặc. Nghe và đọc về 'Tôi và quần áo của tôi'. Viết câu về quần áo.",
+            "vocabulary_focus": "Quần áo; màu sắc; danh từ số nhiều",
+            "grammar_focus": null,
+            "real_world_context": "Thảo luận về quần áo đang mặc và lựa chọn trang phục.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "7D"
+          },
+          {
+            "lesson_id": "7E",
+            "lesson_name": "Unit 7 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 7. Hoàn thành Portfolio Đọc và Viết 7.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 7",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 7",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "7E"
+          }
+        ]
+      },
+      {
+        "unit_so": 8,
+        "unit_ten_chu_de_chinh_bao_quat": "Công việc, du lịch và thói quen điện thoại",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Từ vựng về công việc và làm việc", "Các loại hình vận tải", "Động từ liên quan đến du lịch", "Các vấn đề sức khỏe", "Từ vựng liên quan đến việc sử dụng điện thoại", "Hoạt động trong nhà và ngoài trời", "Tính từ và trạng từ"],
+          "estimated_new_words": 60,
+          "key_grammar_points": ["Hiện tại tiếp diễn (Present Continuous): khẳng định, phủ định, câu hỏi và trả lời ngắn", "Present simple / Present continuous", "Động từ nguyên mẫu chỉ mục đích (infinitive of purpose)"],
+          "tenses_covered": ["Hiện tại đơn (Present Simple)", "Hiện tại tiếp diễn (Present Continuous)"],
+          "notable_sentence_patterns": [
+            "What can you do?",
+            "It's snowing!",
+            "Talking on the phone",
+            "Can I call you back?"
+          ]
+        },
+        "unit_skill_objectives": "Miêu tả thói quen làm việc; nói về công việc đang diễn ra; hỏi/đề nghị sự giúp đỡ qua điện thoại; nói về sở thích du lịch; thảo luận về hoạt động giải trí trong nhà/ngoài trời; mô tả các vấn đề sức khỏe và điều trị.",
+        "unit_real_world_situations": ["Trao đổi về cuộc họp", "Thói quen đi lại cá nhân", "Cuộc sống khi tuyết rơi", "Hội thoại qua điện thoại và để lại tin nhắn", "Thảo luận về các hoạt động giải trí"],
+        "lessons": [
+          {
+            "lesson_id": "8A",
+            "lesson_name": "The meeting",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về công việc và làm việc. Hiện tại tiếp diễn: khẳng định, phủ định, câu hỏi và trả lời ngắn. Chỉ ra điểm khác biệt trong hình ảnh cuộc họp. Hội thoại về hợp đồng. Các cuộc hội thoại trong văn phòng và tại nhà. Viết các câu phủ định ở quá khứ đơn.",
+            "vocabulary_focus": "Từ vựng về công việc và làm việc",
+            "grammar_focus": "Hiện tại tiếp diễn: khẳng định, phủ định, câu hỏi và trả lời ngắn",
+            "real_world_context": "Miêu tả công việc và những gì đang diễn ra tại văn phòng/tại nhà; thảo luận về cuộc họp.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "8A"
+          },
+          {
+            "lesson_id": "8B",
+            "lesson_name": "It's snowing!",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Các loại hình vận tải; các động từ liên quan đến du lịch và các cụm từ chỉ thời gian quá khứ. So sánh Hiện tại đơn và Hiện tại tiếp diễn. Nói về thói quen du lịch của bạn và các hoạt động đang diễn ra 'Usually and today'. Nghe về một ngày tuyết rơi và luyện 'nối âm' (phần 2). Viết câu hỏi ở thì hiện tại đơn hoặc hiện tại tiếp diễn.",
+            "vocabulary_focus": "Các loại hình vận tải; các động từ liên quan đến du lịch và các cụm từ chỉ thời gian quá khứ",
+            "grammar_focus": "Hiện tại đơn / Hiện tại tiếp diễn",
+            "real_world_context": "Miêu tả hoạt động đi lại; nói về các hoạt động đang diễn ra trong hiện tại và các thói quen ('It's snowing!').",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ nói/viết trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "8B"
+          },
+          {
+            "lesson_id": "8C",
+            "lesson_name": "On the phone",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về sức khỏe. Động từ nguyên mẫu chỉ mục đích. Nói chuyện điện thoại. Nghe tin nhắn điện thoại của Emily. Luyện đọc một danh sách, danh thiếp và quảng cáo. Viết hội thoại qua điện thoại.",
+            "vocabulary_focus": "Từ vựng về sức khỏe",
+            "grammar_focus": "Động từ nguyên mẫu chỉ mục đích",
+            "real_world_context": "Hội thoại qua điện thoại; để lại tin nhắn thoại; hỏi 'Tôi có thể gọi lại cho bạn không?'.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "8C"
+          },
+          {
+            "lesson_id": "8D",
+            "lesson_name": "Life outdoors",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Các hoạt động trong nhà và ngoài trời. Các tính từ và trạng từ. Hỏi 'Bạn có thể làm gì?' liên quan đến hoạt động ngoài trời. Đọc hiểu một lá thư tham chiếu. Viết các câu với tính từ và trạng từ.",
+            "vocabulary_focus": "Các hoạt động trong nhà và ngoài trời; Tính từ và trạng từ",
+            "grammar_focus": null,
+            "real_world_context": "Thảo luận về các hoạt động giải trí yêu thích (trong nhà và ngoài trời).",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "8D"
+          },
+          {
+            "lesson_id": "8E",
+            "lesson_name": "Unit 8 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 8. Hoàn thành Portfolio Đọc và Viết 8.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 8",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 8",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit - Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "8E"
+          }
+        ]
+      },
+      {
+        "unit_so": 9,
+        "unit_ten_chu_de_chinh_bao_quat": "Kế hoạch tương lai, lời khuyên và ngoại hình",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Các tính từ (3): tính từ về ngoại hình", "Cụm động từ", "Từ vựng về các vấn đề sức khỏe và điều trị", "Mùa, thời tiết", "Các loại hình kiến trúc (word building)"],
+          "estimated_new_words": 50,
+          "key_grammar_points": ["Present simple / Present continuous để diễn tả tương lai", "Câu mệnh lệnh (Imperatives)", "Động từ 'should/shouldn't' để đưa ra lời khuyên", "Các câu hỏi với 'like'", "Câu cảm thán với 'If you're SAD, see the light!'"],
+          "tenses_covered": ["Hiện tại đơn (Present Simple)", "Hiện tại tiếp diễn (Present Continuous)"],
+          "notable_sentence_patterns": [
+            "Tell me about it.",
+            "What can you do?",
+            "What shall we do?",
+            "What's the weather like?",
+            "I'm not very well."
+          ]
+        },
+        "unit_skill_objectives": "Nói về sức khỏe và cách điều trị; đưa ra lời khuyên và gợi ý; mô tả ngoại hình và tính cách; nói về các cảm xúc; nói về thời tiết và các mùa.",
+        "unit_real_world_situations": ["Thảo luận về các kế hoạch nghỉ dưỡng hoặc khám sức khỏe", "Trao đổi về vấn đề thời tiết và khí hậu", "Miêu tả ngoại hình và tính cách", "Hội thoại về cảm xúc", "Đề xuất cho một sự kiện xã hội"],
+        "lessons": [
+          {
+            "lesson_id": "9A",
+            "lesson_name": "My last holiday, South Africa",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Mô tả kỳ nghỉ gần đây. Tìm hiểu về 'Bốn nơi' ở Nam Phi. Hội thoại về kỳ nghỉ ở Cape Town và trọng âm yếu: phần tổng quan.",
+            "vocabulary_focus": "Kỳ nghỉ; địa điểm ở Nam Phi",
+            "grammar_focus": null,
+            "real_world_context": "Kể về các hoạt động và trải nghiệm trong kỳ nghỉ của bạn; nói về các địa điểm cụ thể.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học. Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "9A"
+          },
+          {
+            "lesson_id": "9B",
+            "lesson_name": "A trip to Egypt",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về các địa điểm tự nhiên và so sánh. Nói về các địa điểm tự nhiên và những người bạn biết. Tìm hiểu cách chọn kỳ nghỉ. Nghe 'Trở về từ kỳ nghỉ'. Đọc hiểu về 'Hai địa điểm nghỉ dưỡng'. Viết câu so sánh.",
+            "vocabulary_focus": "Các địa điểm tự nhiên; so sánh (comparatives)",
+            "grammar_focus": "So sánh (comparatives)",
+            "real_world_context": "Thảo luận về các địa điểm tự nhiên; so sánh các địa điểm hoặc trải nghiệm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ nói/viết trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "9B"
+          },
+          {
+            "lesson_id": "9C",
+            "lesson_name": "A day out",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về các con vật. Động từ diễn tả sự đồng tình hoặc không đồng tình. Nói về những gì bạn muốn làm trong một ngày đi chơi. Lên kế hoạch cho một ngày đi chơi và nghe các cuộc hội thoại liên quan. Đọc về các địa điểm để đi chơi trong ngày.",
+            "vocabulary_focus": "Các loài vật",
+            "grammar_focus": "Các cụm động từ (như 'like doing', 'would like to do')",
+            "real_world_context": "Quyết định địa điểm đi chơi và hoạt động trong một ngày; lập kế hoạch và đồng tình/không đồng tình.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "9C"
+          },
+          {
+            "lesson_id": "9D",
+            "lesson_name": "Time for a change",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Các mẫu động từ (như 'like doing', 'would like to do', v.v.). Các câu hỏi sử dụng 'like' và 'would like'. Thực hành nói về câu nói 'The grass is always greener' và đặt câu hỏi. Đọc về 'Câu hỏi với like và would like'.",
+            "vocabulary_focus": "Các mẫu động từ (ví dụ: 'like doing', 'would like to do')",
+            "grammar_focus": null,
+            "real_world_context": "Thảo luận về việc thay đổi lối sống hoặc công việc; hỏi về sở thích và mong muốn của người khác.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "9D"
+          },
+          {
+            "lesson_id": "9E",
+            "lesson_name": "Unit 9 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 9. Hoàn thành Portfolio Đọc và Viết 9.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 9",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 9",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "9E"
+          }
+        ]
+      },
+      {
+        "unit_so": 10,
+        "unit_ten_chu_de_chinh_bao_quat": "Sức khỏe, lối sống và cảm xúc",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Cụm động từ về sức khỏe", "Các từ chỉ tần suất", "Tính từ (3): tính từ về tính cách", "Các từ về bệnh tật và điều trị", "Các mùa, thời tiết", "Từ vựng về kiến trúc/xây dựng (word building)"],
+          "estimated_new_words": 60,
+          "key_grammar_points": ["Câu mệnh lệnh (Imperatives)", "Động từ 'should/shouldn't' để đưa ra lời khuyên", "Câu hỏi với 'like'", "Câu cảm thán 'If you're SAD, see the light!'", "So sánh hơn nhất (Superlatives)"],
+          "tenses_covered": ["Hiện tại đơn (Present Simple) để đưa lời khuyên", "Hiện tại tiếp diễn để miêu tả tình trạng hiện tại"],
+          "notable_sentence_patterns": [
+            "Tell me about it.",
+            "What should I do?",
+            "What's the weather like?",
+            "I'm not very well.",
+            "Being sympathetic."
+          ]
+        },
+        "unit_skill_objectives": "Nói về sức khỏe và cách giữ gìn vóc dáng; đưa ra lời khuyên về sức khỏe và lối sống; mô tả tính cách; nói về các vấn đề thời tiết và cảm xúc; nói về bệnh tật và cách điều trị.",
+        "unit_real_world_situations": ["Thảo luận về các vấn đề sức khỏe và điều trị y tế", "Đưa ra và nhận lời khuyên về lối sống khỏe mạnh", "Miêu tả ngoại hình và tính cách của người khác", "Trao đổi về thời tiết và các mùa", "Thể hiện sự đồng cảm"],
+        "lessons": [
+          {
+            "lesson_id": "10A",
+            "lesson_name": "Stay fit and healthy",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Cụm động từ liên quan đến việc giữ dáng và khỏe mạnh. Các từ chỉ tần suất. Câu mệnh lệnh. Sử dụng 'Should/Shouldn't' để đưa lời khuyên. Nói về những người tôi biết. Nghe lời khuyên từ bác sĩ. Đọc về các mẹo để giữ dáng và khỏe mạnh.",
+            "vocabulary_focus": "Các cụm động từ (verb phrases) về sức khỏe; các từ chỉ tần suất",
+            "grammar_focus": "Câu mệnh lệnh (Imperatives); 'Should/Shouldn't'",
+            "real_world_context": "Trao đổi lời khuyên về cách giữ dáng và sức khỏe; nói về những gì nên/không nên làm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "10A"
+          },
+          {
+            "lesson_id": "10B",
+            "lesson_name": "What's she like?",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về ngoại hình và tính cách. Các câu hỏi với 'like'. Miêu tả những người trong gia đình tôi. Đọc quảng cáo về The Break. Nghe về bạn gái mới của Leo và trọng âm câu (phần 3). Đọc về miêu tả một người. Viết về các câu hỏi với tính từ và trạng từ.",
+            "vocabulary_focus": "Ngoại hình; Tính cách",
+            "grammar_focus": "Các câu hỏi với 'like'",
+            "real_world_context": "Miêu tả người khác (ngoại hình, tính cách) và nói về điểm tương đồng hoặc khác biệt.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ nói/viết trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "10B"
+          },
+          {
+            "lesson_id": "10C",
+            "lesson_name": "I feel ill",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về các vấn đề sức khỏe và điều trị. Nói về sức khỏe khi 'Tôi không khỏe lắm'. Luyện nói về các cách 'Khỏi bệnh nhanh!' và thể hiện sự đồng cảm.",
+            "vocabulary_focus": "Các vấn đề sức khỏe; Phương pháp điều trị",
+            "grammar_focus": null,
+            "real_world_context": "Trao đổi về tình trạng sức khỏe; đưa ra lời chúc mau chóng bình phục và thể hiện sự đồng cảm.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "10C"
+          },
+          {
+            "lesson_id": "10D",
+            "lesson_name": "Winter blues",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về các mùa, thời tiết và kiến trúc (word building). Nói về thời tiết. Các cụm từ liên quan đến xây dựng từ. Câu cảm thán: 'Nếu bạn buồn, hãy tìm kiếm ánh sáng!'. Đọc hiểu về hội chứng buồn theo mùa.",
+            "vocabulary_focus": "Các mùa; Thời tiết; Từ vựng về kiến trúc (word building)",
+            "grammar_focus": null,
+            "real_world_context": "Hỏi và nói về thời tiết; thảo luận về ảnh hưởng của thời tiết đến tâm trạng ('winter blues').",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "10D"
+          },
+          {
+            "lesson_id": "10E",
+            "lesson_name": "Unit 10 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 10. Hoàn thành Portfolio Đọc và Viết 10.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 10",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 10",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "10E"
+          }
+        ]
+      },
+      {
+        "unit_so": 11,
+        "unit_ten_chu_de_chinh_bao_quat": "Nghị quyết năm mới, lời mời và chỉ đường",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Nghị quyết năm mới", "Các động từ liên quan đến học tập và thi cử", "Các cụm từ chỉ hướng dẫn", "Các loại hình tiệc và sự kiện xã hội"],
+          "estimated_new_words": 40,
+          "key_grammar_points": ["Be going to (phần 1: khẳng định, phủ định, câu hỏi Wh-)", "Be going to hoặc Might (phần 2: câu hỏi có/không và trả lời ngắn)", "Các từ nghi vấn trong câu chỉ đường (Directions)"],
+          "tenses_covered": ["Tương lai gần (Be going to)"],
+          "notable_sentence_patterns": [
+            "What do you want to do?",
+            "What will you be doing...?",
+            "I'm going to...",
+            "Can I call you back?"
+          ]
+        },
+        "unit_skill_objectives": "Nói về các kế hoạch tương lai (Nghị quyết năm mới, kế hoạch cuối tuần); mô tả việc học; mời và phản hồi lời mời; cho và nhận chỉ đường; nói về các vấn đề thi cử và sự kiện xã hội.",
+        "unit_real_world_situations": ["Trao đổi về kế hoạch năm mới", "Nói về kế hoạch học tập hoặc thi cử", "Cho và nhận chỉ đường", "Gửi lời mời và phản hồi thư mời"],
+        "lessons": [
+          {
+            "lesson_id": "11A",
+            "lesson_name": "Happy New Year!",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Các nghị quyết năm mới. Be going to (phần 1): khẳng định, phủ định, câu hỏi Wh-. Nói về các kế hoạch tương lai và các nghị quyết năm mới của bạn. Lắng nghe các nghị quyết năm mới.",
+            "vocabulary_focus": "Các nghị quyết năm mới",
+            "grammar_focus": "Be going to (phần 1): khẳng định, phủ định, câu hỏi Wh-",
+            "real_world_context": "Thảo luận về các kế hoạch cho tương lai gần, đặc biệt là các nghị quyết cho năm mới.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "11A"
+          },
+          {
+            "lesson_id": "11B",
+            "lesson_name": "No more exams!",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Từ vựng về việc học và thi cử. Be going to hoặc Might (phần 2): câu hỏi Có/Không và trả lời ngắn. Nghe về các kế hoạch cho cuối tuần tới và việc học bài. Nói về 'người nào đó...'. Đọc về kì thi cuối kì. Viết các câu hỏi Có/Không với 'be going to'.",
+            "vocabulary_focus": "Các từ vựng liên quan đến học tập và thi cử",
+            "grammar_focus": "Be going to hoặc Might (phần 2): câu hỏi Có/Không và trả lời ngắn",
+            "real_world_context": "Nói về các kế hoạch trong tương lai gần; thảo luận về các vấn đề học tập và thi cử.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "11B"
+          },
+          {
+            "lesson_id": "11C",
+            "lesson_name": "Directions",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Các từ vựng về chỉ dẫn. Thực hành hỏi và cho chỉ đường. Hỏi 'Nhà nghỉ dưỡng nào?' và nghe các chỉ dẫn. Đọc hiểu thông tin về hai nhà nghỉ dưỡng. Viết email cho chỉ đường.",
+            "vocabulary_focus": "Các từ vựng về chỉ dẫn",
+            "grammar_focus": "Hỏi và cho chỉ đường",
+            "real_world_context": "Hỏi và cho chỉ đường trong các tình huống thực tế, đặc biệt là tìm địa điểm cụ thể.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "11C"
+          },
+          {
+            "lesson_id": "11D",
+            "lesson_name": "An invitation",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Các từ vựng về 'collocations'. Kể về tiệc cưới cuối cùng của bạn. Nghe về việc đến đám cưới và luyện nối âm: tổng quan. Đọc email về đám cưới. Viết email gửi lời mời đến bạn bè.",
+            "vocabulary_focus": "Các từ vựng về collocation",
+            "grammar_focus": null,
+            "real_world_context": "Nói về các sự kiện xã hội như đám cưới; gửi và trả lời lời mời.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "11D"
+          },
+          {
+            "lesson_id": "11E",
+            "lesson_name": "Unit 11 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 11. Hoàn thành Portfolio Đọc và Viết 11.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 11",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 11",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "11E"
+          }
+        ]
+      },
+      {
+        "unit_so": 12,
+        "unit_ten_chu_de_chinh_bao_quat": "Các kỷ lục thế giới và trải nghiệm cá nhân",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": ["Số lớn và số nhỏ (Big and small numbers)", "Từ vựng về tính từ so sánh nhất (Superlatives)", "Quá khứ phân từ", "Từ vựng về trải nghiệm cá nhân (life experiences)", "Các địa điểm và đồ vật tại sân bay"],
+          "estimated_new_words": 35,
+          "key_grammar_points": ["Hiện tại hoàn thành (Present Perfect Simple): khẳng định, phủ định, câu hỏi 'Have you ever...?' và trả lời ngắn", "Quá khứ phân từ", "So sánh hơn nhất"],
+          "tenses_covered": ["Hiện tại hoàn thành (Present Perfect Simple)"],
+          "notable_sentence_patterns": [
+            "It's a world record!",
+            "Have you ever...?",
+            "See you soon!"
+          ]
+        },
+        "unit_skill_objectives": "Miêu tả các kỷ lục thế giới; hỏi và nói về các trải nghiệm cuộc sống; nói về cảm giác 'được tự kinh doanh' hoặc trải nghiệm kỳ nghỉ; sử dụng ngôn ngữ tại sân bay; nói lời tạm biệt.",
+        "unit_real_world_situations": ["Thảo luận về các kỷ lục thế giới", "Hỏi và nói về các trải nghiệm cá nhân (đã từng làm gì...)", "Thảo luận về cuộc sống tự kinh doanh", "Hội thoại tại sân bay", "Nói lời tạm biệt"],
+        "lessons": [
+          {
+            "lesson_id": "12A",
+            "lesson_name": "It's a world record",
+            "main_skills": ["Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về các kỷ lục thế giới. Nghiên cứu các cụm từ so sánh nhất (Superlatives). Nói về kỷ lục thế giới. Thực hiện một câu đố thế giới và nghe về trọng âm câu (tổng quan). Đọc về những người phá kỷ lục.",
+            "vocabulary_focus": "Các kỷ lục thế giới; Các từ so sánh nhất (Superlatives)",
+            "grammar_focus": null,
+            "real_world_context": "Thảo luận về các kỷ lục thế giới và những điều đáng kinh ngạc; sử dụng các cụm từ so sánh nhất.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "12A"
+          },
+          {
+            "lesson_id": "12B",
+            "lesson_name": "Have you ever...?",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc", "Viết"],
+            "topic_content": "Học về thì hiện tại hoàn thành: thể khẳng định, phủ định, câu hỏi và trả lời ngắn. Từ vựng về quá khứ phân từ. Nói về kinh nghiệm cuộc sống. Nghe về việc tự kinh doanh và trải nghiệm kỳ nghỉ. Viết các câu hỏi 'Have you ever...?' và câu trả lời ngắn.",
+            "vocabulary_focus": "Các từ vựng về kinh nghiệm cuộc sống; Các động từ quá khứ phân từ",
+            "grammar_focus": "Hiện tại hoàn thành (thể khẳng định, phủ định, câu hỏi 'Have you ever...?' và trả lời ngắn)",
+            "real_world_context": "Hỏi và kể về các trải nghiệm đã từng diễn ra trong cuộc đời ('Bạn đã từng làm gì chưa?').",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu", "Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền về văn bản chính", "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính", "Khai thác từ vựng mục tiêu (nghĩa, hình thức, phát âm)",
+              "Khai thác ngữ pháp mục tiêu (nghĩa, hình thức, phát âm)", "Tóm tắt các yếu tố ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ nói/viết", "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ nói/viết trên diễn đàn)"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "12B"
+          },
+          {
+            "lesson_id": "12C",
+            "lesson_name": "See you soon!",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Kỹ năng thực tế", "Nói", "Nghe", "Đọc"],
+            "topic_content": "Từ vựng về các đồ vật và địa điểm tại sân bay. Nói về các trải nghiệm du lịch. Nghe về các cuộc hội thoại tại sân bay và cách nói lời tạm biệt. Viết đoạn hội thoại nói lời tạm biệt.",
+            "vocabulary_focus": "Các đồ vật và địa điểm tại sân bay",
+            "grammar_focus": null,
+            "real_world_context": "Giao tiếp tại sân bay; nói lời tạm biệt và hẹn gặp lại.",
+            "lesson_checklist_steps": [
+              "Giới thiệu mở đầu Dạy trước từ vựng / Chiến lược làm bài tập / Thông tin nền Nói"
+            ],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "12C"
+          },
+          {
+            "lesson_id": "12D",
+            "lesson_name": "Unit 12 Test",
+            "main_skills": ["Từ vựng", "Ngữ pháp", "Viết"],
+            "topic_content": "Bài kiểm tra tiến độ Unit 12. Hoàn thành Portfolio Đọc và Viết 12.",
+            "vocabulary_focus": "Ôn tập kiến thức từ vựng Unit 12",
+            "grammar_focus": "Ôn tập kiến thức ngữ pháp Unit 12",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Chào đón học viên và thiết lập bài kiểm tra unit ---- Mở đầu Mô hình hóa bài viết"
+            ],
+            "forum_assignment": {"skill": "Viết"},
+            "homework_workbook_reference": "12D"
+          },
+          {
+            "lesson_id": "12E",
+            "lesson_name": "Course review",
+            "main_skills": ["Từ vựng & Ngữ pháp từ Units 6-10"],
+            "topic_content": "Ôn tập tổng hợp kiến thức từ vựng và ngữ pháp của toàn bộ khóa học hoặc các Unit được chỉ định (Units 1-5 hoặc 6-10).",
+            "vocabulary_focus": "Tổng hợp kiến thức từ vựng từ Units 6-10 (hoặc Units 1-5)",
+            "grammar_focus": "Tổng hợp kiến thức ngữ pháp từ Units 6-10 (hoặc Units 1-5)",
+            "real_world_context": "Tổng hợp các tình huống giao tiếp từ khóa học",
+            "lesson_checklist_steps": [],
+            "forum_assignment": {"skill": "Nói"},
+            "homework_workbook_reference": "Không áp dụng"
+          }
+        ]
+      }
+    ]
+  }
+}

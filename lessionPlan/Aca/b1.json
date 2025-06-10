@@ -1,0 +1,2448 @@
+{
+  "tong_quan_ve_khoa_hoc": {
+    "course_name": "Academic English - Trình độ B1",
+    "level_CEFR": "B1",
+    "level_name": "Intermediate/Trung cấp",
+    "doi_tuong_muc_tieu": {
+      "do_tuoi": "Từ 11 – 15 tuổi",
+      "trinh_do_dau_vao": "Học sinh đã hoàn thành cấp độ A2 hoặc có kiến thức tiếng Anh cơ bản tương đương, mong muốn phát triển năng lực ngôn ngữ lên cấp độ B1 theo chuẩn CEFR.",
+      "ly_do_hoc_tap_pho_bien": [
+        "Xây dựng nền tảng tiếng Anh học thuật và giao tiếp vững chắc để học lên các cấp độ cao hơn (B2, C1).",
+        "Chuẩn bị cho các kỳ thi chứng chỉ quốc tế như IELTS (làm nền tảng ban đầu).",
+        "Phát triển kỹ năng ngôn ngữ một cách có hệ thống và toàn diện.",
+        "Nâng cao khả năng sử dụng tiếng Anh trong môi trường học thuật hoặc quốc tế tương lai (du học, học bổng)."
+      ]
+    },
+    "muc_tieu_dau_ra_chung_khoa_hoc": {
+      "mo_ta_chung": "Đạt năng lực tương ứng Khung Tham Chiếu Chung Châu Âu (CEFR) cấp độ B1 (Intermediate/Trung cấp), có khả năng hiểu các điểm chính của các nội dung quen thuộc và giao tiếp hiệu quả trong các tình huống hàng ngày và học thuật cơ bản.",
+      "chi_tiet_ky_nang": [
+        "Nghe: Hiểu được các điểm chính của các nội dung quen thuộc, rõ ràng liên quan đến công việc, trường học, giải trí, v.v., bao gồm cả việc hiểu các chương trình radio và truyền hình về các chủ đề hiện tại hoặc sở thích cá nhân khi tốc độ nói tương đối chậm và rõ ràng.",
+        "Nói tương tác: Xử lý hầu hết các tình huống giao tiếp có thể phát sinh khi đi du lịch ở khu vực nói tiếng Anh. Tham gia vào các cuộc trò chuyện về các chủ đề quen thuộc hoặc sở thích cá nhân (gia đình, sở thích, công việc, du lịch) mà không cần chuẩn bị nhiều.",
+        "Nói độc thoại: Kết nối các cụm từ một cách đơn giản để mô tả trải nghiệm và sự kiện, ước mơ, hy vọng và tham vọng. Trình bày ngắn gọn lý do và giải thích cho ý kiến và kế hoạch của mình.",
+        "Đọc: Hiểu các văn bản được viết bằng ngôn ngữ hàng ngày, tần suất cao liên quan đến các chủ đề công việc hoặc cuộc sống. Hiểu các bài báo, báo cáo về các chủ đề quen thuộc hoặc sở thích cá nhân, với mức độ hiểu biết vừa phải.",
+        "Viết: Viết các văn bản đơn giản, mạch lạc về các chủ đề quen thuộc hoặc sở thích cá nhân. Viết thư từ cá nhân, email, ghi chú đơn giản để thể hiện thông tin hoặc bày tỏ ý kiến về các chủ đề cụ thể."
+      ]
+    },
+    "so_luong_hoa_dau_ra_kien_thuc_du_kien": {
+      "total_estimated_new_vocabulary": "Khoảng 800 - 1000 từ vựng và cụm từ mới, bao gồm các chủ đề đa dạng như con người, giải trí, công nghệ, môi trường, sức khỏe, công việc, du lịch và các quy tắc.",
+      "total_tenses_learned": [
+        "Thì Hiện tại đơn (Present Simple) - ôn tập",
+        "Thì Hiện tại tiếp diễn (Present Continuous)",
+        "Thì Quá khứ đơn (Past Simple) - ôn tập",
+        "Thì Quá khứ tiếp diễn (Past Continuous) - ôn tập",
+        "Thì Hiện tại hoàn thành (Present Perfect Simple)",
+        "Thì Hiện tại hoàn thành tiếp diễn (Present Perfect Continuous)",
+        "Thì Quá khứ hoàn thành đơn (Past Perfect Simple)",
+        "Thì Quá khứ hoàn thành tiếp diễn (Past Perfect Continuous)",
+        "Thì Tương lai đơn (Will/Won't) - dự đoán",
+        "Các dạng tương lai khác (Future forms: be going to, Present Continuous for future plans) - ôn tập",
+        "Câu điều kiện loại 1 (First Conditional) và 'unless'",
+        "Câu điều kiện loại 2 (Second Conditional)",
+        "Câu điều kiện loại 3 (Third Conditional)"
+      ],
+      "total_core_grammar_patterns": [
+        "Thì Hiện tại hoàn thành với 'just', 'already', 'yet', 'for' và 'since'",
+        "So sánh thì Hiện tại hoàn thành và thì Quá khứ đơn",
+        "Tính từ so sánh hơn và so sánh nhất (Comparative and superlative adjectives) - ôn tập",
+        "Cấu trúc so sánh mạnh hơn/yếu hơn",
+        "Trạng từ và trạng từ so sánh",
+        "Đại từ bất định (Indefinite pronouns: everyone, no one, someone, etc.)",
+        "Các lượng từ 'all/some/none/any' của danh từ",
+        "Động từ khuyết thiếu 'should(n't)', 'had better', 'ought to' (đưa ra lời khuyên)",
+        "Thì Hiện tại hoàn thành tiếp diễn",
+        "So sánh thì Hiện tại hoàn thành đơn và thì Hiện tại hoàn thành tiếp diễn",
+        "Động từ khuyết thiếu 'will (not)', 'may (not)', 'might (not)' (dự đoán)",
+        "Câu điều kiện loại 1 và 'unless'",
+        "Các dạng câu hỏi đuôi (Question tags)",
+        "'Nor/neither/so'",
+        "So sánh thì Quá khứ đơn và thì Quá khứ tiếp diễn (ôn tập)",
+        "Cấu trúc 'used to' (thói quen quá khứ)",
+        "Câu điều kiện loại 2",
+        "Thể bị động thì Hiện tại đơn và Quá khứ đơn (Passive present simple and past simple)",
+        "Thể bị động thì Hiện tại tiếp diễn và Hiện tại hoàn thành (Passive present continuous and present perfect)",
+        "Thì Quá khứ hoàn thành đơn",
+        "Thì Quá khứ hoàn thành tiếp diễn",
+        "So sánh thì Quá khứ hoàn thành đơn và thì Quá khứ hoàn thành tiếp diễn",
+        "Câu tường thuật (Reported statements)",
+        "Cấu trúc động từ theo sau là tân ngữ + động từ nguyên mẫu có 'to' (Verb pattern object + infinitive)",
+        "Động từ khuyết thiếu 'be allowed to/let'",
+        "Câu điều kiện loại 3"
+      ],
+      "total_real_world_situations": "Hơn 70 tình huống giao tiếp thực tế điển hình, bao gồm: đưa ra lời khuyên, yêu cầu/đề nghị giúp đỡ, chấp nhận/từ chối lời mời, bày tỏ cảm xúc, nói về sức khỏe, thảo luận về môi trường, sắp xếp kế hoạch, hỏi/chỉ dẫn, bày tỏ sự hối tiếc, v.v."
+    },
+    "cau_truc_va_thoi_luong_khoa_hoc": {
+      "total_units_count": 12,
+      "typical_lessons_per_unit": "6 (bao gồm các bài học kỹ năng, bài ôn tập và bài kiểm tra)",
+      "estimated_hours_per_lesson": "2.5 giờ",
+      "total_estimated_learning_hours": "180 giờ (72 bài học video x 2.5 giờ/bài học)"
+    },
+    "danh_gia_tong_the_va_ket_luan": {
+      "diem_manh_lo_trinh": [
+        "Cấu trúc chương trình học rõ ràng, logic và hệ thống theo chuẩn CEFR B1, đảm bảo sự phát triển toàn diện các kỹ năng.",
+        "Nội dung đa dạng, cập nhật, phản ánh các chủ đề thời sự và học thuật (môi trường, công nghệ, khoa học), tăng tính hấp dẫn và ứng dụng thực tế.",
+        "Tích hợp sâu các kỹ năng ngôn ngữ (Nghe, Nói, Đọc, Viết) trong mỗi đơn vị bài học, kèm theo phát âm, từ vựng và ngữ pháp.",
+        "Phương pháp học kết hợp (blended learning) hiệu quả, tận dụng cả bài giảng video, diễn đàn tương tác và bài tập về nhà.",
+        "Hệ thống kiểm tra và đánh giá chặt chẽ (Skills Test, Unit Test, Writing Assignments) giúp theo dõi tiến độ và củng cố kiến thức.",
+        "Chủ đề \"Amazing People\", \"My life in music\", \"Science counts\" và \"Playing by the rules\" khuyến khích tư duy phản biện và kết nối với thế giới bên ngoài."
+      ],
+      "su_phu_hop_voi_muc_tiep_khoa_hoc": "Lộ trình này hoàn toàn phù hợp với mục tiêu của khóa học Academic English - Trình độ B1 (CEFR B1). Khóa học tập trung xây dựng năng lực ngôn ngữ để học viên có thể hiểu và giao tiếp hiệu quả trong các tình huống hàng ngày và các ngữ cảnh học thuật cơ bản, đặc biệt chú trọng mở rộng ngữ pháp và từ vựng.",
+      "su_chuan_bi_for_higher_levels": [
+        "Cung cấp nền tảng vững chắc về ngữ pháp và từ vựng B1, bao gồm các thì nâng cao (Present Perfect Continuous, Past Perfect) và cấu trúc phức tạp (Passive Voice, Reported Speech, Conditionals), làm tiền đề cho các cấp độ B2 trở lên và các kỳ thi quốc tế như IELTS.",
+        "Phát triển kỹ năng nói và viết theo cấu trúc (ví dụ: viết luận nghị luận, báo cáo) giúp học viên làm quen với yêu cầu học thuật cao hơn.",
+        "Rèn luyện kỹ năng đọc hiểu chuyên sâu và nghe hiểu các nội dung phức tạp hơn, chuẩn bị cho việc xử lý thông tin học thuật ở các cấp độ cao hơn."
+      ],
+      "professional_expert_assessment": {
+        "evaluation_based_on_six_components": {
+          "listening_assessment": "Khóa học tiếp tục phát triển kỹ năng nghe hiểu các đoạn hội thoại và bài nói có độ phức tạp trung bình, tập trung vào việc nắm bắt ý chính, chi tiết cụ thể và các dạng thông tin trừu tượng hơn (ví dụ: dự đoán, ý định, quan điểm). Các bài nghe đa dạng (phỏng vấn, tin tức, bài nói chuyện) giúp học viên làm quen với nhiều ngữ cảnh và giọng điệu khác nhau, chuẩn bị cho việc nghe hiểu các nội dung học thuật và đời sống thực tế.",
+          "speaking_assessment": "Kỹ năng nói được thúc đẩy thông qua các hoạt động tương tác, thảo luận nhóm, trình bày ngắn (ví dụ: nói về người ngưỡng mộ, môn học yêu thích, dự đoán tương lai, mô tả quy trình, kể lại tin tức, chia sẻ hối tiếc). Học viên được khuyến khích sử dụng các cấu trúc ngữ pháp phức tạp hơn (thì hiện tại hoàn thành, các dạng tương lai, câu điều kiện) và từ vựng phong phú hơn. Các phần \"Developing Speaking\" và \"FUNCTIONS\" cung cấp các cụm từ đàm thoại tự nhiên, giúp nâng cao sự lưu loát và tự tin.",
+          "reading_assessment": "Khóa học cung cấp nhiều loại văn bản đọc khác nhau, từ bài báo tạp chí, blog cá nhân đến tin tức và tài liệu khoa học đơn giản. Trọng tâm là phát triển khả năng đọc hiểu ý chính, tìm kiếm thông tin cụ thể, suy luận và hiểu các quan điểm được thể hiện. Việc đọc các văn bản dài hơn và có cấu trúc phức tạp hơn so với A2 giúp học viên dần quen với việc đọc tài liệu học thuật.",
+          "writing_assessment": "Kỹ năng viết được phát triển một cách có hệ thống thông qua các nhiệm vụ cụ thể như viết email không trang trọng, bài luận nghị luận (for and against), lời khuyên máy tính, bài báo tạp chí, thư mời, câu chuyện và báo cáo. Học viên được hướng dẫn về cấu trúc, cách sắp xếp ý tưởng và sử dụng ngữ pháp, từ vựng phù hợp. Các phần \"Student example (grammar correction)\" hỗ trợ học viên tự sửa lỗi và cải thiện độ chính xác.",
+          "vocabulary_assessment": "Khóa học mở rộng vốn từ vựng theo nhiều chủ đề mới và đa dạng hơn (ví dụ: công nghệ thông tin, môi trường, âm nhạc, khoa học, nghề nghiệp, du lịch, quy tắc). Việc học từ vựng được kết hợp với các cụm từ kết hợp (collocations) và ngôn ngữ chức năng, giúp học viên không chỉ biết nghĩa mà còn biết cách sử dụng từ ngữ tự nhiên và hiệu quả trong ngữ cảnh.",
+          "grammar_assessment": "Khóa học củng cố và mở rộng các thì đã học ở A2 (hiện tại đơn, tiếp diễn, quá khứ đơn, tiếp diễn) và giới thiệu các thì mới quan trọng như hiện tại hoàn thành tiếp diễn, quá khứ hoàn thành. Các cấu trúc phức tạp hơn như thể bị động, câu tường thuật, câu điều kiện loại 2 & 3 cũng được giới thiệu. Trọng tâm là việc hiểu cách sử dụng ngữ pháp để diễn đạt các ý nghĩa phức tạp hơn và ứng dụng linh hoạt trong các kỹ năng."
+        },
+        "swot_analysis": {
+          "strengths": [
+            "Lộ trình được thiết kế bài bản, theo chuẩn CEFR B1, sử dụng giáo trình 'Think' của Cambridge, mang tính học thuật và thực tiễn cao.",
+            "Tích hợp hiệu quả các kỹ năng nghe, nói, đọc, viết cùng từ vựng, ngữ pháp và phát âm trong mỗi bài học, đảm bảo sự phát triển toàn diện.",
+            "Nội dung đa dạng, cập nhật, phản ánh các chủ đề thời sự và học thuật (môi trường, công nghệ, khoa học), tăng tính hấp dẫn và ứng dụng thực tế.",
+            "Sự kết hợp giữa học online có hướng dẫn (video tương tác) và thực hành cá nhân (diễn đàn, bài tập về nhà) tối ưu hóa trải nghiệm học và tính linh hoạt.",
+            "Hệ thống bài tập củng cố và kiểm tra định kỳ (Skills Test, Unit Test, Writing Assignments) giúp theo dõi tiến độ rõ ràng và đánh giá hiệu quả học tập.",
+            "Chú trọng phát triển tư duy phản biện và kỹ năng giải quyết vấn đề thông qua các hoạt động bài học và chủ đề đa dạng."
+          ],
+          "weaknesses": [
+            "Việc nắm vững và sử dụng thành thạo các cấu trúc ngữ pháp phức tạp (như Reported Speech, Conditional Type 3, Passive Voice) ở cấp độ B1 có thể cần nhiều bài tập thực hành sản sinh hơn hoặc sự hướng dẫn cá nhân hóa từ giáo viên.",
+            "Mặc dù có các phần Speaking, khả năng nói tự do và thuyết phục trong các ngữ cảnh học thuật có thể vẫn là thách thức, đòi hỏi thêm các hoạt động thảo luận và tranh biện.",
+            "Số lượng từ vựng mới và ngữ pháp phức tạp trong mỗi unit có thể gây áp lực cho một số học viên nếu không có phương pháp học hiệu quả và ôn tập thường xuyên."
+          ],
+          "opportunities": [
+            "Sử dụng công nghệ AI trên diễn đàn có thể phát triển thêm để cung cấp phản hồi ngữ pháp/phát âm tức thì và chính xác hơn cho học viên trong các nhiệm vụ sản sinh ngôn ngữ.",
+            "Mở rộng các dự án nhóm hoặc thuyết trình để học viên có cơ hội áp dụng kiến thức B1 trong các tình huống thực tế, thúc đẩy kỹ năng làm việc nhóm và thuyết trình học thuật.",
+            "Tích hợp các tài liệu đọc và nghe từ các nguồn tin tức hoặc nghiên cứu khoa học thực tế để tăng cường tính học thuật và kỹ năng học tập độc lập.",
+            "Tăng cường các buổi hỏi đáp trực tuyến hoặc workshop về các chủ đề ngữ pháp khó để giải quyết các thắc mắc cụ thể của học viên."
+          ],
+          "threats": [
+            "Việc học online đòi hỏi sự tự giác và kỷ luật cao từ phía học viên; thiếu sự tương tác trực tiếp có thể khiến một số học viên mất động lực.",
+            "Chất lượng của phản hồi từ giáo viên trên diễn đàn đóng vai trò then chốt; nếu không được duy trì đều đặn và chất lượng, có thể ảnh hưởng đến sự tiến bộ của học viên.",
+            "Nguy cơ học viên chỉ tập trung vào việc hoàn thành bài tập để đạt điểm mà không thực sự hiểu sâu hoặc áp dụng linh hoạt kiến thức trong giao tiếp thực tế.",
+            "Sự đa dạng về chủ đề và độ khó tăng dần có thể khiến một số học viên cảm thấy quá tải nếu không có lộ trình học tập được cá nhân hóa hoặc sự hỗ trợ kịp thời."
+          ]
+        }
+      }
+    }
+  },
+  "chi_tiet_ve_khoa_hoc": {
+    "lesson_structure_and_objectives": {
+      "checklist_steps_description": [
+        {
+          "buoc": "Mở đầu bài học",
+          "muc_dich": "Thu hút sự chú ý, kích hoạt kiến thức nền và giới thiệu mục tiêu bài học."
+        },
+        {
+          "buoc": "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+          "muc_dich": "Giới thiệu các từ vựng khó, các kỹ thuật làm bài hoặc thông tin bối cảnh cần thiết trước khi đọc/nghe nội dung chính."
+        },
+        {
+          "buoc": "Bài tập lấy ý chính văn bản chính",
+          "muc_dich": "Rèn luyện khả năng đọc/nghe nhanh để nắm bắt chủ đề và thông điệp cốt lõi."
+        },
+        {
+          "buoc": "Bài tập lấy thông tin cụ thể từ văn bản chính",
+          "muc_dich": "Rèn luyện kỹ năng tìm kiếm và xác định các chi tiết quan trọng trong văn bản/audio."
+        },
+        {
+          "buoc": "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+          "muc_dich": "Phân tích sâu từ vựng chính, đảm bảo học viên hiểu nghĩa, cách dùng đúng hình thức (loại từ, cách viết) và phát âm chuẩn xác."
+        },
+        {
+          "buoc": "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+          "muc_dich": "Phân tích sâu cấu trúc ngữ pháp chính, đảm bảo học viên hiểu rõ cách sử dụng, hình thức và các trường hợp phát âm đặc biệt."
+        },
+        {
+          "buoc": "Tóm tắt các điểm ngôn ngữ mục tiêu",
+          "muc_dich": "Hệ thống lại các từ vựng và cấu trúc ngữ pháp trọng tâm đã học, giúp củng cố kiến thức và ghi nhớ lâu dài."
+        },
+        {
+          "buoc": "Mô hình hóa nhiệm vụ sản sinh",
+          "muc_dich": "Giáo viên hoặc tài liệu cung cấp ví dụ mẫu về cách thực hiện một hoạt động nói hoặc viết, hướng dẫn học viên về sản phẩm đầu ra mong muốn."
+        },
+        {
+          "buoc": "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)",
+          "muc_dich": "Khuyến khích học viên tự tin áp dụng ngôn ngữ đã học vào thực tế, thông qua các hoạt động nói hoặc viết tự do, và chia sẻ trên diễn đàn để nhận phản hồi."
+        }
+      ],
+      "vai_tro_lesson_stage_checklist": "Đảm bảo tính hệ thống, tuần tự logic, toàn diện và hiệu quả trong quá trình tiếp thu ngôn ngữ bằng cách cung cấp một khung sườn có cấu trúc cho mỗi bài học. Điều này giúp tối ưu hóa việc dạy và học các kỹ năng ngôn ngữ từ cơ bản đến nâng cao."
+    },
+    "teaching_methodology_and_tools": {
+      "checklist_role": "Đảm bảo tính hệ thống, tuần tự logic, toàn diện và hiệu quả trong quá trình tiếp thu ngôn ngữ bằng cách cung cấp một khung sườn có cấu trúc cho mỗi bài học.",
+      "blended_learning_approach": "Việc kết hợp học trên lớp thông qua các bài tập kỹ năng có hướng dẫn (dựa trên nội dung 'Lesson Objectives' và 'Course book pages') giúp học viên xây dựng nền tảng chính xác và bài bản. Đồng thời, việc thực hành tự do thông qua các nhiệm vụ trên 'Diễn đàn lớp học cùng AI' và 'Bài tập về nhà' tạo điều kiện phát triển sự lưu loát, tự tin và khả năng ứng dụng ngôn ngữ một cách sáng tạo trong môi trường giao tiếp mở. Các 'Bài giảng Video tương tác' đóng vai trò là nền tảng cốt lõi cho việc truyền tải nội dung này.",
+      "assessment_and_reinforcement": {
+        "homework_workbook": "Là công cụ chính để củng cố và ôn tập kiến thức đã học trên lớp, giúp học viên ghi nhớ sâu hơn và tự luyện tập các kỹ năng ngôn ngữ. Các bài tập này thường đi kèm với mỗi lesson để đảm bảo ôn luyện liên tục.",
+        "progress_test": "Các bài kiểm tra định kỳ (24 bài kiểm tra kỹ năng, 12 bài kiểm tra theo chủ đề, 1 bài kiểm tra cuối mỗi trình độ) được sử dụng để đánh giá tổng thể mức độ nắm vững kiến thức và kỹ năng sau mỗi đơn vị bài học hoặc nhóm đơn vị. Điều này giúp học viên và giáo viên nhận diện những lỗ hổng cần cải thiện và theo dõi tiến độ.",
+        "reading_writing_portfolio": "Các nhiệm vụ đọc và viết tích hợp trong portfolio (được đề cập trong các bài 'WRITING') khuyến khích học viên tổng hợp và áp dụng kiến thức từ nhiều bài học. Đây là một phương tiện hiệu quả để đánh giá quá trình học tập và thể hiện sự phát triển kỹ năng đọc và viết một cách có ý nghĩa và có mục đích."
+      },
+      "digital_tools_integration": {
+        "bai_giang_video_tuong_tac": "Là phương tiện chính triển khai nội dung bài học, cung cấp môi trường học đa phương tiện, linh hoạt, cho phép học viên tự điều chỉnh tốc độ học và xem lại các phần cần thiết. Video tương tác thường tích hợp các ví dụ, hình ảnh, âm thanh minh họa, giúp tối ưu hóa quá trình tiếp thu ngôn ngữ và phù hợp với các bước trong 'Lesson stage checklist'.",
+        "dien_dan_lop_hoc_cung_AI": "Đóng vai trò là nền tảng để học viên thực hiện các nhiệm vụ thực hành tự do (ví dụ: 'Five-Star Online forum video submission' hoặc các bài tập viết). Sự hỗ trợ của AI có thể cung cấp phản hồi ngữ pháp cơ bản, gợi ý từ vựng hoặc tạo tình huống hội thoại mô phỏng, khuyến khích học viên luyện tập chủ động, tăng tương tác và xây dựng một cộng đồng học tập năng động, đặc biệt quan trọng cho việc phát triển kỹ năng nói và viết."
+      },
+      "personalization_features": [
+        "Các bài tập 'Thực hành tự do' trên diễn đàn cho phép học viên tùy chỉnh nội dung thực hành nói/viết theo sở thích hoặc nhu cầu cá nhân, dù ở cấp độ cơ bản còn có định hướng.",
+        "Tính linh hoạt của video tương tác giúp người học kiểm soát tốc độ học, dừng lại hoặc xem lại nội dung phức tạp theo ý muốn.",
+        "Mỗi cấp độ có 24 bài kiểm tra kỹ năng riêng biệt, cho phép học viên theo dõi chi tiết tiến độ của từng kỹ năng.",
+        "Các phần 'CULTURE' cung cấp thông tin văn hóa đa dạng, có thể khơi gợi sự tò mò và cho phép học viên kết nối nội dung với kiến thức nền của mình."
+      ]
+    },
+    "units_va_lessons": [
+      {
+        "unit_so": 1,
+        "unit_ten_chu_de_chinh_bao_quat": "Con người đáng ngưỡng mộ và những trải nghiệm đã qua",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Các tính từ miêu tả người",
+            "Các cụm từ kết hợp (Collocations)",
+            "Tính từ miêu tả cảm xúc"
+          ],
+          "estimated_new_words": 35,
+          "key_grammar_points": [
+            "Thì Hiện tại hoàn thành với 'just', 'already', 'yet'",
+            "So sánh thì Hiện tại hoàn thành và thì Quá khứ đơn"
+          ],
+          "tenses_covered": [
+            "Thì Hiện tại hoàn thành",
+            "Thì Quá khứ đơn"
+          ],
+          "notable_sentence_patterns": [
+            "Who do you admire most?",
+            "I've just finished the task.",
+            "She's already done that.",
+            "Have you seen it yet?",
+            "You haven't seen anything yet!",
+            "Keep up the good work!"
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về những người đáng ngưỡng mộ và trẻ em thông minh; nghe/nói về sở thích và trò chơi đoán; sử dụng thì Hiện tại hoàn thành và phân biệt với thì Quá khứ đơn; đưa ra lời khuyến khích; viết về một người quen.",
+        "unit_real_world_situations": [
+          "Nói về những người bạn ngưỡng mộ",
+          "Chơi trò chơi đoán",
+          "Đưa ra lời khuyến khích (Offering encouragement)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 1,
+            "lesson_name": "READING Who do you admire most?",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp"
+            ],
+            "topic_content": "Đọc hiểu về người bạn ngưỡng mộ nhất. Bài đọc cung cấp các cụm từ mô tả người.",
+            "vocabulary_focus": "Các cụm từ mô tả người",
+            "grammar_focus": "Thì Hiện tại hoàn thành với 'just', 'already', 'yet'",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 1 homework exercises"
+          },
+          {
+            "lesson_id": 2,
+            "lesson_name": "LISTENING Playing a guessing game",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Nghe về trò chơi đoán. Đọc hiểu về những đứa trẻ thông minh nhất nước. Giới thiệu các cụm từ kết hợp (collocations) và so sánh thì Hiện tại hoàn thành với thì Quá khứ đơn.",
+            "vocabulary_focus": "Các cụm từ kết hợp (Collocations)",
+            "grammar_focus": "Thì Hiện tại hoàn thành vs. thì Quá khứ đơn (Present perfect vs. simple past)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 2 homework exercises"
+          },
+          {
+            "lesson_id": 3,
+            "lesson_name": "PHOTOSTORY & VIDEO 1 The new café",
+            "main_skills": [
+              "Phát triển kỹ năng nói",
+              "Phát âm",
+              "Chức năng giao tiếp"
+            ],
+            "topic_content": "Câu chuyện có hình ảnh và video về quán cà phê mới. Luyện ngữ điệu và trọng âm câu.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Đưa ra lời khuyến khích (Offering encouragement).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 3 homework exercises"
+          },
+          {
+            "lesson_id": 4,
+            "lesson_name": "WRITING A person I know well",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết về một người bạn biết rõ. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết mô tả về một người quen.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 1 writing assignment"
+          },
+          {
+            "lesson_id": 5,
+            "lesson_name": "SUPPLEMENTARY TEXT FROM TEACHER",
+            "main_skills": [
+              "Tổng hợp kiến thức"
+            ],
+            "topic_content": "Bài học bổ trợ từ giáo viên để ôn tập Unit 1.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 5 homework exercises"
+          },
+          {
+            "lesson_id": 6,
+            "lesson_name": "UNIT 1 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 1. Học viên nói về một người họ ngưỡng mộ.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 1",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 1",
+            "real_world_context": "Thực hành nói về người mình ngưỡng mộ.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 2,
+        "unit_ten_chu_de_chinh_bao_quat": "Giáo dục, học tập và tư duy",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Môn học ở trường (School subjects)",
+            "Động từ liên quan đến suy nghĩ (Verbs about thinking)"
+          ],
+          "estimated_new_words": 30,
+          "key_grammar_points": [
+            "Thì Hiện tại hoàn thành với 'for' và 'since'",
+            "Mạo từ 'a, an, the' hoặc không dùng mạo từ"
+          ],
+          "tenses_covered": [
+            "Thì Hiện tại hoàn thành"
+          ],
+          "notable_sentence_patterns": [
+            "I've been studying for three hours.",
+            "She hasn't eaten since yesterday.",
+            "Do you mind if I sit here?",
+            "Learning is brain change."
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về giáo dục; nghe/nói về sách và việc học; hỏi/cho phép/từ chối; sử dụng mạo từ; viết email không trang trọng.",
+        "unit_real_world_situations": [
+          "Hỏi và cho phép/từ chối (Asking and giving/refusing permission)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 7,
+            "lesson_name": "READING An education like no other",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về một nền giáo dục độc đáo. Giới thiệu thì Hiện tại hoàn thành với 'for' và 'since'.",
+            "vocabulary_focus": "Môn học ở trường (School subjects)",
+            "grammar_focus": "Thì Hiện tại hoàn thành với 'for' và 'since' (Present perfect with for and since)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 7 homework exercises"
+          },
+          {
+            "lesson_id": 8,
+            "lesson_name": "LISTENING Talking about a book",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Chức năng giao tiếp",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Nghe về việc nói về một cuốn sách. Đọc hiểu 'Học tập là sự thay đổi não bộ'. Giới thiệu các mạo từ 'a, an, the' hoặc không dùng mạo từ, và từ vựng về các động từ liên quan đến suy nghĩ.",
+            "vocabulary_focus": "Động từ về suy nghĩ (Verbs about thinking)",
+            "grammar_focus": "Mạo từ 'a, an, the' hoặc không dùng mạo từ (a, an, the or no article)",
+            "real_world_context": "Hỏi và cho phép/từ chối (Asking and giving/refusing permission).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 8 homework exercises"
+          },
+          {
+            "lesson_id": 9,
+            "lesson_name": "WRITING An informal email",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết một email không trang trọng. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết email không trang trọng.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 2 writing assignment"
+          },
+          {
+            "lesson_id": 10,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 10 homework exercises"
+          },
+          {
+            "lesson_id": 11,
+            "lesson_name": "CULTURE A day in the life of...",
+            "main_skills": [
+              "Văn hóa",
+              "Tổng hợp kiến thức"
+            ],
+            "topic_content": "Tìm hiểu về một ngày trong cuộc sống của... (Bài học văn hóa). Bài học ôn tập tổng thể Unit 2.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Tìm hiểu về cuộc sống và thói quen hàng ngày ở các nền văn hóa khác nhau.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 11 homework exercises"
+          },
+          {
+            "lesson_id": 12,
+            "lesson_name": "UNIT 2 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 2. Học viên nói về môn học yêu thích và không yêu thích nhất của mình.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 2",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 2",
+            "real_world_context": "Thực hành nói về sở thích cá nhân liên quan đến học tập.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 3,
+        "unit_ten_chu_de_chinh_bao_quat": "Giải trí, điện ảnh và so sánh",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Các thể loại phim (Types of films)",
+            "Các loại chương trình TV (Types of TV programmes)"
+          ],
+          "estimated_new_words": 30,
+          "key_grammar_points": [
+            "Tính từ so sánh hơn và so sánh nhất (Comparative and superlative adjectives) - ôn tập",
+            "Cấu trúc so sánh mạnh hơn/yếu hơn",
+            "Trạng từ và trạng từ so sánh"
+          ],
+          "tenses_covered": [],
+          "notable_sentence_patterns": [
+            "Big movies on a small budget.",
+            "It's much better than...",
+            "He talks more slowly.",
+            "Can I give you a hand?"
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về phim ảnh và chương trình TV; nghe/nói về các chương trình giải trí; so sánh sự vật, người và hành động; hỏi/đề nghị giúp đỡ; viết bài luận về một vấn đề.",
+        "unit_real_world_situations": [
+          "Làm mạnh hơn hoặc yếu hơn một sự so sánh (Making a comparison stronger or weaker)",
+          "Hỏi và đề nghị giúp đỡ (Asking for and offering help)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 13,
+            "lesson_name": "READING Big movies on a small budget",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về các bộ phim lớn với kinh phí nhỏ. Giới thiệu tính từ so sánh hơn và so sánh nhất.",
+            "vocabulary_focus": "Các thể loại phim (Types of films)",
+            "grammar_focus": "Tính từ so sánh hơn và so sánh nhất (Comparative and superlative adjectives) (review)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 13 homework exercises"
+          },
+          {
+            "lesson_id": 14,
+            "lesson_name": "READING TV listings",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Ngữ pháp",
+              "Kỹ năng Đọc",
+              "Từ vựng"
+            ],
+            "topic_content": "Nghe một cuộc phỏng vấn. Đọc hiểu lịch chiếu TV. Giới thiệu cách làm mạnh hơn hoặc yếu hơn một sự so sánh, trạng từ và trạng từ so sánh, và từ vựng về các loại chương trình TV.",
+            "vocabulary_focus": "Các loại chương trình TV (Types of TV programmes)",
+            "grammar_focus": "Làm mạnh hơn hoặc yếu hơn một sự so sánh (Making a comparison stronger or weaker); Trạng từ và trạng từ so sánh (Adverbs and comparative adverbs)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 14 homework exercises"
+          },
+          {
+            "lesson_id": 15,
+            "lesson_name": "PHOTOSTORY/VIDEO 2 Extras",
+            "main_skills": [
+              "Phát triển kỹ năng nói",
+              "Chức năng giao tiếp"
+            ],
+            "topic_content": "Câu chuyện có hình ảnh và video 'Extras'. Học các cụm từ để nói trôi chảy và chức năng giao tiếp liên quan đến việc hỏi và đề nghị giúp đỡ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Hỏi và đề nghị giúp đỡ (Asking for and offering help).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 15 homework exercises"
+          },
+          {
+            "lesson_id": 16,
+            "lesson_name": "WRITING Discursive essay for and against",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết một bài luận bàn về ưu và nhược điểm. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết bài luận nghị luận.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 3 writing assignment"
+          },
+          {
+            "lesson_id": 17,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 17 homework exercises"
+          },
+          {
+            "lesson_id": 18,
+            "lesson_name": "UNIT 3 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 3. Học viên so sánh: cái nào tốt hơn - sách hay phim?",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 3",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 3",
+            "real_world_context": "Thực hành so sánh và bày tỏ ý kiến về sách và phim.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 4,
+        "unit_ten_chu_de_chinh_bao_quat": "Mạng xã hội, công nghệ và lời khuyên",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Thuật ngữ công nghệ thông tin (IT terms)",
+            "Ngôn ngữ dùng để đưa lời khuyên (Language for giving advice)"
+          ],
+          "estimated_new_words": 30,
+          "key_grammar_points": [
+            "Đại từ bất định (Indefinite pronouns: everyone, no one, someone, etc.)",
+            "Các lượng từ 'all/some/none/any' của danh từ",
+            "Động từ khuyết thiếu 'should(n't)', 'had better', 'ought to'"
+          ],
+          "tenses_covered": [],
+          "notable_sentence_patterns": [
+            "Think before you act online.",
+            "Everyone is here.",
+            "You should try it.",
+            "You had better go.",
+            "You ought to study harder."
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về hành vi trực tuyến và tin nhắn; nghe/nói về cài đặt game máy tính; sử dụng đại từ bất định và các lượng từ; đưa ra lời khuyên; viết lời khuyên về máy tính.",
+        "unit_real_world_situations": [
+          "Đưa ra lời khuyên (Giving advice)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 19,
+            "lesson_name": "READING Think before you act online",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về việc suy nghĩ trước khi hành động trực tuyến. Giới thiệu đại từ bất định và thuật ngữ công nghệ thông tin.",
+            "vocabulary_focus": "Thuật ngữ công nghệ thông tin (IT terms)",
+            "grammar_focus": "Đại từ bất định (Indefinite pronouns: everyone, no one, someone, etc.)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 19 homework exercises"
+          },
+          {
+            "lesson_id": 20,
+            "lesson_name": "LISTENING Conversation about installing a computer game",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Ngữ pháp",
+              "Kỹ năng Đọc",
+              "Từ vựng"
+            ],
+            "topic_content": "Nghe cuộc trò chuyện về việc cài đặt game máy tính. Đọc hiểu các tin nhắn. Giới thiệu các lượng từ 'all/some/none/any' của danh từ và các động từ khuyết thiếu 'should(n't), had better, ought to'.",
+            "vocabulary_focus": "Ngôn ngữ dùng để đưa lời khuyên (Language for giving advice)",
+            "grammar_focus": "Các lượng từ 'all/some/none/any' của danh từ; Động từ khuyết thiếu 'should(n't), had better, ought to'",
+            "real_world_context": "Đưa ra lời khuyên (Giving advice).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 20 homework exercises"
+          },
+          {
+            "lesson_id": 21,
+            "lesson_name": "WRITING Computer advice",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết lời khuyên về máy tính. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết lời khuyên về công nghệ.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 4 writing assignment"
+          },
+          {
+            "lesson_id": 22,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 22 homework exercises"
+          },
+          {
+            "lesson_id": 23,
+            "lesson_name": "CULTURE Communication through history",
+            "main_skills": [
+              "Văn hóa",
+              "Phát âm",
+              "Tổng hợp kiến thức"
+            ],
+            "topic_content": "Tìm hiểu về giao tiếp qua các thời kỳ. Luyện âm nguyên âm ngắn /ə/.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Tìm hiểu về sự phát triển của các hình thức giao tiếp.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 23 homework exercises"
+          },
+          {
+            "lesson_id": 24,
+            "lesson_name": "UNIT 4 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 4. Học viên nói về cách giữ an toàn trên mạng.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 4",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 4",
+            "real_world_context": "Thực hành nói về an toàn mạng.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 5,
+        "unit_ten_chu_de_chinh_bao_quat": "Âm nhạc, cảm xúc và các trải nghiệm cá nhân",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Hoạt động âm nhạc (Making music)",
+            "Nhạc cụ (Musical instruments)"
+          ],
+          "estimated_new_words": 30,
+          "key_grammar_points": [
+            "Thì Hiện tại hoàn thành tiếp diễn (Present perfect continuous)",
+            "So sánh thì Hiện tại hoàn thành đơn và thì Hiện tại hoàn thành tiếp diễn"
+          ],
+          "tenses_covered": [
+            "Thì Hiện tại hoàn thành tiếp diễn",
+            "Thì Hiện tại hoàn thành đơn"
+          ],
+          "notable_sentence_patterns": [
+            "What have you been doing?",
+            "I've been playing the guitar for years.",
+            "He has lived here for a long time.",
+            "How do you feel about...?"
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về người viết nhạc và nghệ sĩ; nghe/nói về âm nhạc; sử dụng thì Hiện tại hoàn thành tiếp diễn và phân biệt với thì Hiện tại hoàn thành đơn; hỏi về cảm xúc; viết một bài báo tạp chí.",
+        "unit_real_world_situations": [
+          "Hỏi về cảm xúc (Asking about feelings)",
+          "Thảo luận về các hoạt động âm nhạc"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 25,
+            "lesson_name": "READING Singer songwriter: Any advice?",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Phát âm",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về người viết nhạc: có lời khuyên nào không? Giới thiệu thì Hiện tại hoàn thành tiếp diễn và từ vựng về các hoạt động âm nhạc.",
+            "vocabulary_focus": "Hoạt động âm nhạc (Making music)",
+            "grammar_focus": "Thì Hiện tại hoàn thành tiếp diễn (Present perfect continuous)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 25 homework exercises"
+          },
+          {
+            "lesson_id": 26,
+            "lesson_name": "LISTENING Talking about music",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Nghe về việc nói về âm nhạc. Đọc hiểu về 'John Otway - Thất bại lớn nhất của nhạc rock'. Giới thiệu so sánh thì Hiện tại hoàn thành đơn và thì Hiện tại hoàn thành tiếp diễn, và từ vựng về nhạc cụ.",
+            "vocabulary_focus": "Nhạc cụ (Musical instruments)",
+            "grammar_focus": "So sánh thì Hiện tại hoàn thành đơn và thì Hiện tại hoàn thành tiếp diễn (Present perfect simple vs. present perfect continuous)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 26 homework exercises"
+          },
+          {
+            "lesson_id": 27,
+            "lesson_name": "PHOTOSTORY & VIDEO 3 Pop in the park",
+            "main_skills": [
+              "Phát triển kỹ năng nói",
+              "Chức năng giao tiếp"
+            ],
+            "topic_content": "Câu chuyện có hình ảnh và video 'Pop in the park'. Học các cụm từ để nói trôi chảy và chức năng giao tiếp liên quan đến việc hỏi về cảm xúc.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Hỏi về cảm xúc (Asking about feelings).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 27 homework exercises"
+          },
+          {
+            "lesson_id": 28,
+            "lesson_name": "WRITING A magazine article",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết một bài báo tạp chí. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết bài báo tạp chí.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 5 writing assignment"
+          },
+          {
+            "lesson_id": 29,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 29 homework exercises"
+          },
+          {
+            "lesson_id": 30,
+            "lesson_name": "UNIT 5 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 5. Học viên chia sẻ sở thích/đam mê với nhóm học tập.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 5",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 5",
+            "real_world_context": "Thực hành nói về sở thích và đam mê cá nhân.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 6,
+        "unit_ten_chu_de_chinh_bao_quat": "Môi trường, dự đoán và điều kiện",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Từ vựng về môi trường (The environment)",
+            "Động từ liên quan đến năng lượng (Verbs to talk about energy)"
+          ],
+          "estimated_new_words": 30,
+          "key_grammar_points": [
+            "Động từ khuyết thiếu 'will (not)', 'may (not)', 'might (not)' (dự đoán)",
+            "Câu điều kiện loại 1 (First conditional) và 'unless'"
+          ],
+          "tenses_covered": [],
+          "notable_sentence_patterns": [
+            "The environment is a hot topic.",
+            "It will rain tomorrow.",
+            "I may go to the party.",
+            "If it rains, we will stay home.",
+            "Unless you study, you won't pass."
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về môi trường; nghe/nói về các dự đoán; bày tỏ sự ngạc nhiên/hứng thú; sử dụng câu điều kiện loại 1; viết bài báo để nâng cao nhận thức.",
+        "unit_real_world_situations": [
+          "Bày tỏ sự ngạc nhiên và hứng thú (Expressing surprise and enthusiasm)",
+          "Thảo luận về các vấn đề môi trường",
+          "Đưa ra các dự đoán"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 31,
+            "lesson_name": "READING Hot topic: The environment",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về chủ đề nóng: môi trường. Giới thiệu động từ khuyết thiếu 'will (not)', 'may (not)', 'might (not)' để dự đoán và từ vựng về môi trường.",
+            "vocabulary_focus": "Từ vựng về môi trường (The environment)",
+            "grammar_focus": "Động từ khuyết thiếu 'will (not)', 'may (not)', 'might (not)' (for prediction)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 31 homework exercises"
+          },
+          {
+            "lesson_id": 32,
+            "lesson_name": "LISTENING Online newspaper",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Chức năng giao tiếp",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Nghe tin tức từ báo điện tử. Đọc hiểu về 'Những thay đổi nhỏ, hậu quả lớn'. Giới thiệu câu điều kiện loại 1 và 'unless' trong câu điều kiện loại 1, cùng từ vựng về các động từ liên quan đến năng lượng.",
+            "vocabulary_focus": "Động từ về năng lượng (Verbs to talk about energy)",
+            "grammar_focus": "Câu điều kiện loại 1 (First conditional); 'unless' trong câu điều kiện loại 1 ('unless' in first conditional sentences)",
+            "real_world_context": "Bày tỏ sự ngạc nhiên và hứng thú (Expressing surprise and enthusiasm).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 32 homework exercises"
+          },
+          {
+            "lesson_id": 33,
+            "lesson_name": "WRITING An article to raise awareness",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết một bài báo để nâng cao nhận thức. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết bài báo để nâng cao nhận thức về một vấn đề.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 6 writing assignment"
+          },
+          {
+            "lesson_id": 34,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 34 homework exercises"
+          },
+          {
+            "lesson_id": 35,
+            "lesson_name": "CULTURE Stop! Before it's too late",
+            "main_skills": [
+              "Văn hóa",
+              "Tổng hợp kiến thức"
+            ],
+            "topic_content": "Tìm hiểu về 'Dừng lại! Trước khi quá muộn' (Bài học văn hóa). Bài học ôn tập tổng thể Unit 6.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Thảo luận về các vấn đề môi trường cấp bách và giải pháp.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 35 homework exercises"
+          },
+          {
+            "lesson_id": 36,
+            "lesson_name": "UNIT 6 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 6. Học viên nói về vấn đề lớn nhất thế giới trong 20 năm tới.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 6",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 6",
+            "real_world_context": "Thực hành nói về các vấn đề toàn cầu và dự đoán tương lai.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 7,
+        "unit_ten_chu_de_chinh_bao_quat": "Cuộc sống tương lai, kế hoạch và các hoạt động xã hội",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Các cụm từ chỉ thời gian trong tương lai (Future time expressions)",
+            "Từ vựng liên quan đến sắp xếp một bữa tiệc (Arranging a party)"
+          ],
+          "estimated_new_words": 25,
+          "key_grammar_points": [
+            "Các dạng tương lai (Future forms) - ôn tập",
+            "Câu hỏi đuôi (Question tags)",
+            "Nor/neither/so"
+          ],
+          "tenses_covered": [
+            "Các dạng tương lai"
+          ],
+          "notable_sentence_patterns": [
+            "The world today is changing.",
+            "What will you do?",
+            "You like pizza, don't you?",
+            "I don't like it. Nor do I.",
+            "Let's meet at 7."
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về thế giới ngày nay và các bài đăng trò chuyện; nghe/nói về các cuộc phỏng vấn từ tương lai và các cuộc hẹn; sử dụng câu hỏi đuôi và 'nor/neither/so'; đồng ý với ý kiến; viết lời mời.",
+        "unit_real_world_situations": [
+          "Sắp xếp một bữa tiệc (Arranging a party)",
+          "Đồng ý với ý kiến (Agreeing)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 37,
+            "lesson_name": "READING The world today",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về thế giới ngày nay. Giới thiệu các dạng tương lai và các cụm từ chỉ thời gian trong tương lai.",
+            "vocabulary_focus": "Các cụm từ chỉ thời gian trong tương lai (Future time expressions)",
+            "grammar_focus": "Các dạng tương lai (Future forms)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 37 homework exercises"
+          },
+          {
+            "lesson_id": 38,
+            "lesson_name": "LISTENING Interviews from the future",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Phát âm",
+              "Từ vựng"
+            ],
+            "topic_content": "Nghe các cuộc phỏng vấn từ tương lai. Đọc hiểu các bài đăng trong phòng trò chuyện. Giới thiệu câu hỏi đuôi và 'Nor/neither/so', cùng từ vựng về sắp xếp một bữa tiệc.",
+            "vocabulary_focus": "Từ vựng liên quan đến sắp xếp một bữa tiệc (Arranging a party)",
+            "grammar_focus": "Câu hỏi đuôi (Question tags); 'Nor/neither/so'",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 38 homework exercises"
+          },
+          {
+            "lesson_id": 39,
+            "lesson_name": "PHOTOSTORY & VIDEO 4 Weekend plans",
+            "main_skills": [
+              "Phát triển kỹ năng nói",
+              "Chức năng giao tiếp"
+            ],
+            "topic_content": "Câu chuyện có hình ảnh và video về kế hoạch cuối tuần. Học các cụm từ để nói trôi chảy và chức năng giao tiếp liên quan đến việc đồng ý.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Đồng ý với ý kiến (Agreeing).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 39 homework exercises"
+          },
+          {
+            "lesson_id": 40,
+            "lesson_name": "WRITING An invitation",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết một lời mời. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết lời mời.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 7 writing assignment"
+          },
+          {
+            "lesson_id": 41,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 41 homework exercises"
+          },
+          {
+            "lesson_id": 42,
+            "lesson_name": "UNIT 7 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 7. Học viên chia sẻ dự đoán của mình về cuộc sống trong năm 2200.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 7",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 7",
+            "real_world_context": "Thực hành nói về dự đoán tương lai.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 8,
+        "unit_ten_chu_de_chinh_bao_quat": "Khoa học, công nghệ và các sự kiện đã qua",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Từ vựng về hướng và di chuyển (Direction and movement)",
+            "Từ vựng về khoa học (Science)"
+          ],
+          "estimated_new_words": 30,
+          "key_grammar_points": [
+            "So sánh thì Quá khứ đơn và Quá khứ tiếp diễn (ôn tập)",
+            "Cấu trúc 'used to' (thói quen quá khứ)",
+            "Câu điều kiện loại 2 (Second conditional)"
+          ],
+          "tenses_covered": [
+            "Thì Quá khứ đơn",
+            "Thì Quá khứ tiếp diễn"
+          ],
+          "notable_sentence_patterns": [
+            "Why aren't people more interested in science?",
+            "I used to live there.",
+            "If I had more time, I would learn a new skill."
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về khoa học và diễn đàn web; nghe/nói về những điều trẻ em không hiểu và thói quen quá khứ; sử dụng 'used to' và câu điều kiện loại 2; nói về thói quen quá khứ; viết về cách công nghệ thay đổi cuộc sống.",
+        "unit_real_world_situations": [
+          "Nói về thói quen trong quá khứ (Talking about past habits)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 43,
+            "lesson_name": "READING Why aren't people more interested in science?",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về việc tại sao mọi người ít quan tâm đến khoa học hơn. Giới thiệu so sánh thì Quá khứ đơn và Quá khứ tiếp diễn, và từ vựng về hướng và di chuyển.",
+            "vocabulary_focus": "Từ vựng về hướng và di chuyển (Direction and movement)",
+            "grammar_focus": "So sánh thì Quá khứ đơn và Quá khứ tiếp diễn (Past simple vs. past cont.) (review)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 43 homework exercises"
+          },
+          {
+            "lesson_id": 44,
+            "lesson_name": "SUPPLEMENTARY TEXT FROM TEACHER",
+            "main_skills": [
+              "Tổng hợp kiến thức"
+            ],
+            "topic_content": "Bài học bổ trợ từ giáo viên: Nghe về những điều trẻ em không hiểu.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 44 homework exercises"
+          },
+          {
+            "lesson_id": 45,
+            "lesson_name": "READING A web forum",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Chức năng giao tiếp",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu một diễn đàn web. Giới thiệu cấu trúc 'used to' và câu điều kiện loại 2, cùng từ vựng về khoa học.",
+            "vocabulary_focus": "Từ vựng về khoa học (Science)",
+            "grammar_focus": "Cấu trúc 'used to' (Past habits); Câu điều kiện loại 2 (Second conditional)",
+            "real_world_context": "Nói về thói quen trong quá khứ (Talking about past habits).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 45 homework exercises"
+          },
+          {
+            "lesson_id": 46,
+            "lesson_name": "WRITING How technology changes people's lives",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết về cách công nghệ thay đổi cuộc sống. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết về tác động của công nghệ.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 8 writing assignment"
+          },
+          {
+            "lesson_id": 47,
+            "lesson_name": "CULTURE Great scientists",
+            "main_skills": [
+              "Văn hóa",
+              "Tổng hợp kiến thức"
+            ],
+            "topic_content": "Tìm hiểu về các nhà khoa học vĩ đại. Bài học ôn tập tổng thể Unit 8.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Tìm hiểu về các nhà khoa học có ảnh hưởng và đóng góp của họ.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 47 homework exercises"
+          },
+          {
+            "lesson_id": 48,
+            "lesson_name": "UNIT 8 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 8. Học viên nói về điều gì đó họ ước là đã khác.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 8",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 8",
+            "real_world_context": "Thực hành nói về mong muốn hoặc hối tiếc.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 9,
+        "unit_ten_chu_de_chinh_bao_quat": "Nghề nghiệp, xã hội và quy trình",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Các ngành nghề (Jobs)",
+            "Các cụm từ liên quan đến công việc (work as/in/for)"
+          ],
+          "estimated_new_words": 30,
+          "key_grammar_points": [
+            "Thể bị động thì Hiện tại đơn và Quá khứ đơn (Passive present simple and past simple)",
+            "Thể bị động thì Hiện tại tiếp diễn và Hiện tại hoàn thành (Passive present continuous and present perfect)"
+          ],
+          "tenses_covered": [
+            "Thì Hiện tại đơn",
+            "Thì Quá khứ đơn",
+            "Thì Hiện tại tiếp diễn",
+            "Thì Hiện tại hoàn thành"
+          ],
+          "notable_sentence_patterns": [
+            "What's your dream job?",
+            "The book was written by...",
+            "He is being interviewed.",
+            "The car has been repaired."
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về công việc; nghe/nói về người khuyết tật và công việc lỗi thời; sử dụng thể bị động; chấp nhận/từ chối lời mời; viết hướng dẫn hoặc quy trình.",
+        "unit_real_world_situations": [
+          "Chấp nhận và từ chối lời mời (Accepting and refusing invitations)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 49,
+            "lesson_name": "READING Dream jobs",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng",
+              "Phát âm"
+            ],
+            "topic_content": "Đọc hiểu về các công việc mơ ước. Giới thiệu thể bị động thì Hiện tại đơn và Quá khứ đơn, cùng từ vựng về các ngành nghề.",
+            "vocabulary_focus": "Các ngành nghề (Jobs)",
+            "grammar_focus": "Thể bị động thì Hiện tại đơn và Quá khứ đơn (The passive present simple and past simple)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 49 homework exercises"
+          },
+          {
+            "lesson_id": 50,
+            "lesson_name": "LISTENING People with disabilities",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Nghe về người khuyết tật. Đọc hiểu về các công việc lỗi thời. Giới thiệu thể bị động thì Hiện tại tiếp diễn và Hiện tại hoàn thành, cùng từ vựng về các cụm từ liên quan đến công việc 'work as/in/for'.",
+            "vocabulary_focus": "Các cụm từ 'work as/in/for'",
+            "grammar_focus": "Thể bị động thì Hiện tại tiếp diễn và Hiện tại hoàn thành (The passive present continuous and present perfect)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 50 homework exercises"
+          },
+          {
+            "lesson_id": 51,
+            "lesson_name": "PHOTOSTORY/VIDEO 5 For a good cause",
+            "main_skills": [
+              "Phát triển kỹ năng nói",
+              "Chức năng giao tiếp"
+            ],
+            "topic_content": "Câu chuyện có hình ảnh và video 'For a good cause'. Học các cụm từ để nói trôi chảy và chức năng giao tiếp liên quan đến việc chấp nhận và từ chối lời mời.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Chấp nhận và từ chối lời mời (Accepting and refusing invitations).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 51 homework exercises"
+          },
+          {
+            "lesson_id": 52,
+            "lesson_name": "WRITING Instructions vs. processes",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết hướng dẫn hoặc quy trình. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết hướng dẫn hoặc quy trình.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 9 writing assignment"
+          },
+          {
+            "lesson_id": 53,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 53 homework exercises"
+          },
+          {
+            "lesson_id": 54,
+            "lesson_name": "UNIT 9 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 9. Học viên mô tả một quy trình.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 9",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 9",
+            "real_world_context": "Thực hành mô tả một quy trình.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 10,
+        "unit_ten_chu_de_chinh_bao_quat": "Sức khỏe, lối sống lành mạnh và các sự kiện đã qua",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Các từ nối thời gian (Time linkers)",
+            "Các cụm từ kết hợp về bệnh tật (Illness collocations)"
+          ],
+          "estimated_new_words": 30,
+          "key_grammar_points": [
+            "Thì Quá khứ hoàn thành đơn (Past perfect simple)",
+            "Thì Quá khứ hoàn thành tiếp diễn (Past perfect continuous)",
+            "So sánh thì Quá khứ hoàn thành đơn và thì Quá khứ hoàn thành tiếp diễn"
+          ],
+          "tenses_covered": [
+            "Thì Quá khứ hoàn thành đơn",
+            "Thì Quá khứ hoàn thành tiếp diễn"
+          ],
+          "notable_sentence_patterns": [
+            "I had never seen so many birds before.",
+            "She had been working all day.",
+            "I had just finished when he arrived.",
+            "What happened next?"
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về sức khỏe và các hoạt động; nghe/nói về sức khỏe; sử dụng thì Quá khứ hoàn thành đơn và tiếp diễn; nói về các trải nghiệm đã qua; viết một câu chuyện.",
+        "unit_real_world_situations": [
+          "Nói về sức khỏe (Talking about health)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 55,
+            "lesson_name": "READING 8,000 birds to see before you die",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về '8.000 loài chim cần xem trước khi chết'. Giới thiệu thì Quá khứ hoàn thành đơn và các từ nối thời gian.",
+            "vocabulary_focus": "Các từ nối thời gian (Time linkers)",
+            "grammar_focus": "Thì Quá khứ hoàn thành đơn (Past perfect simple)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 55 homework exercises"
+          },
+          {
+            "lesson_id": 56,
+            "lesson_name": "LISTENING A talk at school",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Chức năng giao tiếp",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng",
+              "Phát âm"
+            ],
+            "topic_content": "Nghe một buổi nói chuyện ở trường. Đọc hiểu về 'Các ca phẫu thuật kỳ diệu'. Giới thiệu thì Quá khứ hoàn thành tiếp diễn và so sánh với thì Quá khứ hoàn thành đơn, cùng từ vựng về các cụm từ kết hợp về bệnh tật.",
+            "vocabulary_focus": "Các cụm từ kết hợp về bệnh tật (Illness collocations)",
+            "grammar_focus": "Thì Quá khứ hoàn thành tiếp diễn (Past perfect continuous); So sánh thì Quá khứ hoàn thành đơn và thì Quá khứ hoàn thành tiếp diễn (Past perfect simple vs. past perfect cont.)",
+            "real_world_context": "Nói về sức khỏe (Talking about health).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 56 homework exercises"
+          },
+          {
+            "lesson_id": 57,
+            "lesson_name": "WRITING Stories",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết truyện. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết truyện.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 10 writing assignment"
+          },
+          {
+            "lesson_id": 58,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 58 homework exercises"
+          },
+          {
+            "lesson_id": 59,
+            "lesson_name": "CULTURE Keeping healthy - stories from around the world",
+            "main_skills": [
+              "Văn hóa",
+              "Tổng hợp kiến thức"
+            ],
+            "topic_content": "Tìm hiểu về 'Giữ sức khỏe - Những câu chuyện từ khắp nơi trên thế giới'. Bài học ôn tập tổng thể Unit 10.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Tìm hiểu về các phương pháp giữ sức khỏe và văn hóa trên thế giới.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 59 homework exercises"
+          },
+          {
+            "lesson_id": 60,
+            "lesson_name": "UNIT 10 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 10. Học viên chia sẻ một sự kiện đáng nhớ từ quá khứ.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 10",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 10",
+            "real_world_context": "Thực hành nói về các kỷ niệm và sự kiện đã qua.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 11,
+        "unit_ten_chu_de_chinh_bao_quat": "Tin tức, cảm xúc và thông báo",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Từ vựng về niềm vui (Fun)",
+            "Các động từ theo sau là tân ngữ + động từ nguyên mẫu có 'to' (Verbs with object + infinitive)"
+          ],
+          "estimated_new_words": 25,
+          "key_grammar_points": [
+            "Câu tường thuật (Reported statements)",
+            "Cấu trúc động từ theo sau là tân ngữ + động từ nguyên mẫu có 'to' (Verb pattern object + infinitive)"
+          ],
+          "tenses_covered": [],
+          "notable_sentence_patterns": [
+            "He said he was tired.",
+            "I told him to wait.",
+            "She made me laugh.",
+            "I didn't expect that."
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về tin tức và câu chuyện; nghe về thời tiết khắc nghiệt; sử dụng câu tường thuật và cấu trúc động từ + tân ngữ + động từ nguyên mẫu có 'to'; bày tỏ cảm xúc (tức giận); viết báo cáo cho tạp chí trường học.",
+        "unit_real_world_situations": [
+          "Bày tỏ cảm xúc (tức giận) (Expressing feelings anger)",
+          "Thảo luận về tin tức và sự kiện"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 61,
+            "lesson_name": "READING April Fool's Day",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về Ngày Cá tháng Tư. Giới thiệu câu tường thuật và từ vựng về niềm vui.",
+            "vocabulary_focus": "Từ vựng về niềm vui (Fun)",
+            "grammar_focus": "Câu tường thuật (Reported statements)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 61 homework exercises"
+          },
+          {
+            "lesson_id": 62,
+            "lesson_name": "LISTENING Extreme weather conditions",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng",
+              "Phát âm"
+            ],
+            "topic_content": "Nghe về các điều kiện thời tiết khắc nghiệt. Đọc hiểu 'A tale of two guys'. Giới thiệu cấu trúc động từ theo sau là tân ngữ + động từ nguyên mẫu có 'to' và các động từ khác đi với cấu trúc này.",
+            "vocabulary_focus": "Các động từ khác theo sau là tân ngữ + động từ nguyên mẫu có 'to' (More verbs with object +infinitive)",
+            "grammar_focus": "Cấu trúc động từ theo sau là tân ngữ + động từ nguyên mẫu có 'to' (Verb pattern object + infinitive)",
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 62 homework exercises"
+          },
+          {
+            "lesson_id": 63,
+            "lesson_name": "PHOTOSTORY & VIDEO 6 The journalist",
+            "main_skills": [
+              "Phát triển kỹ năng nói",
+              "Chức năng giao tiếp"
+            ],
+            "topic_content": "Câu chuyện có hình ảnh và video về người phóng viên. Học các cụm từ để nói trôi chảy và chức năng giao tiếp liên quan đến việc bày tỏ cảm xúc (tức giận).",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Bày tỏ cảm xúc tức giận (Expressing feelings anger).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 63 homework exercises"
+          },
+          {
+            "lesson_id": 64,
+            "lesson_name": "WRITING A report for the school magazine",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết một báo cáo cho tạp chí trường học. Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết báo cáo.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 11 writing assignment"
+          },
+          {
+            "lesson_id": 65,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 65 homework exercises"
+          },
+          {
+            "lesson_id": 66,
+            "lesson_name": "UNIT 11 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 11. Học viên kể lại một tin tức họ vừa đọc gần đây.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 11",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 11",
+            "real_world_context": "Thực hành kể lại tin tức đã đọc.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      },
+      {
+        "unit_so": 12,
+        "unit_ten_chu_de_chinh_bao_quat": "Quy tắc, trách nhiệm và hối tiếc",
+        "unit_learning_objectives": {
+          "core_vocabulary_groups": [
+            "Từ vựng về kỷ luật (Discipline)",
+            "Từ vựng về hậu quả và lý do (Consequences and reasons)"
+          ],
+          "estimated_new_words": 25,
+          "key_grammar_points": [
+            "Cấu trúc 'be allowed to/let'",
+            "Câu điều kiện loại 3 (Third conditional)"
+          ],
+          "tenses_covered": [
+            "Thì Quá khứ hoàn thành đơn",
+            "Thì Quá khứ hoàn thành tiếp diễn"
+          ],
+          "notable_sentence_patterns": [
+            "You are not allowed to use your phone.",
+            "My parents let me go out.",
+            "If I had studied, I would have passed.",
+            "I regret that."
+          ]
+        },
+        "unit_skill_objectives": "Đọc hiểu về tầm quan trọng của quy tắc và phá vỡ quy tắc; nghe/nói về hướng dẫn; sử dụng 'be allowed to/let' và câu điều kiện loại 3; nói về hậu quả; viết một bộ quy tắc.",
+        "unit_real_world_situations": [
+          "Tuân theo và đưa ra hướng dẫn đơn giản (Following and giving simple instructions)",
+          "Nói về hậu quả và lý do (Talking about consequences and reasons)"
+        ],
+        "lessons": [
+          {
+            "lesson_id": 67,
+            "lesson_name": "READING Hard time to be a kid",
+            "main_skills": [
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng"
+            ],
+            "topic_content": "Đọc hiểu về 'Thời gian khó khăn để làm một đứa trẻ' và tầm quan trọng của quy tắc. Giới thiệu cấu trúc 'be allowed to/let' và từ vựng về kỷ luật.",
+            "vocabulary_focus": "Từ vựng về kỷ luật (Discipline)",
+            "grammar_focus": "Cấu trúc 'be allowed to/let'",
+            "real_world_context": "Thảo luận về tầm quan trọng của các quy tắc.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 67 homework exercises"
+          },
+          {
+            "lesson_id": 68,
+            "lesson_name": "LISTENING Rock, paper, scissors game",
+            "main_skills": [
+              "Kỹ năng Nghe",
+              "Chức năng giao tiếp",
+              "Kỹ năng Đọc",
+              "Ngữ pháp",
+              "Từ vựng",
+              "Phát âm"
+            ],
+            "topic_content": "Nghe trò chơi 'Oẳn tù tì'. Đọc hiểu về việc phá vỡ quy tắc. Giới thiệu câu điều kiện loại 3 và từ vựng về hậu quả và lý do.",
+            "vocabulary_focus": "Từ vựng về hậu quả và lý do (Consequences and reasons)",
+            "grammar_focus": "Câu điều kiện loại 3 (Third conditional)",
+            "real_world_context": "Tuân theo và đưa ra hướng dẫn đơn giản (Following and giving simple instructions).",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 68 homework exercises"
+          },
+          {
+            "lesson_id": 69,
+            "lesson_name": "WRITING A (light-hearted) set of rules",
+            "main_skills": [
+              "Kỹ năng Viết"
+            ],
+            "topic_content": "Học cách viết một bộ quy tắc (theo cách hài hước). Bài học bao gồm: giới thiệu chủ đề, văn bản mẫu, ví dụ học viên (chỉnh sửa ngữ pháp), và thiết lập nhiệm vụ.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Viết bộ quy tắc.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Viết"
+            },
+            "homework_workbook_reference": "Five-Star Online Unit 12 writing assignment"
+          },
+          {
+            "lesson_id": 70,
+            "lesson_name": "Skills Test",
+            "main_skills": [
+              "Đánh giá kỹ năng"
+            ],
+            "topic_content": "Kiểm tra kỹ năng tổng hợp.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": null,
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 70 homework exercises"
+          },
+          {
+            "lesson_id": 71,
+            "lesson_name": "CULTURE Strange laws around the world",
+            "main_skills": [
+              "Văn hóa",
+              "Tổng hợp kiến thức"
+            ],
+            "topic_content": "Tìm hiểu về các luật lạ trên khắp thế giới. Bài học ôn tập tổng thể Unit 12.",
+            "vocabulary_focus": null,
+            "grammar_focus": null,
+            "real_world_context": "Tìm hiểu về các quy tắc và luật pháp độc đáo trên thế giới.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": null,
+            "homework_workbook_reference": "Five-Star Online Lesson 71 homework exercises"
+          },
+          {
+            "lesson_id": 72,
+            "lesson_name": "UNIT 12 TEST",
+            "main_skills": [
+              "Kỹ năng Nói",
+              "Kiểm tra kiến thức"
+            ],
+            "topic_content": "Bài kiểm tra cuối Unit 12. Học viên chia sẻ điều gì đó từ quá khứ mà họ hối tiếc.",
+            "vocabulary_focus": "Ôn tập từ vựng của Unit 12",
+            "grammar_focus": "Ôn tập ngữ pháp của Unit 12",
+            "real_world_context": "Thực hành nói về sự hối tiếc trong quá khứ.",
+            "lesson_checklist_steps": [
+              "Mở đầu bài học",
+              "Dạy trước từ vựng / Chiến lược bài tập / Thông tin nền về văn bản chính",
+              "Bài tập lấy ý chính văn bản chính",
+              "Bài tập lấy thông tin cụ thể từ văn bản chính",
+              "Khai thác từ vựng mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Khai thác ngữ pháp mục tiêu và bao gồm MFP (Nghĩa, Hình thức, Phát âm)",
+              "Tóm tắt các điểm ngôn ngữ mục tiêu",
+              "Mô hình hóa nhiệm vụ sản sinh",
+              "Kêu gọi hành động (Học viên hoàn thành nhiệm vụ sản sinh trên diễn đàn)"
+            ],
+            "forum_assignment": {
+              "skill": "Nói"
+            },
+            "homework_workbook_reference": "Five-Star Online forum video submission"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,592 @@
+
+{
+  "app": {
+    "title": "FSEL - Công Cụ Hỗ Trợ Học Viên",
+    "titleShort": "FSEL Hỗ Trợ",
+    "footer": {
+        "main": "Bản quyền FSEL",
+        "developedBy": "Phát triển bởi Khối Công Nghệ FSEL"
+    },
+    "backToResults": "Quay lại Danh sách Kết quả",
+    "addStudentButton": "Thêm Học Viên Mới"
+  },
+  "sidebar": {
+    "studentManagement": "Quản Lý Học Viên",
+    "courseInformation": "Thông Tin Khóa Học",
+    "alertSettings": "Cài Đặt Cảnh Báo",
+    "productPackages": "Gói Sản Phẩm",
+    "toggleMenu": "Mở/Đóng menu",
+    "closeMenu": "Đóng menu"
+  },
+  "productPackagesPage": {
+    "title": "Danh Sách Gói Sản Phẩm",
+    "loading": "Đang tải danh sách gói sản phẩm...",
+    "error": "Không thể tải dữ liệu gói sản phẩm. Vui lòng thử lại sau.",
+    "price": "Giá",
+    "priceMonth": "Giá/Tháng",
+    "duration": "{monthNumber} Tháng",
+    "incentives": "Ưu đãi khi mua",
+    "eventDescription": "Mô tả sự kiện",
+    "noPackages": "Hiện chưa có gói sản phẩm nào.",
+    "suggests": {
+        "BestSeller": "Bán Chạy",
+        "Recommend": "Đề Xuất"
+    }
+  },
+  "alertSettingsPage": {
+    "title": "Tùy Chỉnh Cài Đặt Cảnh Báo",
+    "globalSettings": {
+        "title": "Cài Đặt Chung",
+        "position": "Vị Trí Hiển Thị:",
+        "duration": "Thời Gian Hiển Thị:",
+        "defaultShowDismissButton": "Luôn Hiển Thị Nút Đóng:",
+        "fontSizeLabel": "Kích Thước Chữ:",
+        "textFormattingLabel": "Định Dạng Chữ:",
+        "positions": {
+            "top-left": "Trên - Trái",
+            "top-center": "Trên - Giữa",
+            "top-right": "Trên - Phải",
+            "bottom-left": "Dưới - Trái",
+            "bottom-center": "Dưới - Giữa",
+            "bottom-right": "Dưới - Phải"
+        },
+        "durations": {
+            "3s": "3 giây",
+            "5s": "5 giây",
+            "10s": "10 giây",
+            "infinite": "Vô hạn (cần nút đóng)"
+        },
+        "fontSizes": {
+          "xs": "Rất nhỏ (text-xs)",
+          "sm": "Nhỏ (text-sm)",
+          "base": "Mặc định (text-base)",
+          "lg": "Lớn (text-lg)",
+          "xl": "Rất lớn (text-xl)"
+        },
+        "fontWeights": {
+          "normal": "Thường",
+          "bold": "Đậm"
+        },
+        "fontStyles": {
+          "normal": "Thường",
+          "italic": "Nghiêng"
+        },
+        "textDecorations": {
+          "none": "Không",
+          "underline": "Gạch chân"
+        }
+    },
+    "typeSettings": {
+        "title": "Cài Đặt Theo Loại Thông Báo",
+        "info": "Thông Tin (Info)",
+        "success": "Thành Công (Success)",
+        "error": "Lỗi (Error)",
+        "warning": "Cảnh Báo (Warning)",
+        "backgroundColor": "Màu Nền:",
+        "textColor": "Màu Chữ:",
+        "borderColor": "Màu Viền:",
+        "borderWidth": "Độ Dày Viền (vd: 1px):",
+        "borderStyle": "Kiểu Viền:",
+        "styles": {
+            "solid": "Nét liền",
+            "dashed": "Nét đứt",
+            "dotted": "Nét chấm",
+            "none": "Không viền"
+        },
+        "layoutTitle": "Bố Cục (Tailwind Classes)",
+        "labels": {
+            "padding": "Padding:",
+            "shadow": "Đổ Bóng:",
+            "rounded": "Bo Góc:",
+            "flex": "Flex Layout:"
+        },
+        "options": {
+            "padding": {
+                "default": "Mặc định (p-4)",
+                "small": "Nhỏ (p-2)",
+                "medium": "Vừa (p-3)",
+                "large": "Lớn (p-6)",
+                "none": "Không (p-0)"
+            },
+            "shadow": {
+                "default": "Mặc định (shadow-lg)",
+                "small": "Nhỏ (shadow-md)",
+                "large": "Lớn (shadow-xl)",
+                "none": "Không (shadow-none)"
+            },
+            "rounded": {
+                "default": "Mặc định (rounded-lg)",
+                "small": "Nhỏ (rounded-md)",
+                "large": "Lớn (rounded-xl)",
+                "none": "Không (rounded-none)"
+            },
+            "flex": {
+                "contentLeftButtonRight": "Nội dung trái, nút phải, căn giữa dọc",
+                "contentButtonLeft": "Nội dung và nút cùng căn trái, căn giữa dọc",
+                "contentCenterButtonRight": "Nội dung ở giữa, nút phải nếu có, căn giữa dọc",
+                "contentRightButtonLeft": "Nội dung phải, nút trái, căn giữa dọc",
+                "noFlex": "Không dùng Flex (dạng khối)"
+            }
+        }
+    },
+    "buttons": {
+        "save": "Lưu Cài Đặt",
+        "saving": "Đang lưu...",
+        "reset": "Khôi Phục Mặc Định",
+        "resetting": "Đang khôi phục..."
+    },
+    "messages": {
+        "saveSuccess": "Đã lưu cài đặt cảnh báo thành công!",
+        "saveError": "Lỗi khi lưu cài đặt: {error}",
+        "resetSuccess": "Đã khôi phục cài đặt cảnh báo về mặc định!",
+        "resetError": "Lỗi khi khôi phục cài đặt: {error}",
+        "invalidColor": "Giá trị màu '{field}' không hợp lệ.",
+        "invalidPixelValue": "Giá trị '{field}' phải là một số theo sau bởi 'px' (ví dụ: '1px', '0px').",
+        "invalidTailwindClass": "Giá trị '{field}' dường như không phải là một class Tailwind hợp lệ."
+    },
+    "preview": {
+        "title": "Xem Trước Trực Tiếp",
+        "sampleText": "Đây là bản xem trước."
+    }
+  },
+  "courseInformation": {
+    "title": "Thông Tin Khóa Học",
+    "loadingCategories": "Đang tải danh mục khóa học...",
+    "noCategories": "Chưa có danh mục khóa học nào.",
+    "noCoursesInCategory": "Chưa có khóa học nào trong danh mục này.",
+    "loadingCourse": "Đang tải chi tiết khóa học...",
+    "backToCategories": "Quay lại Danh mục",
+    "lessonPlanTitle": "Lộ Trình Học Chi Tiết",
+    "tabs": {
+      "overview": "Tổng Quan Khóa Học",
+      "lessonPlan": "Chi Tiết Lộ Trình",
+      "expertAssessment": "Đánh Giá Chuyên Môn"
+    },
+    "lessonPlan": {
+        "filterByUnitLabel": "Lọc theo Unit:",
+        "allUnitsLabel": "Tất cả Unit",
+        "noData": "Không có dữ liệu lộ trình học.",
+        "coreKnowledgeObjectives": "Mục tiêu kiến thức cốt lõi",
+        "coreSkillObjectives": "Mục tiêu kỹ năng cốt lõi",
+        "prominentRealWorldSituations": "Tình huống thực tế nổi bật",
+        "lessons": "Các Bài Học",
+        "lessonID": "Mã Bài",
+        "lessonName": "Tên Bài Học",
+        "mainSkills": "Kỹ Năng Chính",
+        "topicContent": "Chủ Đề & Nội Dung",
+        "targetVocab": "Từ Vựng Mục Tiêu",
+        "targetGrammar": "Ngữ Pháp Mục Tiêu",
+        "realWorldSituation": "Tình Huống Thực Tế",
+        "forumAssignment": "Bài Tập Diễn Đàn",
+        "homework": "Bài Tập Về Nhà",
+        "lessonChecklistSteps": "Các Bước Trong Bài"
+    },
+    "courseDetails": {
+        "durationWeeks": "Thời lượng (Tuần)",
+        "durationMonths": "Thời lượng (Tháng)",
+        "lessonsPerWeek": "Số buổi/Tuần",
+        "lessonDurationHours": "Thời lượng buổi học (Giờ)",
+        "totalLessons": "Tổng số buổi học",
+        "unitTests": "Số bài kiểm tra Unit",
+        "finalTests": "Số bài kiểm tra cuối kỳ",
+        "overallGoal": "Mục tiêu tổng thể",
+        "knowledgeSkillsSummary": "Tổng Quan Kiến Thức & Kỹ Năng",
+        "grammarSummary": "Ngữ Pháp",
+        "tensesStructuresCount": "Số lượng thì/cấu trúc",
+        "grammarDetails": "Chi tiết ngữ pháp",
+        "vocabularySummary": "Từ Vựng",
+        "wordCount": "Số lượng từ",
+        "vocabularyThemes": "Chủ đề từ vựng",
+        "listeningSkills": "Kỹ Năng Nghe",
+        "speakingSkills": "Kỹ Năng Nói",
+        "readingSkills": "Kỹ Năng Đọc",
+        "writingSkills": "Kỹ Năng Viết",
+        "targetAudience": "Đối tượng mục tiêu",
+        "outputLevel": "Trình độ đầu ra",
+        "coreObjectives": "Mục tiêu cốt lõi",
+        "keyPedagogicalFeatures": "Đặc Điểm Sư Phạm Chính"
+    },
+    "efFields": {
+      "courseName": "Tên Khóa Học",
+      "levelCEFR": "Cấp Độ CEFR",
+      "levelName": "Tên Cấp Độ",
+      "targetAudienceTitle": "Đối Tượng Mục Tiêu",
+      "age": "Độ tuổi",
+      "entryLevel": "Trình độ đầu vào",
+      "commonReasons": "Lý do học tập phổ biến",
+      "overallOutputObjectivesTitle": "Mục Tiêu Đầu Ra Chung",
+      "generalDescription": "Mô tả chung",
+      "detailedSkills": "Chi tiết kỹ năng",
+      "expectedKnowledgeOutputTitle": "Số Lượng Hóa Đầu Ra Kiến Thức Dự Kiến",
+      "vocabulary": "Từ vựng",
+      "coreGrammar": "Ngữ pháp cốt lõi",
+      "realWorldSituations": "Tình huống giao tiếp thực tế",
+      "courseStructureDurationTitle": "Cấu Trúc và Thời Lượng Khóa Học",
+      "totalUnits": "Tổng số Units",
+      "lessonsPerUnit": "Số Lessons mỗi Unit",
+      "totalTime": "Tổng thời gian học và kiểm tra",
+      "overallAssessmentConclusionTitle": "Đánh Giá Tổng Thể và Kết Luận",
+      "curriculumStrengths": "Điểm mạnh lộ trình",
+      "suitability": "Sự phù hợp với mục tiêu khóa học",
+      "preparationHigherLevels": "Sự chuẩn bị cho các cấp độ cao hơn",
+      "generalLessonStructureTitle": "Mô Tả Chung Cấu Trúc Lesson",
+      "checklistRole": "Vai trò của Checklist các bước trong Lesson",
+      "checklistSteps": "Các bước trong Checklist Lesson",
+      "teachingMethodsToolsTitle": "Phương Pháp Giảng Dạy và Công Cụ Hỗ Trợ",
+      "blendedLearning": "Kết hợp học trên lớp và thực hành tự do",
+      "assessmentToolsRole": "Vai trò công cụ đánh giá và ôn luyện",
+      "homeworkWorkbook": "Bài tập về nhà (Workbook)",
+      "progressTest": "Bài kiểm tra tiến độ (Progress Test)",
+      "rwPortfolio": "Portfolio Đọc & Viết (Reading & Writing Portfolio)",
+      "supplementaryElements": "Yếu tố bổ trợ từ hình ảnh tổng quan",
+      "interactiveVideos": "Bài giảng Video tương tác",
+      "forumAI": "Diễn đàn lớp học cùng AI",
+      "personalizationFeatures": "Tính năng Cá Nhân Hóa",
+      "professionalExpertAssessmentTitle": "Đánh Giá Chuyên Môn",
+      "evaluationBasedOnSixComponentsTitle": "Đánh giá dựa trên 6 thành phần",
+      "listeningAssessment": "Đánh giá Nghe",
+      "speakingAssessment": "Đánh giá Nói",
+      "readingAssessment": "Đánh giá Đọc",
+      "writingAssessment": "Đánh giá Viết",
+      "vocabularyAssessment": "Đánh giá Từ vựng",
+      "grammarAssessmentOverall": "Đánh giá Ngữ pháp",
+      "swotAnalysisTitle": "Phân Tích SWOT",
+      "swotStrengths": "Điểm mạnh (Strengths)",
+      "swotWeaknesses": "Điểm yếu (Weaknesses)",
+      "swotOpportunities": "Cơ hội (Opportunities)",
+      "swotThreats": "Thách thức (Threats)",
+      "tensesStructuresCount": "Số Lượng Thì/Cấu Trúc",
+      "generalCourseInfoTitle": "Thông Tin Chung & Cấu Trúc Khóa Học"
+    },
+    "categories": {
+        "academic": "Tiếng Anh Học Thuật - Academic",
+        "ieltsPathway": "Lộ trình IELTS Pathway",
+        "englishFoundation": "Tiếng Anh Nền Tảng (English Foundation)",
+        "acaDescription": "Khám phá các khóa học Tiếng Anh Học Thuật chuyên sâu, giúp bạn tự tin trong môi trường học tập quốc tế.",
+        "ieltsDescription": "Lộ trình luyện thi IELTS Pathway được thiết kế toàn diện, từ nền tảng đến nâng cao, chinh phục mục tiêu điểm số.",
+        "efDescription": "Xây dựng nền tảng tiếng Anh vững chắc với các khóa Tiếng Anh Nền Tảng, bước đệm hoàn hảo cho mục tiêu IELTS."
+    },
+    "courses": {
+        "a1": { "description": "Khóa Tiếng Anh cơ bản bao gồm ngữ pháp và từ vựng nền tảng." },
+        "a2": { "description": "Khóa Tiếng Anh A2, xây dựng trên nền tảng A1." },
+        "b1": { "description": "Khóa Tiếng Anh B1, mức độ trung cấp." },
+        "b1plus": { "description": "Khóa Tiếng Anh B1+, nâng cao của B1." },
+        "b2": { "description": "Khóa Tiếng Anh B2, mức độ trên trung cấp." },
+        "c1": { "description": "Khóa Tiếng Anh C1, mức độ cao cấp." },
+        "ef_a1": { 
+            "name": "EF A1 - Nền tảng",
+            "description": "Khóa học xây dựng nền tảng tiếng Anh vững chắc cho người bắt đầu, tập trung giao tiếp cơ bản." 
+        },
+        "ef_a2": { 
+            "name": "EF A2 - Phát triển",
+            "description": "Phát triển kỹ năng từ A1, mở rộng vốn từ và cấu trúc ngữ pháp phức tạp hơn." 
+        },
+        "ef_b1": { 
+            "name": "EF B1 - Tăng tốc",
+            "description": "Nâng cao khả năng sử dụng tiếng Anh một cách độc lập trong nhiều tình huống." 
+        },
+        "ielts50": {
+            "name": "IELTS Pathway - Mục tiêu 5.0",
+            "description": "Xây dựng nền tảng và kỹ năng cần thiết để đạt mục tiêu IELTS 5.0."
+        },
+        "ielts60": {
+            "name": "IELTS Pathway - Mục tiêu 6.0",
+            "description": "Phát triển chiến thuật và ngôn ngữ nâng cao cho mục tiêu IELTS 6.0."
+        },
+        "ielts70": {
+            "name": "IELTS Pathway - Mục tiêu 7.0",
+            "description": "Hoàn thiện kỹ năng và chiến lược chuyên sâu để chinh phục IELTS 7.0+."
+        }
+    },
+    "errors": {
+        "fetchFailed": "Không thể tải khóa học '{courseName}'. Máy chủ phản hồi với mã lỗi {status}.",
+        "invalidFormat": "Định dạng dữ liệu cho khóa học '{courseName}' không hợp lệ.",
+        "unknownError": "Đã xảy ra lỗi không xác định khi tải dữ liệu khóa học."
+    }
+  },
+  "alertMessage": {
+    "app": {
+      "initializingAdmin": "Đang khởi tạo quyền quản trị...",
+      "adminReady": "Quyền quản trị sẵn sàng. Bạn có thể tìm kiếm học viên.",
+      "adminInitFailedCritical": "KHÔNG THỂ KHỞI TẠO QUYỀN QUẢN TRỊ. Vui lòng kiểm tra cấu hình hoặc liên hệ hỗ trợ.",
+      "adminInitError": "Lỗi khởi tạo quyền quản trị: {message}",
+      "adminNotReadySearch": "Quyền quản trị chưa sẵn sàng. Vui lòng đợi hoặc thử làm mới trang.",
+      "searchTermRequired": "Vui lòng nhập số điện thoại hoặc email để tìm kiếm.",
+      "invalidSearchFormat": "Định dạng tìm kiếm không hợp lệ. Vui lòng nhập SĐT (10 số, bắt đầu bằng 0) hoặc Email hợp lệ.",
+      "searching": "Đang tìm kiếm \"{searchTerm}\"...",
+      "studentsFound": "Tìm thấy {count} học viên với \"{searchTerm}\".",
+      "noStudentsFound": "Không tìm thấy học viên nào với \"{searchTerm}\".",
+      "searchFailed": "Tìm kiếm thất bại: {message}",
+      "loadingDetailsShort": "Đang tải chi tiết...",
+      "loadingDetailsFailed": "Không thể tải chi tiết học viên. Lỗi: {error}",
+      "addStudentSuccess": "Đã thêm học viên \"{fullName}\" thành công. Mật khẩu mặc định là \"{defaultPassword}\".",
+      "addStudentFailure": "Thêm học viên thất bại: {message}",
+      "emailExists": "Email \"{email}\" đã được sử dụng. Vui lòng chọn email khác.",
+      "phoneExists": "Số điện thoại \"{phone}\" đã được sử dụng. Vui lòng chọn số khác.",
+      "deleteAccountSuccess": "Đã xóa thành công tài khoản của học viên \"{fullName}\".",
+      "deleteAccountFailure": "Xóa tài khoản thất bại: {message}",
+      "deletingAccount": "Đang xóa tài khoản của {fullName}...",
+      "courseLoadFailed": "Không thể tải khóa học '{courseName}'. Lỗi: {error}"
+    },
+    "resetPT": {
+      "starting": "Bắt đầu Reset Placement Test cho {fullName}...",
+      "stepProgress": "Bước {step}: {message}",
+      "success": "Reset Placement Test thành công cho {fullName}. Đang làm mới dữ liệu...",
+      "failure": "Reset Placement Test thất bại cho {fullName}: {message}",
+      "progressMessages": {
+        "deleteOldAccountStart": "Đang xóa tài khoản cũ (UserID: {userId})...",
+        "deleteOldAccountSuccess": "Đã xóa tài khoản cũ thành công.",
+        "createNewAccountStart": "Đang tạo tài khoản mới cho \"{fullName}\" với email \"{email}\"...",
+        "createNewAccountSuccess": "Đã tạo tài khoản mới thành công (UserID mới: {newUserId}).",
+        "fetchOtpStart": "Đang lấy OTP cho tài khoản mới (UserID: {newUserId})...",
+        "fetchOtpGotOtp": "Đã lấy OTP: {otpValue}. Đang xác nhận OTP cho email \"{email}\"...",
+        "confirmOtpSuccess": "Đã xác nhận OTP thành công.",
+        "updateCodeBirthdayStart": "Đang cập nhật mã học viên và ngày sinh cho tài khoản mới (UserID: {newUserId})...",
+        "updateCodeBirthdaySuccess": "Đã cập nhật mã học viên và ngày sinh thành công.",
+        "searchNewAccountStart": "Đang tìm kiếm thông tin tài khoản mới (Email: {email}) để lấy StudentID...",
+        "searchNewAccountSuccess": "Đã lấy được Student GUID mới: {newStudentId}.",
+        "updateFullInfoStart": "Đang cập nhật thông tin tài khoản đầy đủ cho Student GUID: {newStudentId}...",
+        "updateFullInfoSuccess": "Đã cập nhật thông tin tài khoản thành công."
+      }
+    },
+    "dismissButton": {
+      "ariaLabel": "Đóng cảnh báo"
+    }
+  },
+  "apiErrors": {
+    "default": "Đã xảy ra lỗi API không xác định.",
+    "otpError": "Không thể tải dữ liệu OTP.",
+    "ptError": "Không thể tải dữ liệu Bài Kiểm Tra Đầu Vào.",
+    "missingUserIdError": "Thiếu User ID để lấy OTP.",
+    "missingStudentEntityIdError": "Thiếu Student GUID để lấy Bài Kiểm Tra Đầu Vào."
+  },
+  "buttons": {
+    "expand": "Mở rộng",
+    "collapse": "Thu gọn",
+    "add": "Thêm",
+    "cancel": "Hủy",
+    "save": "Lưu",
+    "saving": "Đang lưu...",
+    "close": "Đóng",
+    "delete": "Xóa",
+    "confirmDelete": "Xác Nhận Xóa"
+  },
+  "addStudentModal": {
+    "title": "Thêm Học Viên Mới",
+    "labels": {
+      "fullName": "Họ và Tên",
+      "email": "Email",
+      "phoneNumber": "Số Điện Thoại",
+      "birthday": "Ngày Sinh"
+    },
+    "placeholders": {
+      "fullName": "Nhập họ và tên",
+      "email": "Nhập địa chỉ email",
+      "phoneNumber": "Nhập số điện thoại (không bắt buộc)",
+      "birthday": "Chọn ngày sinh (không bắt buộc)"
+    },
+    "validation": {
+      "fullNameRequired": "Họ và tên là bắt buộc.",
+      "emailRequired": "Email là bắt buộc.",
+      "emailInvalid": "Định dạng email không hợp lệ.",
+      "phoneInvalid": "Số điện thoại không hợp lệ (phải có 10 số, bắt đầu bằng 0)."
+    },
+    "addStudentInfo": "Mật khẩu mặc định cho tài khoản mới sẽ là \"{defaultPassword}\".",
+    "successPanel": {
+      "title": "Tạo Tài Khoản Học Viên Thành Công!",
+      "info": "Dưới đây là thông tin tài khoản của học viên:",
+      "fullName": "Tên Học Viên:",
+      "birthday": "Ngày Sinh:",
+      "username": "Tên Đăng Nhập (Email):",
+      "password": "Mật Khẩu Mặc Định:",
+      "note": "Vui lòng cung cấp thông tin này cho học viên và khuyên họ đổi mật khẩu sau lần đăng nhập đầu tiên."
+    }
+  },
+  "searchBar": {
+    "label": "Tìm Kiếm Học Viên (SĐT hoặc Email)",
+    "labelShort": "Tìm kiếm",
+    "placeholder": "Nhập SĐT hoặc Email...",
+    "buttonText": "Tìm Kiếm",
+    "buttonLoading": "Đang tìm...",
+    "ariaLabel": "Trường nhập tìm kiếm học viên",
+    "clearButton": {
+      "ariaLabel": "Xóa nội dung tìm kiếm"
+    }
+  },
+  "customerTypes": {
+    "leads": "Tiềm năng",
+    "client": "Học viên",
+    "na": "Chưa có"
+  },
+  "studentRow": {
+    "buttons": {
+      "showDetails": "Chi tiết",
+      "hideDetails": "Ẩn"
+    }
+  },
+  "studentDetailsAccordion": {
+    "title": "Chi tiết cho {fullName} ({studentCode})",
+    "otpInfoTitle": "Thông Tin OTP",
+    "loadingOtp": "Đang tải OTP...",
+    "emailOtpLabel": "EMAIL OTP",
+    "smsOtpLabel": "SMS OTP",
+    "noOtpData": "Không có dữ liệu OTP.",
+     "errors": {
+      "otpLoadFailed": "Không thể tải dữ liệu OTP.",
+      "otpLoadGenericError": "Lỗi khi lấy dữ liệu OTP.",
+      "ptLoadFailed": "Không thể tải dữ liệu Bài Kiểm Tra Đầu Vào.",
+      "ptLoadGenericError": "Lỗi khi lấy dữ liệu Bài Kiểm Tra Đầu Vào."
+    }
+  },
+  "modal": {
+    "closeButton": {
+      "ariaLabel": "Đóng hộp thoại"
+    },
+    "studentDetail": {
+      "title": "Chi Tiết Học Viên: {fullName}",
+      "tabs": {
+        "info": "Thông Tin",
+        "pt": "Kiểm Tra Đầu Vào",
+        "ai": "Phân Tích AI"
+      }
+    }
+  },
+  "selectedStudentInfoCard": {
+    "title": "Thông Tin Chung Học Viên",
+    "noStudentSelected": "Chưa chọn học viên nào. Vui lòng tìm kiếm và chọn một học viên từ danh sách.",
+    "sections": {
+      "generalInfo": {
+        "title": "Thông Tin Cá Nhân",
+        "studentCode": "Mã Học Viên",
+        "fullName": "Họ và Tên",
+        "birthday": "Ngày Sinh",
+        "phoneNumber": "Số Điện Thoại",
+        "email": "Email",
+        "school": "Trường",
+        "class": "Lớp"
+      },
+      "customerInfo": {
+        "title": "Thông Tin Khách Hàng",
+        "customerType": "Loại Đối Tượng",
+        "package": "Gói Học"
+      },
+      "otpInfo": {
+        "title": "Thông Tin OTP",
+        "loading": "Đang tải OTP...",
+        "emailOtp": "EMAIL OTP",
+        "smsOtp": "SMS OTP",
+        "noData": "Không có dữ liệu OTP."
+      }
+    },
+    "buttons": {
+      "resetPT": "Reset PT",
+      "deleteAccount": "Xóa TK"
+    },
+    "resetPT": {
+      "modal": {
+        "title": "Xác Nhận Reset Bài Kiểm Tra Đầu Vào cho {fullName}",
+        "confirmation": "Bạn có chắc chắn muốn Reset Bài Kiểm Tra Đầu Vào cho học viên {fullName} (Email: {email}) không?",
+        "warningTitle": "QUAN TRỌNG:",
+        "warningMessage": "Hành động này sẽ XÓA VĨNH VIỄN tài khoản hiện tại của học viên và dữ liệu liên quan, sau đó TẠO MỘT TÀI KHOẢN MỚI với thông tin cơ bản. Dữ liệu Bài Kiểm Tra Đầu Vào cũ sẽ bị mất. Quá trình này không thể hoàn tác.",
+        "processing": "Đang xử lý reset...",
+        "stepProgress": "Bước {step}: {message}",
+        "buttons": {
+          "cancel": "Hủy",
+          "confirm": "Xác nhận Reset"
+        }
+      }
+    },
+    "deleteAccountModal": {
+      "title": "Xác Nhận Xóa Tài Khoản",
+      "confirmation": "Bạn có chắc chắn muốn XÓA VĨNH VIỄN tài khoản của \"{fullName}\" (Email: {email}, Mã HV: {studentCode}) không?",
+      "warning": "Hành động này sẽ xóa toàn bộ dữ liệu học viên khỏi hệ thống FSEL, bao gồm thông tin cá nhân, kết quả học tập, lịch sử Bài Kiểm Tra Đầu Vào và không thể hoàn tác. Dữ liệu tài chính hoặc dữ liệu trong các hệ thống khác có thể không bị ảnh hưởng trực tiếp bởi thao tác này.",
+      "inputLabel": "Để xác nhận, vui lòng nhập \"XÓA\" vào ô bên dưới:",
+      "inputPlaceholder": "Nhập XÓA",
+      "confirmationMatchString": "XÓA",
+      "confirmButton": "Xác Nhận Xóa Vĩnh Viễn",
+      "cancelButton": "Hủy",
+      "invalidConfirmation": "Nội dung xác nhận không chính xác.",
+      "deletingProgress": "Đang xóa tài khoản..."
+    }
+  },
+  "placementTestDetails": {
+    "headers": {
+        "ptResults": "Kết Quả Kiểm Tra Đầu Vào",
+        "aiAnalysis": "Phân Tích & Kịch Bản Tư Vấn AI"
+    },
+    "buttons": {
+        "analyzeAI": {
+            "analyzeDetail": "Phân Tích Chi Tiết",
+            "reanalyzeDetail": "Phân Tích Lại",
+            "generateScripts": "Tạo Kịch Bản",
+            "regenerateScripts": "Tạo Lại KB",
+            "loadingAnalysis": "Đang phân tích...",
+            "loadingScripts": "Đang tạo KB...",
+            "ariaLabel": "Thực hiện phân tích AI cho kết quả kiểm tra đầu vào"
+        }
+    },
+    "pt": {
+      "loading": "Đang tải dữ liệu Bài Kiểm Tra Đầu Vào...",
+      "noData": "Không có dữ liệu Bài Kiểm Tra Đầu Vào cho học viên này.",
+      "course": "Khóa Học",
+      "currentLevel": "Trình Độ Hiện Tại",
+      "recommendedLevel": "Trình Độ Đề Xuất",
+      "testTitle": "Bài Test {level}: {correctCount}/{totalCount} đúng",
+      "table": {
+        "skill": "Kỹ Năng",
+        "score": "Điểm",
+        "correctTotal": "Đúng/Tổng",
+        "percentage": "Tỷ Lệ (%)"
+      },
+      "noSkillDetails": "Không có chi tiết điểm theo kỹ năng.",
+      "noTestDetails": "Không có chi tiết bài test."
+    },
+    "ai": {
+      "notConfiguredWarning": "Tính năng Phân Tích AI chưa được cấu hình (Thiếu API Key). Vui lòng liên hệ quản trị viên.",
+      "needPtData": "Cần có dữ liệu Bài Kiểm Tra Đầu Vào để phân tích AI.",
+      "loadingAnalysis": "Đang tải phân tích chi tiết từ AI...",
+      "loadingScripts": "Đang tải kịch bản tư vấn từ AI...",
+      "noAnalysisData": "Không có dữ liệu phân tích chi tiết.",
+      "noScriptData": "Không có dữ liệu kịch bản tư vấn.",
+      "detailedAnalysisTitle": "Đánh Giá Chi Tiết (AI)",
+      "scriptSuggestionsTitle": "Gợi Ý Kịch Bản Tư Vấn (AI)",
+      "errors": {
+        "noPtData": "Không có dữ liệu Bài Kiểm Tra Đầu Vào để phân tích.",
+        "noAnalysisForScripts": "Cần có phân tích chi tiết trước khi tạo kịch bản.",
+        "noPtDataForScripts": "Thiếu dữ liệu Bài Kiểm Tra Đầu Vào cho ngữ cảnh kịch bản.",
+        "notConfigured": "Gemini AI chưa được cấu hình. API Key có thể bị thiếu.",
+        "analysisError": "Lỗi Phân Tích AI: {message}",
+        "scriptError": "Lỗi Tạo Kịch Bản AI: {message}",
+        "generalFailure": "Đã xảy ra lỗi trong quá trình xử lý AI."
+      }
+    }
+  },
+  "desktopStudentList": {
+    "headers": {
+      "stt": "STT",
+      "studentCode": "Mã HV",
+      "fullName": "Họ và Tên",
+      "customerType": "Loại",
+      "package": "Gói Học",
+      "school": "Trường",
+      "class": "Lớp"
+    },
+    "loading": "Đang tải danh sách học viên...",
+    "noStudentsFound": "Không tìm thấy học viên nào phù hợp.",
+    "performSearch": "Vui lòng thực hiện tìm kiếm để xem danh sách học viên."
+  },
+  "languageSwitcher": {
+    "toggleToVietnamese": "Chuyển sang Tiếng Việt",
+    "toggleToEnglish": "Switch to English"
+  },
+  "common": {
+    "na": "N/A",
+    "noData": "Không có dữ liệu",
+    "back": "Quay Lại",
+    "viewDetails": "Xem chi tiết",
+    "selectCategory": "Chọn danh mục",
+    "selectCourse": "Chọn khóa học",
+    "tabsNavigation": "Điều hướng Tab",
+    "sentencePatterns": "Mẫu câu nổi bật"
+  }
+}
